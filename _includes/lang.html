@@ -1,0 +1,18 @@
+{% assign path = page.path | remove_first:'pages' | remove_last %}
+{% if path contains "/en/" %}{% assign siteLang = 'en' %}{% assign LangUrl = '/en/' %}
+{% elsif path contains "/de/" %}{% assign siteLang = 'de' %}{% assign LangUrl = '/de/' %}
+{% elsif path contains "/ru/" %}{% assign siteLang = 'ru' %}{% assign LangUrl = '/ru/' %}
+{% elsif path contains "/fr/" %}{% assign siteLang = 'fr' %}{% assign LangUrl = '/fr/' %}
+{% elsif path contains "/es/" %}{% assign siteLang = 'es' %}{% assign LangUrl = '/es/' %}
+{% elsif path contains "/pt/" %}{% assign siteLang = 'pt' %}{% assign LangUrl = '/pt/' %}
+{% elsif path contains "/id/" %}{% assign siteLang = 'id' %}{% assign LangUrl = '/id/' %}
+{% elsif path contains "/zh_cn/" %}{% assign siteLang = 'zh_cn' %}{% assign LangUrl = '/zh_cn/' %}
+{% elsif path contains "/zh_tw/" %}{% assign siteLang = 'zh_tw' %}{% assign LangUrl = '/zh_tw/' %}
+{% elsif path contains "/it/" %}{% assign siteLang = 'it' %}{% assign LangUrl = '/it/' %}
+{% elsif path contains "/pl/" %}{% assign siteLang = 'pl' %}{% assign LangUrl = '/pl/' %}
+{% elsif path contains "/sc/" %}{% assign siteLang = 'sc' %}{% assign LangUrl = '/sc/' %}
+{% elsif path contains "/th/" %}{% assign siteLang = 'th' %}{% assign LangUrl = '/th/' %}
+{% elsif path contains "/vt/" %}{% assign siteLang = 'vt' %}{% assign LangUrl = '/vt/' %}
+{% else %}
+{% assign siteLang = 'en' %}{% assign LangUrl = '/en/' %}
+{% endif %}
