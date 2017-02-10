@@ -1,0 +1,18 @@
+---
+layout: default
+title: Daily Report
+language: ru
+permalink: /ru/
+---
+{% assign engPosts = site.posts | where: "language", "ru" %}
+{% for post in engPosts limit:10 %}  
+<div class="row list--item">
+	<div class="col-sm-12">
+		<div class="Page-List__item__excerpt">	
+		   <h1>{{ post.title }}</h1>
+			<p class="post--date">{{ post.date | date: "%d.%m.%Y" }}</p>
+		<p>{{ post.content }}</p>	
+		</div>
+	</div>	
+</div>
+{% endfor %}

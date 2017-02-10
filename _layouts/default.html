@@ -1,0 +1,33 @@
+---
+
+---
+<!DOCTYPE html>
+{% include lang.html %}
+<html lang="{{ siteLang }}">
+{% include head.html %}    
+    {% include header.html %}	
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8">	
+				</div>
+				<div class="col-md-4">
+					{% include snippets/share.html %}
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-9">
+					<div class="rte">{{ content }}</div>
+				</div>
+				<div class="col-md-3">
+				</div>
+			</div>
+		</div>
+    
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" defer></script>
+	<script src="{{ '/js/code.js' | prepend: site.url }}" defer></script>
+	<!-- IE10 viewport hack for Surface/desktop Windows 8 bug --> 
+	<script src="{{ '/js/ie10-viewport-bug-workaround.js' | prepend: site.url }}"></script>
+	</body>
+</html>
