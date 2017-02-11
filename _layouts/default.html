@@ -26,8 +26,8 @@ layout:
 		</div>
 		{% include footer.html %}
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" defer></script>
-	<script src="{{ '/js/code.js' }}" defer></script>
+	<script src="{{ '/js/code.js' | relative_url }}" defer></script>
 	<!-- IE10 viewport hack for Surface/desktop Windows 8 bug --> 
-	<script src="{{ '/js/ie10-viewport-bug-workaround.js' }}"></script>
+	<script src="{{ '/js/ie10-viewport-bug-workaround.js' | relative_url }}"></script>
 	</body>
 </html>
