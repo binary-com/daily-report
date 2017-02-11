@@ -22,7 +22,7 @@ At 15.00, we get preliminary UoM customer sentiment.
 ## Trade Idea
 
 The euro has underperformed once again as familiar fault lines emerge. Meanwhile, the Australian dollar continues to outperform, putting pressure on the EUR/ AUD.
-
+<img src="/images/30-01-2017-07-22-44.jpg" alt="Daily Report">
 ![Binary.com Binary Options Trading!]({{site.baseurl }}/images/2017-02-10_06-57-19.jpg)
 
 <a href="%LINK%%?currency=GBP&amp;market=major_pairs&amp;duration_amount=14&amp;duration_units=d&amp;amount=10&amp;amount_type=payout&amp;expiry_type=duration&amp;underlying=frxEURAUD&amp;formname=higherlower&amp;barrier=1.3900" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/AUD will close below 1.3900 in 14 days for a potential return of 122%.</a>
