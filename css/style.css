@@ -29,7 +29,7 @@ summary {
     box-sizing: border-box
 }
 img {
-    max-width: 100%!important;
+    max-width: 100%;
 }
 button {
     color: #fff
@@ -39,95 +39,33 @@ button {
     margin-top: 5px!important
 }
 
-.FBWG {
-    margin-top: 50px
-}
 .fb-like {
     font-size: 18px!important
 }
-.award {
-    width: 15%;
-    margin: 5px 20px
-}
-.Commision--Rates,
-.Testimonials {
-    margin-top: 30px
-}
+
 .Header,
 .Section__License {
     color: #fff
 }
-.Section__License h1 {
-    display: table!important;
-    height: 100%;
-    margin: 50px 0
-}
 
-.Section__License__Logos {
-    color: #fff;
-    font-size: 11px;
-    padding: 5px 0
-}
-.Section__License__Logos img {
-    max-width: 100%;
-}
-.Certificate img {
-    max-width: 150px
-}
-.Testimonials {
-    margin-bottom: 30px;
-    padding: 20px 0
-}
 .strong {
     font-weight: 700
 }
-.binary--section {
-    padding-top: 40px;
-    padding-bottom: 40px
-}
+
 .section {
     border-bottom: 1px solid #DEDEDE
 }
-.iom {
-    width: 85px;
-    padding-top: 10px
-}
-.mga,
-.mifid {
-    padding-top: 25px;
-    width: 150px
-}
-.mifid {
-    float: right;
-    padding-right: 5px
-}
-.mga {
-    margin-left: -20px
-}
-.mfsa {
-    padding-top: 45px
-}
+.list--item {
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #DEDEDE
+	}
+
+
 .legal--info {
     padding-top: 10px
 }
-@media (max-width:480px) {
-    .iom {
-        width: 45px;
-        padding-top: 15px
-    }
-    .mga,
-    .mifid {
-        padding-top: 25px
-    }
-    .mifid {
-        width: 150px;
-        float: right;
-        padding-right: 5px
-    }
-    .mfsa {
-        padding-top: 30px
-    }
-}
+
 a h2:hover {
     color: inherit
 }
@@ -150,6 +88,7 @@ a h2:hover {
 	margin:0;
 }
 #language_select {padding:0px 0;margin-right: 1px;}
+
 .logo-parent {display:block; padding-top:10px; padding-left:1px;}
 .logo {max-width:100%; width:55px;}
 .binary-logo-text {margin-left:-3px; width:178px; margin-top:0px; padding-top:0px;display:inline-table;}
@@ -210,7 +149,7 @@ a h2:hover {
     margin-bottom: 20px;
     text-align: right
 }
-.Payment--Methods,
+
 .Social__nav li a {
     text-align: center
 }
@@ -254,13 +193,6 @@ a h2:hover {
     margin-right: 0;
     color: #444
 }
-.button {
-    margin-bottom: 5px
-}
-.Payment--Methods div,
-.button {
-    display: inline-table
-}
 
 .Social__nav a:hover {
     z-index: 2
@@ -279,158 +211,4 @@ a h2:hover {
     }
 }
 
-
-
-
-#citadel,
-#cuo-credit-card,
-#fastpay,
-#icbc,
-#int_bank_wire,
-#local_bank_transfer,
-#mastercard,
-#moneta,
-#moneybrokers,
-#okpay,
-#paysafecard,
-#perfect_money,
-#qiwi,
-#visa,
-#webmoney,
-#western_union,
-#yandex {
-    width: 72px;
-    height: 57px
-}
-
-#int_bank_wire {
-    background: url(/images/payment_methods_sprite_1.png) -7px -9px no-repeat
-}
-
-#local_bank_transfer {
-    background: url(../images/payment_methods_sprite_1.png) -90px -9px no-repeat
-}
-
-#western_union {
-    background: url(../images/payment_methods_sprite_1.png) -174px -9px no-repeat
-}
-
-#citadel {
-    background: url(../images/payment_methods_sprite_1.png) -257px -9px no-repeat
-}
-
-#visa {
-    background: url(../images/payment_methods_sprite_1.png) -338px -10px no-repeat
-}
-
-#mastercard {
-    background: url(../images/payment_methods_sprite_1.png) -421px -11px no-repeat
-}
-
-#cuo-credit-card {
-    background: url(../images/payment_methods_sprite_1.png) -108px -214px no-repeat
-}
-
-#moneybrokers {
-    background: url(../images/payment_methods_sprite_1.png) -8px -72px no-repeat
-}
-
-#neteller {
-    background: url(../images/payment_methods_sprite_1.png) -90px -72px no-repeat;
-    width: 72px;
-    height: 57px
-}
-
-#moneta {
-    background: url(../images/payment_methods_sprite_1.png) -174px -72px no-repeat
-}
-
-#webmoney {
-    background: url(../images/payment_methods_sprite_1.png) -257px -73px no-repeat
-}
-
-#qiwi {
-    background: url(../images/payment_methods_sprite_1.png) -10px -136px no-repeat
-}
-
-#icbc {
-    background: url(../images/payment_methods_sprite_1.png) -9px -348px no-repeat
-}
-
-#fastpay {
-    background: url(../images/payment_methods_sprite_1.png) -12px -429px no-repeat
-}
-
-#perfect_money {
-    background: url(../images/payment_methods_sprite_1.png) -106px -428px no-repeat
-}
-
-#yandex {
-    background: url(../images/payment_methods_sprite_1.png) -102px -348px no-repeat
-}
-
-#paysafecard {
-    background: url(../images/payment_methods_sprite_1.png) -372px -425px no-repeat
-}
-
-#okpay {
-    background: url(../images/payment_methods_sprite_1.png) -285px -426px no-repeat
-}
-
-#visa_verified {
-    background: url(../images/payment_methods_sprite_1.png) -12px -210px no-repeat;
-    display: inline-block;
-    width: 78px;
-    height: 46px
-}
-
-#securecode {
-    background: url(../images/payment_methods_sprite_1.png) -7px -294px no-repeat;
-    display: inline-block;
-    width: 111px;
-    height: 38px
-}
-
-.xbubble-left,
-.xbubble-right {
-    content: '';
-    width: 0;
-    height: 0;
-    border-style: solid;
-    border-color: #F2F2F2 transparent transparent;
-    position: relative
-}
-
-.xquote {
-    background-color: #F2F2F2;
-    padding: 20px 40px
-}
-
-.xquote p {
-    font-style: italic
-}
-
-.xbubble-right {
-    border-width: 25px 5px 0 10px;
-    left: 80%
-}
-
-.xbubble-left {
-    border-width: 25px 10px 0 5px;
-    left: 10%
-}
-
-.xquoter-left {
-    text-align: left
-}
-
-.xquoter-right {
-    text-align: right
-}
-
-.xquoter-left p span,
-.xquoter-right p span {
-    font-size: 12px;
-    font-style: italic
-}
 
