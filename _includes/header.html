@@ -6,19 +6,19 @@
 					<ul id="display_language">
 						<li class="EN">
 						  <span class="world world-white"></span>
-						  <span class="language">English</span>
+						  <span class="language">{% if siteLang == 'en' %}English{% elsif siteLang == "id" %}Indonesia{% elsif siteLang == "ru" %}Русский{% else %}English{% endif %}</span>
 						  <span class="nav-caret"></span>
 						</li>
 					</ul>
 					<ul id="select_language">
 						<li class="EN">
 							<span class="world world-black"></span>
-							<span class="language">English</span>
+							<span class="language">{% if siteLang == 'en' %}English{% elsif siteLang == "id" %}Indonesia{% elsif siteLang == "ru" %}Русский{% else %}English{% endif %}</span>
 							<span class="nav-caret"></span>
 						</li>
-						<li class="ID">Indonesia</li>
-						<li class="EN invisible">English</li>
-						<li class="RU">Русский</li>
+						<li class="ID {% if siteLang == 'id' %}invisible{% endif %}"><a href="{{ '/id/' | prepend: site.baseurl }}">Indonesia</a></li>
+						<li class="EN {% if siteLang == 'en' %}invisible{% endif %}"><a href="{{ '/' | prepend: site.baseurl }}">English</a></li>
+						<li class="RU {% if siteLang == 'ru' %}invisible{% endif %}"><a href="{{ '/ru/' | prepend: site.baseurl }}">Русский</a></li>
 					 </ul>
 				</div>
 			</div>

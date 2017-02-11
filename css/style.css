@@ -28,6 +28,8 @@ button {
 }
 
 #select_language {z-index:9999!important;}
+#select_language li a:link {color:#000000!important; font-weight:normal!important;}
+#select_language li a:visited {color:#000000!important; font-weight:normal!important;}
 
 .list--item {
 	padding-bottom: 20px;
@@ -133,4 +135,4 @@ a h2:hover {
         line-height: 50px
     }
 }
-#footer {padding:20px 0 ;}
+#footer {padding: 20px 0!important;}
