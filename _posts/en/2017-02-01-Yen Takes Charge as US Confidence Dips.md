@@ -3,7 +3,8 @@ layout: post
 title: "Feb 1st 2017: Yen Takes Charge as US Confidence Dips"
 language: en
 ---
-<h2>Morning Report: 07.00 London</h2>
+## Morning Report: 07.00 London
+
 The US dollar index came in for heavy selling yesterday as Chicago PMI and Consumer Confidence dropped more than expected. There is a mini-recovery in place this morning though after Chinese PMI came in slightly above expectations.
 
 Dollar pairs enjoyed broad gains, with the EUR/USD setting the pace and the GBP/USD bouncing back. Those dollar pairs have eased back this morning as we look ahead to some major US data today.
@@ -12,7 +13,7 @@ The yen pairs saw the biggest losses, though the USD/JPY bounced off the highs a
 
 The NZD/USD is struggling after weaker than expected employment data.
 
-<h2>Coming up today</h2>
+## Coming up today
 
 Coming up today, we have UK manufacturing PMI at 09.30.
 
@@ -24,7 +25,7 @@ At 15.30, we get crude oil inventories.
 
 The main items are the FOMC statement at 19.00, with the federal fund’s rate at the same time.
 
-<h2>Trade Idea</h2>
+## Trade Idea
 
 Gold enjoyed strong gains yesterday, putting the highs back within reach. With the dollar under pressure right now and global unrest causing traders to reach for safe havens, there could be further upside from here.
 

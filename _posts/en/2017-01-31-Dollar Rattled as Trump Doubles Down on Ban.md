@@ -3,14 +3,14 @@ layout: post
 title: "Jan 31st 2017: Dollar Rattled as Trump Doubles Down on Ban"
 language: en
 ---
-<h2>Morning Report: 07.00 London</h2>
+## Morning Report: 07.00 London
 This morning, the US dollar continues to struggle after a volatile session yesterday. The dollar has been unsettled by Trump’s travel ban and the ensuing chaos, though this has not turned to outright negativity just yet.
 
 Against the yen, the dollar has struggled in particular, with the USD/JPY heading back towards the lows and other yen pairs are following suit. The yen has found favour as a safe harbour play, especially as the BoJ opted to keep rates on hold yesterday.
 
 The pound has underperformed so far this week, with the GBP/JPY down 1.72% so far this week and the EUR/GBP making gains.
 
-<h2>Coming up today</h2>
+## Coming up today
 
 Coming up today, we have German retail sales at 07.00.
 
@@ -22,7 +22,7 @@ Canadian GDP follows at 13.30, with RMPI at the same time.
 
 Chicago PMI is released at 14.45, with US CB consumer confidence at 15.00.
 
-<h2>Trade Idea</h2>
+## Trade Idea
 
 The pound has struggled this week as the headline US trade deal now looks like it could come with some difficult strings attached. The GBP/JPY is looking particularly weak as the yen gains momentum.
 
