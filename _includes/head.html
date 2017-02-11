@@ -10,5 +10,13 @@
 	<link rel="stylesheet" href="{{ '/css/flex.min.css' | prepend: site.baseurl }}">
 	<link rel="stylesheet" href="{{ '/css/style.css' | prepend: site.baseurl }}">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">		
+	{% if siteLang == "en" %}
+    <link href="/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts" />
+	{% elsif siteLang == "id" %}
+	<link href="/feed-id.xml" type="application/rss+xml" rel="alternate" title="Laporan" />
+	{% elsif siteLang == "ru" %}
+	<link href="/feed-ru.xml" type="application/rss+xml" rel="alternate" title="Анализ Рынка" />	
+	{% else %}
 	<link href="feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts" />
+	{% endif %}		
 </head>
