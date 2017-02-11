@@ -1,47 +1,57 @@
-<div id="topbar" class="primary-color-dark">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-				    <div class="Top-Bar__contacts font-s">
-					</div>
-				    <div class="Top-Bar__language" id="language_select">
-						<select>
-							<option value="id" {% if siteLang == 'id' %}selected{% endif %}>Bahasa Indonesia</option>
-							<option value="ru" {% if siteLang == 'ru' %}selected{% endif %}>Русский</option>
-							<option value="en" {% if siteLang == 'en' %}selected{% endif %}>English</option>							
-						</select>
-					</div>
+<div class="topbar primary-color-dark">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="languages">
+					<ul id="display_language">
+						<li class="EN">
+						  <span class="world world-white"></span>
+						  <span class="language">English</span>
+						  <span class="nav-caret"></span>
+						</li>
+					</ul>
+					<ul id="select_language">
+						<li class="EN">
+							<span class="world world-black"></span>
+							<span class="language">English</span>
+							<span class="nav-caret"></span>
+						</li>
+						<li class="ID">Indonesia</li>
+						<li class="EN invisible">English</li>
+						<li class="RU">Русский</li>
+					 </ul>
 				</div>
 			</div>
 		</div>
 	</div>	
-	<div id="header">
-		<div class="container">
-			<div class="row">
-				<a href="/">
-					<div class="col-md-6">
-                        <a class="logo-parent" href="/">
-						<div class="logo">
-							<img class="responsive" src="https://style.binary.com/images/logo/symbol.svg" alt="Binary.com">
-						</div>
-						<div class="binary-logo-text">
-							<img class="responsive" src="https://style.binary.com/images/logo/type.svg" alt="Binary Options Trading">
-						</div>
-					</a>    
-					</div>
-				</a>
-				<div class="col-md-6">
-				    {% include snippets/title.html %}				
-			  </div>
-			</div>
-		</div>
-	</div>
-	<div class="Subheader">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-
+</div>
+<div class="dark-blue header">
+	<div class="container">
+		<div class="row">
+				<div class="col-xs-6">
+					<div class="logo-wrapper">
+						<a class="logo-parent" href="/">
+							<div class="logo">
+								<div></div>
+							</div>
+							<div class="mobile-hide binary-logo-text">
+								<div></div>
+							</div>
+						</a>
+					</div>    
 				</div>
+			<div class="col-xs-6">
+				{% include snippets/title.html %}				
+		  </div>
+		</div>
+	</div>
+</div>
+<div class="Subheader">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+
 			</div>
 		</div>
 	</div>
+</div>
