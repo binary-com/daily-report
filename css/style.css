@@ -1,11 +1,3 @@
-.Certificate,
-.Section__License--title,
-.Testimonials,
-.aff-contacts,
-td {
-    text-align: center
-}
-
 article,
 aside,
 details,
@@ -34,33 +26,14 @@ img {
 button {
     color: #fff
 }
-.Header__title {
-    font-weight: 300!important;
-    margin-top: 5px!important
-}
 
-.fb-like {
-    font-size: 18px!important
-}
+#select_language {z-index:9999!important;}
 
-.Header,
-.Section__License {
-    color: #fff
-}
-
-.strong {
-    font-weight: 700
-}
-
-.section {
-    border-bottom: 1px solid #DEDEDE
-}
 .list--item {
 	padding-bottom: 20px;
 	margin-bottom: 20px;
 	border-bottom: 1px solid #DEDEDE
 	}
-
 
 .legal--info {
     padding-top: 10px
@@ -69,66 +42,16 @@ button {
 a h2:hover {
     color: inherit
 }
-.Top-Bar__contacts {
-    display: inline;
-    text-align: right;
-	margin:0;
-}
-.Top-Bar__contacts a {
-    display: inline-block;
-    color: #fff;
-    margin: 0 10px;
-    padding-top: 7px;
-    padding-right: 17px;    
-}
-.Top-Bar__language {
-    display: inline;
-    float: right;
-    text-align: right;
-	margin:0;
-}
-#language_select {padding:0px 0;margin-right: 1px;}
 
-.logo-parent {display:block; padding-top:10px; padding-left:1px;}
-.logo {max-width:100%; width:55px;}
-.binary-logo-text {margin-left:-3px; width:178px; margin-top:0px; padding-top:0px;display:inline-table;}
 .Header__title {
     color: #fff;
     margin: 0;
     padding-top: 10px;
-    text-align: right
+    text-align: right;
+	font-weight: 300!important;
+    margin-top: 5px!important
 }
-@media (max-width:992px) {
-	#topbar, #header {text-align:center;}
-    .Header__title {
-        text-align: center;
-        margin-bottom: 10px
-    }
-    .logo-parent {text-align:center;}
-    .logo{width:55px!important; margin-right:-10px;}
-    .binary-logo-text {visibility:visible!important; display:inline-block!important;}
-}
-@media (max-width:768px) {
-	
-    .Certificate img,
-    #topbar a {
-        display: inline-block;
-        margin: 15px 10px;
-        padding: 10px 0
-    }
-    .Top-Bar__language {
-		display:block;
-        text-align: center;
-        clear: both;
-        width: 100%;
-        padding-bottom: 5px
-    }
-    .Certificate img {
-        margin-top: 20px;
-        margin-bottom: 20px
-    }
-	#language_select {margin-top:0px; margin-bottom:20px;}
-}
+
 .p--action {
     text-align: center!important;
     margin: 30px 0
@@ -210,5 +133,3 @@ a h2:hover {
         line-height: 50px
     }
 }
-
-
