@@ -6,7 +6,7 @@
 					<ul id="display_language">
 						<li class="EN">
 						  <span class="world world-white"></span>
-						  <span class="language">English</span>
+						  <span class="language">{% if siteLang == 'en' %}English{% elsif siteLang == "id" %}Indonesia{% elsif siteLang == "ru" %}Русский{% else %}English{% endif %}</span>
 						  <span class="nav-caret"></span>
 						</li>
 					</ul>
