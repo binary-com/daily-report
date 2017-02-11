@@ -30,3 +30,4 @@ The NZD/USD has enjoyed a surge in interest in the last month or so and this mor
 <a href="%LINK%%?currency=GBP&amp;market=forex&amp;underlying=frxNZDUSD&amp;formname=higherlower&amp;duration_amount=14&amp;duration_units=d&amp;amount=10&amp;amount_type=payout&amp;expiry_type=duration&amp;barrier=0.7350" target="_blank">A good way to play this is a HIGHER trade predicting that the NZD/USD will close above 0.7350 in 14 days for a potential return of 204%.</a>
 
 
+<img src="/images/30-01-2017-07-23-34.jpg" alt="Daily Report">
