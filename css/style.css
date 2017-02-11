@@ -29,6 +29,7 @@ button {
 
 #select_language {z-index:9999!important;}
 #select_language li a:link {color:#000000!important;}
+#select_language li a:visited {color:#000000!important;}
 
 .list--item {
 	padding-bottom: 20px;
