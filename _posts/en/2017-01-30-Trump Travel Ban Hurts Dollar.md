@@ -25,8 +25,8 @@ US pending home sales follow at 15.00.
 
 The NZD/USD has enjoyed a surge in interest in the last month or so and this morning’s dip could be another good chance to reload.
 
-![Daily Report!]({{site.baseurl }}/images/30-01-2017-07-22-44.jpg)
+<img src="/images/30-01-2017-07-22-44.jpg" alt="Daily Report">
 
 <a href="%LINK%%?currency=GBP&amp;market=forex&amp;underlying=frxNZDUSD&amp;formname=higherlower&amp;duration_amount=14&amp;duration_units=d&amp;amount=10&amp;amount_type=payout&amp;expiry_type=duration&amp;barrier=0.7350" target="_blank">A good way to play this is a HIGHER trade predicting that the NZD/USD will close above 0.7350 in 14 days for a potential return of 204%.</a>
 
-![Daily Report!]({{site.baseurl }}/images/30-01-2017-07-23-34.jpg)
+<img src="/images/30-01-2017-07-23-34.jpg" alt="Daily Report">
