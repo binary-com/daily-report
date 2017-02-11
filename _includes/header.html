@@ -13,7 +13,7 @@
 					<ul id="select_language">
 						<li class="EN">
 							<span class="world world-black"></span>
-							<span class="language">English</span>
+							<span class="language">{% if siteLang == 'en' %}English{% elsif siteLang == "id" %}Indonesia{% elsif siteLang == "ru" %}Русский{% else %}English{% endif %}</span>
 							<span class="nav-caret"></span>
 						</li>
 						<li class="ID {% if siteLang == 'id' %}invisible{% endif %}"><a href="{{ '/id/' | prepend: site.baseurl }}">Indonesia</a></li>
