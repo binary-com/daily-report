@@ -3,7 +3,8 @@ layout: post
 title: "Feb 3rd 2017: Dollar Steady Ahead of NFP"
 language: en
 ---
-<h2>Morning Report: 07.00 London</h2>
+## Morning Report: 07.00 London
+
 This morning, the dollar index is holding ground after a solid bounce off the lows yesterday. US unemployment claims came in above expectations yesterday.
 
 The yen is giving up some ground after the USD/JPY bounce off the 112.50 level again.
@@ -12,7 +13,7 @@ The pound is nudging higher after heavy selling yesterday that saw the GBP/USD s
 
 It was a solid day yesterday for the AUD/USD and the pair is holding ground again this morning despite below par Caixin Manufacturing PMI.
 
-<h2>Coming up today</h2>
+## Coming up today
 
 Coming up, we have UK services PMI at 09.30.
 
@@ -22,7 +23,7 @@ FOMC member Evans speaks at 14.15.
 
 At 15.00, we get ISM non manufacturing PMI and factory orders.
 
-<h2>Trade Idea</h2>
+## Trade Idea
 
 The pound and Australian dollar headed in different directions yesterday and this could continue as the UK economy faces risks from Brexit uncertainty.
 

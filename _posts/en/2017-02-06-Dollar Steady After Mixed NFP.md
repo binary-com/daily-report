@@ -3,18 +3,19 @@ layout: post
 title: "Feb 6th 2017: Dollar Steady After Mixed NFP"
 language: en
 ---
-<h2>Morning Report: 07.00 London</h2>
+## Morning Report: 07.00 London
+
 This morning, the US dollar is back on the rise after an indifferent session on Friday. US Non Farm Payrolls came in above expectations, but wage growth slowed.
 
 The USD/JPY continues to mirror the dollar index, with small gains this morning after minor losses on Friday.
 
 Elsewhere, the dollar pairs are generally on the back foot, with the AUD/USD and EUR/USD off by 0.33% and 0.21%. The pound is holding up relatively well, with the GBP/USD unchanged this morning and the EUR/GBP off by 0.20%.
 
-<h2>Coming up today</h2>
+## Coming up today
 
 There are no economic items of note today with European Sentix Investor Confidence probably of most interest from the low tier items.
 
-<h2>Trade Idea</h2>
+## Trade Idea
 
 The Australian dollar is struggling this morning, in line with other dollar pairs. The AUD/USD is slipping back, but the trend remains firmly positive.
 
