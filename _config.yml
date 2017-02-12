@@ -3,7 +3,7 @@ email: marketing@binary.com
 description: > 
   Daily Report
 baseurl: "" 
-url: "" 
+url: "https://dailyreport.binary.com" 
 twitter_username: 
 github_username:  
 
