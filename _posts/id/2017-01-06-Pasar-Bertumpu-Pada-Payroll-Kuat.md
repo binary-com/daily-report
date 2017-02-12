@@ -23,8 +23,8 @@ Anggota FOMC Evans berpidato pada 17.15.
 
 NZD/USD mengikuti AUD/USD yang menguat minggu ini dan meskipun kedua pasangan tersebut mengambil nafas pagi ini, angin masih berhembus ke arah yang tepat.
 
-<img src="/images/2017-01-06_07-13-49.jpg" alt="Daily Report">
+<img class="post-image" src="{{ site.url }}/images/2017-01-06_07-13-49.jpg" alt="{{ page.title }}">
 
 <a href="%LINK%%?currency=USD&amp;market=forex&amp;underlying=frxNZDUSD&amp;formname=higherlower&amp;duration_amount=14&amp;duration_units=d&amp;amount=10&amp;amount_type=payout&amp;expiry_type=duration&amp;barrier=0.71">Cara terbaik untuk memanfaatkan hal ini adalah dengan bertrading HIGHER menganalisa NZD/USD akan ditutup diatas 0.7100 dalam 14 hari dengan potensi laba sekitar 214%.</a>
 
-<img src="/images/Screen-Shot-2017-01-06-at-4.42.30-PM.png" alt="Daily Report">
+<img class="post-image" src="{{ site.url }}/images/Screen-Shot-2017-01-06-at-4.42.30-PM.png" alt="{{ page.title }}">

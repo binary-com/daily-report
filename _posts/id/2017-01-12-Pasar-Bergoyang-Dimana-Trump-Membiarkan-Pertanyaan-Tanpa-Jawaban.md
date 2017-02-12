@@ -21,8 +21,8 @@ Pada pukul 13.30, tersedia klaim pengangguran AS. Pada saat yang sama, tersedia 
 
 Pound lanjut melemah pada GBP/JPY yang mungkin berlanjut dan memberi keuntungan.
 
-<img src="/images/12-01-2017-05-42-22.jpg" alt="Daily Report">
+<img class="post-image" src="{{ site.url }}/images/12-01-2017-05-42-22.jpg" alt="{{ page.title }}">
 
 <a href="%LINK%%?currency=GBP&amp;market=major_pairs&amp;duration_amount=21&amp;duration_units=d&amp;amount=10&amp;amount_type=payout&amp;expiry_type=duration&amp;underlying=frxGBPJPY&amp;formname=higherlower&amp;barrier=138" target="_blank">Cara terbaik untuk memanfaatkan hal ini adalah dengan bertrading LOWER menganalisa GBP/JPY akan ditutup dibawah 138.00 dalam 21 hari dengan potensi laba sekitar 177.8%</a>
 
-<img src="/images/Screen-Shot-2017-01-12-at-5.58.36-PM.png" alt="Daily Report">
+<img class="post-image" src="{{ site.url }}/images/Screen-Shot-2017-01-12-at-5.58.36-PM.png" alt="{{ page.title }}">

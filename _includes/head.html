@@ -11,13 +11,13 @@
 	<link rel="stylesheet" href="{{ '/css/style.css' | prepend: site.baseurl }}">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">		
 	{% if siteLang == "en" %}
-    <link href="/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts" />
+    <link href="{{ site.url }}/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts" />
 	{% elsif siteLang == "id" %}
-	<link href="/feed-id.xml" type="application/rss+xml" rel="alternate" title="Laporan" />
+	<link href="{{ site.url }}/feed-id.xml" type="application/rss+xml" rel="alternate" title="Laporan" />
 	{% elsif siteLang == "ru" %}
-	<link href="/feed-ru.xml" type="application/rss+xml" rel="alternate" title="Анализ Рынка" />	
+	<link href="{{ site.url }}/feed-ru.xml" type="application/rss+xml" rel="alternate" title="Анализ Рынка" />	
 	{% else %}
-	<link href="feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts" />
+	<link href="{{ site.url }}/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts" />
 	{% endif %}		
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 	<script src="https://style.binary.com/binary.js"></script>
