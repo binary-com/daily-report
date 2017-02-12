@@ -8,7 +8,7 @@ layout: null
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-    {% assign engPosts = site.posts | where: "language", "ru" %}
+    {% assign engPosts = site.posts | where: "language", "id" %}
     {% for post in engPosts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
