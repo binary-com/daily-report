@@ -26,8 +26,8 @@ Chicago PMI is released at 14.45, with US CB consumer confidence at 15.00.
 
 The pound has struggled this week as the headline US trade deal now looks like it could come with some difficult strings attached. The GBP/JPY is looking particularly weak as the yen gains momentum.
 
-![Daily Report!]({{site.baseurl }}/images/2017-01-31_06-55-03.jpg)
+<img src="/images/2017-01-31_06-55-03.jpg" alt="Daily Report">
 
 <a href="%LINK%%?currency=GBP&amp;market=forex&amp;underlying=frxGBPJPY&amp;formname=higherlower&amp;duration_amount=14&amp;duration_units=d&amp;amount=10&amp;amount_type=payout&amp;expiry_type=duration&amp;barrier=140" target="_blank">A good way to play this is a LOWER trade predicting that the GBP/JPY closes below 140.00 in 14 days for a potential return of 199%.</a>
 
-![Daily Report!]({{site.baseurl }}/images/2017-01-31_06-53-40.jpg)
+<img src="/images/2017-01-31_06-53-40.jpg" alt="Daily Report">
