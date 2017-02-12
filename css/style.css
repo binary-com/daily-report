@@ -146,5 +146,5 @@ a h2:hover {
 }
 #footer {padding: 20px 0!important;}
 @media only screen and (max-width:480px) {
-.mobile-hide {display:none;}
+.mobile-hide {display:none!important;}
 }
