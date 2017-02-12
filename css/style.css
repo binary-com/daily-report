@@ -53,7 +53,16 @@ a h2:hover {
 	font-weight: 300!important;
     margin-top: 5px!important
 }
-
+/* Sidebar */
+.Blog-Sidebar__section {background-color:#F2F2F2; padding:20px; margin-bottom:20px;}
+.Blog-Sidebar__section ul {list-style-type: none; margin:0; padding:0;}
+.Blog-Sidebar__section ul li { border-bottom:0px solid ##DEDEDE; margin-left:0px; padding:2px 0px; width:100%; }
+.Blog-Sidebar__section ul li  a{font-size:18px; font-weight:700;}
+.Blog-Sidebar__section__full {background-color:#F2F2F2; padding:0px; margin-bottom:20px;}
+.Blog-Sidebar__section__title__full {font-weight:400; padding:20px;}
+.Blog-Sidebar__recent-posts ul {list-style-type: none; }
+.Blog-Sidebar__recent-posts ul li { border-bottom:0px solid ##DEDEDE; margin-left:15px; padding:5px 0px; }
+.Blog-Sidebar__recent-posts ul li  a{}
 .p--action {
     text-align: center!important;
     margin: 30px 0
