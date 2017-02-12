@@ -27,8 +27,8 @@ At 15.00, we get ISM non manufacturing PMI and factory orders.
 
 The pound and Australian dollar headed in different directions yesterday and this could continue as the UK economy faces risks from Brexit uncertainty.
 
-![Daily Report!]({{site.baseurl }}/images/2017-02-03_06-39-18.jpg)
+<img class="post-image" src="{{ site.url }}/images/2017-02-03_06-39-18.jpg" alt="{{ page.title }}">
 
 <a href="%LINK%%?currency=GBP&amp;market=major_pairs&amp;duration_amount=14&amp;duration_units=d&amp;amount=10&amp;amount_type=payout&amp;expiry_type=duration&amp;underlying=frxGBPAUD&amp;formname=higherlower&amp;barrier=1.6300">A good way to play this is a LOWER trade predicting that the GBP/ AUD will close below 1.6300 in 14 days for a potential return for a potential return of 120%.</a>
 
-![Daily Report!]({{site.baseurl }}/images/2017-02-03_06-41-26.jpg)
+<img class="post-image" src="{{ site.url }}/images/2017-02-03_06-41-26.jpg" alt="{{ page.title }}">
