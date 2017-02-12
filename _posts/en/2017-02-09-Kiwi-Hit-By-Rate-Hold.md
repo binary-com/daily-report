@@ -7,8 +7,9 @@ language: en
 
 This morning, the New Zealand dollar is falling heavily after strong selling yesterday. The RBNZ gave strong signals last night that rates will stay on hold until mid-2019. The NZD/USD is off by 0.86% this morning and -1.59% on the week.
 
-The dollar pairs are generally on the back foot though as the US dollar index regains ground. The AUD/USD is holding up well despite its neighbour's troubles.</p>
-<p>The USD/JPY is pushing higher but remains around the lows.
+The dollar pairs are generally on the back foot though as the US dollar index regains ground. The AUD/USD is holding up well despite its neighbour's troubles.
+
+The USD/JPY is pushing higher but remains around the lows.
 
 ## Coming up today
 
