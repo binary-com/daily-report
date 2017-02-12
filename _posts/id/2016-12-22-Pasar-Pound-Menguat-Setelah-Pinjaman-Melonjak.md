@@ -23,8 +23,8 @@ Sementara penjualan emas telah didokumentasikan, pelemahan Perak sudah diluar ra
 
 Logam mulia tersebut juga telah mengikuti tren menurun yang mungkin akan terus berlanjut hingga tahun baru dimana dolar terus menguat.
 
-<img src="/images/2016-12-22_06-54-27.jpg" alt="Daily Report">
+<img class="post-image" src="{{ site.url }}/images/2016-12-22_06-54-27.jpg" alt="{{ page.title }}">
 
 <a href="%LINK%%?currency=GBP&amp;market=metals&amp;duration_amount=22&amp;duration_units=d&amp;amount=10&amp;amount_type=payout&amp;expiry_type=duration&amp;underlying=frxXAGUSD&amp;formname=higherlower&amp;barrier=15.5">Cara terbaik untuk memanfaatkan hal ini adalah dengan bertrading LOWER menganalisa silver (perak) akan ditutup dibawah $15.50 dalam 22 hari dengan potensi laba sekitar 147%.</a>
 
-<img src="/images/Screen-Shot-2016-12-22-at-4.48.07-PM.png" alt="Daily Report">
+<img class="post-image" src="{{ site.url }}/images/Screen-Shot-2016-12-22-at-4.48.07-PM.png" alt="{{ page.title }}">

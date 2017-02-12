@@ -25,8 +25,8 @@ Anggota FOMC Evans berpidato pada 17.15.
 
 Dolar Australia menjadi pemain terbaik minggu ini dan dan mungkin dapat memberi keuntungan besar dengan mengikuti tren ini. Ketika Aussie bergerak, kemungkinan besar akan terbang.
 
-<img src="/images/2017-01-05_07-10-59.jpg" alt="Daily Report">
+<img class="post-image" src="{{ site.url }}/images/2017-01-05_07-10-59.jpg" alt="{{ page.title }}">
 
 <a href="%LINK%%?currency=USD&amp;market=forex&amp;underlying=frxAUDUSD&amp;formname=higherlower&amp;duration_amount=14&amp;duration_units=d&amp;expiry_type=duration&amp;amount=10&amp;amount_type=payout&amp;barrier=0.7400"><strong>Cara terbaik untuk memanfaatkan hal ini adalah dengan bertrading HIGHER menganalisa AUD/USD akan ditutup diatas 0.7400 dalam periode 14 hari dengan kisaran laba sekitar 203.0%.</strong></a>
 
-<img src="/images/Screen-Shot-2017-01-05-at-4.47.47-PM.png" alt="Daily Report">
+<img class="post-image" src="{{ site.url }}/images/Screen-Shot-2017-01-05-at-4.47.47-PM.png" alt="{{ page.title }}">

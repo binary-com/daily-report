@@ -25,8 +25,8 @@ Pukul 15.00, tersedia Penjualan Rumah AS.
 
 Dolar Australia melemah pagi ini, namun masih cukup kuat.
 
-<img src="/images/2017-01-24_07-08-18.jpg" alt="Daily Report">
+<img class="post-image" src="{{ site.url }}/images/2017-01-24_07-08-18.jpg" alt="{{ page.title }}">
 
 <a href="%LINK%%?currency=GBP&amp;market=forex&amp;underlying=frxAUDUSD&amp;formname=higherlower&amp;duration_amount=14&amp;duration_units=d&amp;amount=10&amp;amount_type=payout&amp;expiry_type=duration&amp;barrier=0.7650" target="_blank">Cara terbaik untuk memanfaatkan situasi ini adalah dengan bertrading HIGHER menganalisa AUD/USD akan ditutup diatas 0.7650 dalam 14 hari dengan potensi laba sekitar 214.5%.</a>
 
-<img src="/images/Screen-Shot-2017-01-24-at-5.23.23-PM.png" alt="Daily Report">
+<img class="post-image" src="{{ site.url }}/images/Screen-Shot-2017-01-24-at-5.23.23-PM.png" alt="{{ page.title }}">

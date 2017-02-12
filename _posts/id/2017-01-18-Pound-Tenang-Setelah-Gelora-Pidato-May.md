@@ -29,8 +29,8 @@ Ketua Pengurus Yellen berpidato pada pukul 20.00.
 
 Pound membuat hasil yang menakjubkan kemarin, namun tekanan ini akan menurun berhubung para trader tidak memilih pidato May dan tidak mementingkan persetujuan parlemen.
 
-<img src="/images/2017-01-18_07-03-03.jpg" alt="Daily Report">
+<img class="post-image" src="{{ site.url }}/images/2017-01-18_07-03-03.jpg" alt="{{ page.title }}">
 
 <a href="%LINK%%?currency=USD&amp;market=forex&amp;underlying=frxGBPUSD&amp;formname=higherlower&amp;duration_amount=50&amp;duration_units=d&amp;amount=10&amp;amount_type=payout&amp;expiry_type=duration&amp;barrier=1.2200">Cara terbaik untuk memanfaatkan situasi ini adalah dengan bertrading LOWER yang menganalisa GBP/USD akan ditutup dibawah 1.2200 dalam 50 hari kedepan dengan potensi sekitar 171%.</a>
 
-<img src="/images/Screen-Shot-2017-01-24-at-5.23.23-PM.png" alt="Daily Report">
+<img class="post-image" src="{{ site.url }}/images/Screen-Shot-2017-01-24-at-5.23.23-PM.png" alt="{{ page.title }}">

@@ -21,8 +21,8 @@ Sementara, pasangan dolar sedikit melemah, dimana GBP/USD dibawah prestasi dan b
 
 Wilayah euro masih tertancap dengan ketidakpastian Brexit yang menyakiti kedua belah pihak. Penurunan harga mungkin akan terlihat sebulan kedepan.
 
-<img src="/images/2016-12-20_07-21-49.jpg" alt="Daily Report">
+<img class="post-image" src="{{ site.url }}/images/2016-12-20_07-21-49.jpg" alt="{{ page.title }}">
 
 <a href="%LINK%%?currency=GBP&amp;market=forex&amp;underlying=frxEURUSD&amp;formname=higherlower&amp;duration_amount=23&amp;duration_units=d&amp;amount=10&amp;amount_type=payout&amp;expiry_type=duration&amp;barrier=1.03650" target="_blank">Cara terbaik untuk memanfaatkan hal ini adalah dengan bertrading LOWER menganalisa EUR/USD akan ditutup dibawah 1.03650 dengan potensi laba sekitar 125%. </a>
 
-<img src="/images/Screen-Shot-2016-12-20-at-5.39.33-PM.png" alt="Daily Report">
+<img class="post-image" src="{{ site.url }}/images/Screen-Shot-2016-12-20-at-5.39.33-PM.png" alt="{{ page.title }}">
