@@ -36,7 +36,7 @@ button {
 	margin-bottom: 20px;
 	border-bottom: 1px solid #DEDEDE
 	}
-.post-image {margin:20px 0;}
+.Page-List__item__excerpt img {margin:20px 0;}
 .legal--info {
     padding-top: 10px
 }
