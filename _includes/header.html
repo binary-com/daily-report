@@ -5,9 +5,9 @@
 				<div class="languages">
 					<ul id="display_language">
 						<li class="EN">
-						  <span class="world world-white"></span>
-						  <span class="language">{% if siteLang == 'en' %}English{% elsif siteLang == "id" %}Indonesia{% elsif siteLang == "ru" %}Русский{% else %}English{% endif %}</span>
-						  <span class="nav-caret"></span>
+							<span class="world world-white"></span>
+							<span class="language">{% if siteLang == 'en' %}English{% elsif siteLang == "id" %}Indonesia{% elsif siteLang == "ru" %}Русский{% else %}English{% endif %}</span>
+							<span class="nav-caret"></span>
 						</li>
 					</ul>
 					<ul id="select_language">
@@ -19,7 +19,7 @@
 						<li class="ID {% if siteLang == 'id' %}invisible{% endif %}"><a href="{{ '/id/' | prepend: site.baseurl }}">Indonesia</a></li>
 						<li class="EN {% if siteLang == 'en' %}invisible{% endif %}"><a href="{{ '/' | prepend: site.baseurl }}">English</a></li>
 						<li class="RU {% if siteLang == 'ru' %}invisible{% endif %}"><a href="{{ '/ru/' | prepend: site.baseurl }}">Русский</a></li>
-					 </ul>
+					</ul>
 				</div>
 			</div>
 		</div>
@@ -28,21 +28,21 @@
 <div class="dark-blue header">
 	<div class="container">
 		<div class="row">
-				<div class="col-xs-6">
-					<div class="logo-wrapper">
-						<a class="logo-parent" href="/">
-							<div class="logo">
-								<div></div>
-							</div>
-							<div class="mobile-hide binary-logo-text">
-								<div></div>
-							</div>
-						</a>
-					</div>    
-				</div>
+			<div class="col-xs-6">
+				<div class="logo-wrapper">
+					<a class="logo-parent" href="/">
+						<div class="logo">
+							<div></div>
+						</div>
+						<div class="mobile-hide binary-logo-text">
+							<div></div>
+						</div>
+					</a>
+				</div>    
+			</div>
 			<div class="col-xs-6">
 				{% include snippets/title.html %}				
-		  </div>
+		    </div>
 		</div>
 	</div>
 </div>
@@ -50,7 +50,6 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-
 			</div>
 		</div>
 	</div>
