@@ -19,8 +19,8 @@ There are no economic items of note today with European Sentix Investor Confiden
 
 The Australian dollar is struggling this morning, in line with other dollar pairs. The AUD/USD is slipping back, but the trend remains firmly positive.
 
-![Daily Report!]({{site.baseurl }}/images/2017-02-06_07-32-16.jpg)
+<img class="post-image" src="{{ site.url }}/images/2017-02-06_07-32-16.jpg" alt="{{ page.title }}">
 
 <a href="%LINK%%?currency=GBP&amp;market=forex&amp;underlying=frxAUDUSD&amp;formname=higherlower&amp;duration_amount=14&amp;duration_units=d&amp;amount=10&amp;amount_type=payout&amp;expiry_type=duration&amp;barrier=0.7700" target="_blank">A good way to play this is a HIGHER trade predicting that the AUD/USD will close above 0.7700 in 14 days for a potential return of 144.5%.</a>
 
-![Daily Report!]({{site.baseurl }}/images/2017-02-06_07-35-27.jpg)
+<img class="post-image" src="{{ site.url }}/images/2017-02-06_07-35-27.jpg" alt="{{ page.title }}">

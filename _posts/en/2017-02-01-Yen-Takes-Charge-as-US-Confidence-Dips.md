@@ -29,8 +29,8 @@ The main items are the FOMC statement at 19.00, with the federal fund’s rate a
 
 Gold enjoyed strong gains yesterday, putting the highs back within reach. With the dollar under pressure right now and global unrest causing traders to reach for safe havens, there could be further upside from here.
 
-![Daily Report!]({{site.baseurl }}/images/2017-02-01_05-43-25.jpg)
+<img class="post-image" src="{{ site.url }}/images/2017-02-01_05-43-25.jpg" alt="{{ page.title }}">
 
 <a href="%LINK%%?currency=GBP&amp;market=metals&amp;duration_amount=14&amp;duration_units=d&amp;amount=10&amp;amount_type=payout&amp;expiry_type=duration&amp;underlying=frxXAUUSD&amp;formname=higherlower&amp;barrier=1225" target="_blank">A good way to play this is a HIGHER trade predicting that gold closes above $1225 for a potential return of 180%</a>
 
-![Daily Report!]({{site.baseurl }}/images/2017-02-01_05-43-05.jpg)
+<img class="post-image" src="{{ site.url }}/images/2017-02-01_05-43-05.jpg" alt="{{ page.title }}">

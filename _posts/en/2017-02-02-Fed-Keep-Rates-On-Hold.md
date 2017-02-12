@@ -29,8 +29,8 @@ At 13.30, we have unemployment claims, released alongside preliminary nonfarm pr
 
 The USD/JPY has found support in the 112.50 region, but general trend remains bearish, with further selling this morning.
 
-![Daily Report!]({{site.baseurl }}/images/02-02-2017-06-08-00.jpg)
+<img class="post-image" src="{{ site.url }}/images/02-02-2017-06-08-00.jpg" alt="{{ page.title }}">
 
 <a href="%LINK%%?currency=GBP&amp;market=forex&amp;underlying=frxUSDJPY&amp;formname=higherlower&amp;duration_amount=15&amp;duration_units=d&amp;amount=10&amp;amount_type=payout&amp;expiry_type=duration&amp;barrier=112.0" target="_blank">A good way to play this is a LOWER trade predicting that the USD/JPY will close below 112.00 in 15 days for a potential return of 123%.</a>
 
-![Daily Report!]({{site.baseurl }}/images/02-02-2017-06-09-31.jpg)
+<img class="post-image" src="{{ site.url }}/images/02-02-2017-06-09-31.jpg" alt="{{ page.title }}">
