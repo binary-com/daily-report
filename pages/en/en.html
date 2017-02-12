@@ -9,9 +9,8 @@ permalink: /en/
 <div class="row list--item">
 	<div class="col-sm-12">
 		<div class="Page-List__item__excerpt">	
-		    <h1>{{ post.title }}</h1>
-			<p class="post--date">{{ post.date | date: "%d.%m.%Y" }}</p>
-		<p>{{ post.content }}</p>	
+		    <a href="{{ post.url | prepend: site.url }}"><h1>{{ post.title }}</h1></a>			
+			{{ post.content }}
 		</div>
 	</div>	
 </div>
