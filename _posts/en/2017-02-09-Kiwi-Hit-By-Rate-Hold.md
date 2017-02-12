@@ -20,8 +20,8 @@ UK BOE governor Carney speaks at 18.30
 
 Gold has been a consistent winner of late as global unrest increases, ongoing concerns over Trump, Greek debt and Brexit.
 
-![Daily Report!](images/2017-02-09_07-05-23.jpg)
+<img class="post-image" src="{{ "/images/2017-02-09_07-05-23.jpg" | relative_url }}" alt="Daily Report">
 
 <a href="%LINK%%?currency=GBP&amp;market=metals&amp;duration_amount=14&amp;duration_units=d&amp;amount=10&amp;amount_type=payout&amp;expiry_type=duration&amp;underlying=frxXAUUSD&amp;formname=higherlower&amp;barrier=1250" target="_blank">A good way to play this is a HIGHER trade predicting that gold will close above $1250 in 14 days for a potential return of 143%.</a>
 
-![Daily Report!](/images/2017-02-09_07-08-22.jpg)
+<img class="post-image" src="{{ "/images/2017-02-09_07-08-22.jpg" | relative_url }}" alt="Daily Report">
