@@ -13,7 +13,7 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>Daily Report</description>
-		<content:encoded><![CDATA[ {{ post.content | xml_escape }} ]]></content:encoded>
+		<content:encoded> {{ post.content | xml_escape }} </content:encoded>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
         <link>{{ site.url }}/{{ post.url }}</link>
         <guid isPermaLink="true">{{ site.url }}/{{ post.url }}</guid>
