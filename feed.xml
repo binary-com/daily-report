@@ -33,7 +33,7 @@ layout: null
 					<description>
 						<![CDATA[  
 							{{ post.content | truncatewords: 50 }}		
-						[&#8230;]]]>
+						[&#8230;]</p>]]>
 					</description>
 					<content:encoded>
 						<![CDATA[
