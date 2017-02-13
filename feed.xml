@@ -39,7 +39,7 @@ layout: null
 						<![CDATA[
 							{{ post.content }}
 						]]>
-					</content:encoded>					
+					</content:encoded>						
 				</item>
 			{% endfor %}	
 	</channel>
