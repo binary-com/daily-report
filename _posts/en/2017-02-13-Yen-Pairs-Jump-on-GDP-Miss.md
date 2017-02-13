@@ -5,6 +5,7 @@ language: en
 ---
 ## Morning Report: 07.00 London
 
+
 This morning, the yen pairs have gapped higher after Japanese GDP increased less than expected. The likes of the USD/ JPY jumped higher at the new week open, but have since fallen back towards Friday’s close. The AUD/ JPY is holding those gaps higher though.
 
 The dollar pairs are mixed as the dollar index weakens this morning.
