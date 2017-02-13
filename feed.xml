@@ -1,22 +1,44 @@
 ---
 layout: null
 ---
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>{{ site.name | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-    {% assign engPosts = site.posts | where: "language", "en" %}
-    {% for post in engPosts limit:10 %}
-      <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content }}</description>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ site.url }}/{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}/{{ post.url }}</guid>
-      </item>
-    {% endfor %}
-  </channel>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>{{ site.name }}</title>
+		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+		<link>{{ site.url }}</link>
+		<description>Dave Evans, Market Analyst</description>
+		<lastBuildDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+		<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>Jekyll 3.4.0</generator>
+		<site xmlns="com-wordpress:feed-additions:1">121044883</site>	
+			{% assign engPosts = site.posts | where: "language", "en" %}
+			{% for post in engPosts limit:10 %}
+				<item>
+					<title>{{ post.title | xml_escape }}</title>
+					<link>{{ site.url }}/{{ post.url }}</link>
+					<comments>{{ site.url }}/{{ post.url }}</comments>
+					<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+					<dc:creator><![CDATA[regentbinary]]></dc:creator>
+							<category><![CDATA[Market]]></category>
+					<guid isPermaLink="false">{{ site.url }}/{{ post.url }}</guid>
+					<description><![CDATA[  Daily Report
+									[&#8230;]]]>
+					</description>
+					<content:encoded>
+						<![CDATA[
+							{{ post.content }}
+						]]>
+					</content:encoded>						
+				</item>
+			{% endfor %}	
+	</channel>
 </rss>
