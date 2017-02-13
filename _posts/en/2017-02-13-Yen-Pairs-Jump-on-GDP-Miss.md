@@ -3,7 +3,7 @@ layout: post
 title: "Feb 13th 2017: Yen Pairs Jump on GDP Miss"
 language: en
 ---
-Morning Report, 07.00 London
+## Morning Report: 07.00 London
 
 This morning, the yen pairs have gapped higher after Japanese GDP increased less than expected. The likes of the USD/ JPY jumped higher at the new week open, but have since fallen back towards Friday’s close. The AUD/ JPY is holding those gaps higher though.
 
