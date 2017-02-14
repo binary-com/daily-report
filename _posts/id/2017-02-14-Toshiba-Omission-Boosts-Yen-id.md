@@ -27,6 +27,10 @@ Pada pukul 18.00, anggota FOMC Kaplan berpidato.
 
 Euro terus berjuang sementara Aussie memperoleh keuntungan dari kedekatannya dengan Cina.
 
-<img class="post-image" src="{{ site.url }}/images/Screen Shot 2017-02-14.png" alt="{{ page.title }}">
+<img src="{{ site.url }}/images/Screen Shot 2017-02-14.png" alt="{{ page.title }}">
 
-<a href="%LINK%%?currency=USD&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.3750">Cara terbaik untuk memanfaatkan hal ini adalah dengan bertrading LOWER menganalisa EUR/AUD akan ditutup dibawah 1.3750 dalam 14 hari untuk potensi laba sekitar 157%.</a>
+<a href="{{ site.affurl }}%LINK%%?currency=USD&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.3750">Cara terbaik untuk memanfaatkan hal ini adalah dengan bertrading LOWER menganalisa EUR/AUD akan ditutup dibawah 1.3750 dalam 14 hari untuk potensi laba sekitar 157%.</a>
+
+link
+
+[Cara terbaik untuk memanfaatkan hal ini adalah dengan bertrading LOWER menganalisa EUR/AUD akan ditutup dibawah 1.3750 dalam 14 hari untuk potensi laba sekitar 157%.](%LINK%%?currency=USD&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.3750)
