@@ -4,6 +4,7 @@ description: >
   Daily Report
 baseurl: "" 
 url: "https://dailyreport.binary.com" 
+affurl: ""
 twitter_username: 
 github_username:  
 
