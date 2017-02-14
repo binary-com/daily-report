@@ -26,7 +26,7 @@ img {
 button {
     color: #fff
 }
-.topbar {min-height: 30px; padding-bottom: 5px!important;}
+.topbar {min-height: 25px; padding-top: 2px; padding-bottom: 5px;}
 #select_language {z-index:9999!important;}
 #select_language li a:link {color:#000000!important; font-weight:normal!important;}
 #select_language li a:visited {color:#000000!important; font-weight:normal!important;}
