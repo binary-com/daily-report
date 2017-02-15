@@ -31,6 +31,6 @@ A good way to play this is a LOWER trade predicting that the EUR/ AUD will close
 
 <img class="post-image" src="{{ site.url }}/images/2017-02-14_07-48-16.jpg" alt="{{ page.title }}">
 
-<a href="http://%LINK%%?currency=GBP&amp;market=metals&amp;duration_amount=14&amp;duration_units=d&amp;amount=10&amp;amount_type=payout&amp;expiry_type=duration&amp;underlying=frxXAGUSD&amp;formname=higherlower&amp;barrier=18.1162">A good way to play this is a HIGHER trade predicting that Silver will close above $18.1162 in 14 days for a potential return of 126%.</a>
+<a href="%LINK%%?currency=GBP&amp;market=metals&amp;duration_amount=14&amp;duration_units=d&amp;amount=10&amp;amount_type=payout&amp;expiry_type=duration&amp;underlying=frxXAGUSD&amp;formname=higherlower&amp;barrier=18.1162">A good way to play this is a HIGHER trade predicting that Silver will close above $18.1162 in 14 days for a potential return of 126%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/2017-02-14_07-49-31.jpg" alt="{{ page.title }}">
