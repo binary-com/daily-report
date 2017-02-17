@@ -23,6 +23,6 @@ The euro out-performed yesterday, but this comes despite no real progress in Gre
 
 <img class="post-image" src="{{ site.url }}/images/2017-02-17_06-44-56.jpg" alt="{{ page.title }}">
 
-<a href="http://%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.3750" target="_blank">A LOWER trade predicting that the EUR/AUD will close below 1.3750 in 14 days for a potential return of 208%</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.3750" target="_blank">A LOWER trade predicting that the EUR/AUD will close below 1.3750 in 14 days for a potential return of 208%</a>
 
 <img class="post-image" src="{{ site.url }}/images/2017-02-17_06-54-20.jpg" alt="{{ page.title }}">
