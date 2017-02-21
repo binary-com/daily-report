@@ -9,7 +9,7 @@ This morning, the euro remains under pressure after Matteo Renzi resigned as PM 
 
 Elsewhere, the US dollar index is on the rise, with the main dollar pairs stuck in a tight range these last few weeks. 
 
-The yen pairs look set to rise for the second day in a row, with the USD/JPY up, but the AUD/ JPY struggling.
+The yen pairs look set to rise for the second day in a row, with the USD/JPY up, but the AUD/JPY struggling.
 
 ## Coming up today
 
@@ -23,7 +23,7 @@ FOMC member Kashkari speaks at 13.50.
 
 ## Trade Idea
 
-The euro continues to face many headwinds and while the pound is no bed of roses, the EUR/ GBP could have further to fall.
+The euro continues to face many headwinds and while the pound is no bed of roses, the EUR/GBP could have further to fall.
 
 <img class="post-image" src="{{ site.url }}/images/2017-02-21_07-18-06.jpg" alt="{{ page.title }}">
 
