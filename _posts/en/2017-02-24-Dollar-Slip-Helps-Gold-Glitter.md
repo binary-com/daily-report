@@ -25,8 +25,8 @@ Gold made outsized gains these last two days as the recent highs are finally bre
 
 Gold trends can run and run which makes a HIGHER trade look attractive, especially as interest rate expectations cool off.
 
-<img class="post-image" src="{{ site.url }}/images/2017-02-24_07-34-32.png" alt="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/2017-02-24_07-34-32.jpg" alt="{{ page.title }}">
 
 <a href="%LINK%%?currency=GBP&market=metals&duration_amount=90&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&underlying=frxXAUUSD&formname=higherlower&barrier=1275" target="_blank">A good way to play this is a HIGHER trade predicting that gold will close above $1275 in 90 days for a potential return of 136%</a>
 
-<img class="post-image" src="{{ site.url }}/images/2017-02-24_07-35-31.png" alt="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/2017-02-24_07-35-31.jpg" alt="{{ page.title }}">
