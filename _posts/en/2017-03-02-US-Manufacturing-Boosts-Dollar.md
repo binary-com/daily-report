@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "March 3rd 2017: US Manufacturing Boosts Dollar"
+title: "March 2nd 2017: US Manufacturing Boosts Dollar"
 language: en
 ---
 ## Morning Report: 07.00 London
