@@ -18,8 +18,7 @@ layout: null
 		<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
-		<generator>Jekyll 3.4.0</generator>
-		<site xmlns="com-wordpress:feed-additions:1">121044883</site>	
+		<generator>Jekyll 3.4.0</generator>	
 			{% assign engPosts = site.posts | where: "language", "ru" %}
 			{% for post in engPosts limit:10 %}
 				<item>
