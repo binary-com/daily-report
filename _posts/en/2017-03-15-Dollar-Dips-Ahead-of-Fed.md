@@ -27,10 +27,9 @@ The main event is the FOMC statement and economic projections at 18.00. The pres
 
 The EUR/GBP has continued its down swing after a brief Scottish independence curve-ball. Markets like certainty and at the very least, the Brexit trigger will provide some certainty for traders which could mean lower prices for the EUR/GBP. 
 
-A good way to play this is a LOWER trade predicting that the EUR/GBP will close below 0.8600 in 14 days for a potential return of 231%.
 
 <img class="post-image" src="{{ site.url }}/images/2017-03-15_07-06-58.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.8600" target="_blank">A good way to play this is a LOWER trade predicting that the GBP/ USD will close below 1.2100 in 14 days for a potential return of 125%</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.8600" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/ GBP will close below 0.8600 in 14 days for a potential return of 231%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/2017-03-15_07-08-14.jpg" alt="{{ page.title }}" title="{{ page.title }}">
