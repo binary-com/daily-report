@@ -15,6 +15,18 @@ The USD/JPY looks set for some follow on selling this morning after picking up l
 
 Meanwhile, gold and silver are enjoying their best session in weeks.
 
+
+## Coming up today
+
+Coming up today, we have the UK rate statement at 12.00, with no change expected. 
+
+Canadian foreign securities purchases follow at 12.30
+
+At the same time from the US we get building permits, Philly Fed Manufacturing and unemployment claims. 
+
+US JOLTS job openings follow at 13.00
+
+
 ## Trade Idea
 
 The USD/JPY is slipping lower and there could well be further downside as analysts adjust their forecasts.
