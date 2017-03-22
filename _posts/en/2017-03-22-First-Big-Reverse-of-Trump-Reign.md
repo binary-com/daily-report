@@ -26,6 +26,6 @@ The yen is in demand as investors flee to the perceived safe haven. Confidence i
 
 <img class="post-image" src="{{ site.url }}/images/2017-03-22_07-24-35.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=7&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=111.00" target="_blank">The USD/ JPY could have further to fall and a good way to play this is a LOWER trade predicting that the USD/ JPY will close below 111.00 in 7 days for a potential return of 167%</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=7&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=111.00" target="_blank">The USD/JPY could have further to fall and a good way to play this is a LOWER trade predicting that the USD/JPY will close below 111.00 in 7 days for a potential return of 167%</a>
 
 <img class="post-image" src="{{ site.url }}/images/2017-03-22_07-25-47.jpg" alt="{{ page.title }}" title="{{ page.title }}">
