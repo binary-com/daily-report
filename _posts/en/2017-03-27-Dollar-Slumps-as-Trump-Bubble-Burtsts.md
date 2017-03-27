@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "March 27th 2017: Dollar Slumps as Trump Bubble Burtsts"
+title: "March 27th 2017: Dollar Slumps as Trump Bubble Bursts"
 language: en
 ---
 ## Morning Report: 07.00 London
