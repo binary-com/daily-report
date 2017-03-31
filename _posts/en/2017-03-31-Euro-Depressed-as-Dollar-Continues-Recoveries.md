@@ -11,7 +11,7 @@ Meanwhile, the dollar's recovery remains on track after US GDP came in above exp
 
 The yen pairs continue to climb, mirroring the US dollar's gains. 
 
-The AUD/ USD and NZD/USD continue to suffer though with both pairs underperforming over the last two days.
+The AUD/USD and NZD/USD continue to suffer though with both pairs underperforming over the last two days.
 
 
 ## Coming up today
