@@ -31,11 +31,9 @@ ECB President Draghi speaks at 14.30.
 
 The Australian dollar is showing some inherant weakness and this is not helped by this morning's dovish RBA statement.
 
-With most central bankers reportingly preferring the pound over the euro, we could well see further downside from here.
-
 
 <img class="post-image" src="{{ site.url }}/images/2017-04-04_07-33-02.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=21&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=0.7500" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/ USD will close below AUD/ USD for a potential return of 0.7500 in 21 days for a potential return of 206%</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=21&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=0.7500" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7500 in 21 days for a potential return of 206%</a>
 
 <img class="post-image" src="{{ site.url }}/images/2017-04-04_07-31-48.jpg" alt="{{ page.title }}" title="{{ page.title }}">
