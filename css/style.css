@@ -48,9 +48,6 @@ button {
 .legal--info {
     padding-top: 10px
 }
-h1 a {
-    font-weight: 300!important;
-}
 h1 a:hover {
     color: inherit;
 }
