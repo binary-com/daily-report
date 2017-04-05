@@ -49,7 +49,7 @@ button {
     padding-top: 10px
 }
 a h1:hover {
-    color: #E98024;
+    color: #E98024!important;
 }
 a h2:hover {
     color: inherit;
