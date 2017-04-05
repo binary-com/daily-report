@@ -49,10 +49,10 @@ button {
     padding-top: 10px
 }
 a h1:hover {
-    color: inherit
+    color: #E98024;
 }
 a h2:hover {
-    color: inherit
+    color: inherit;
 }
 
 .Header__title {
