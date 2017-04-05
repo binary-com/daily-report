@@ -48,8 +48,8 @@ button {
 .legal--info {
     padding-top: 10px
 }
-a h1:hover {
-    color: #E98024!important;
+h1 a:hover {
+    color: inherit;
 }
 a h2:hover {
     color: inherit;
