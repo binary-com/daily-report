@@ -25,6 +25,6 @@ This could continue as French elections cause uncertainty across the region.
 
 <img class="post-image" src="{{ site.url }}/images/2017-04-10_07-48-51.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=touchnotouch&duration_amount=7&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.050" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the EUR/ USD will touch 1.0500 within the next 7 days for a potential return of 117%</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=touchnotouch&duration_amount=7&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.050" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the EUR/USD will touch 1.0500 within the next 7 days for a potential return of 117%</a>
 
 <img class="post-image" src="{{ site.url }}/images/2017-04-10_07-50-50.jpg" alt="{{ page.title }}" title="{{ page.title }}">
