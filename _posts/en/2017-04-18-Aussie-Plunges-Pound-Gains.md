@@ -9,7 +9,7 @@ This morning, the US dollar remains on the front foot despite speculation that T
 
 Most yen pairs are unchanged this morning after strong gains yesterday across the board. The AUD/JPY is weak though. 
 
-The Australian dollar is under performing across its various parings. This follows the release of the last monetary policy meeting minutes. The AUD/JPY is now down nearly 3% for April. 
+The Australian dollar is under performing across its various pairings. This follows the release of the last monetary policy meeting minutes. The AUD/JPY is now down nearly 3% for April. 
 
 The British pound is performing well by contrast, with the GBP/JPY up 0.89%. 
 
