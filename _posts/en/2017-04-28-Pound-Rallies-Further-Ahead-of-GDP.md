@@ -22,7 +22,7 @@ European CPI flash data follows at 09.00.
 
 At 12.30, we get Canadian GDP and RMPI. 
 
-At the same time, we get Advance US GDP and Emplpoyment cost index. 
+At the same time, we get Advance US GDP and Employment cost index. 
 
 At 13.45, we get Chicago PMI, with revised UoM consumer sentiment. 
 
