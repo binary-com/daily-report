@@ -35,6 +35,6 @@ The pound has performed well this week and is well poised despite the looming el
 
 <img class="post-image" src="{{ site.url }}/images/2017-04-28_06-55-20.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=higherlower&duration_amount=21&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.3000" target="_blank">A good way to play this is a HIGHER trade predicting that the GBP/ USD will close above 1.3000 in 21 days for a potential return of 146%</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=higherlower&duration_amount=21&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.3000" target="_blank">A good way to play this is a HIGHER trade predicting that the GBP/USD will close above 1.3000 in 21 days for a potential return of 146%</a>
 
 <img class="post-image" src="{{ site.url }}/images/2017-04-28_06-56-07.jpg" alt="{{ page.title }}" title="{{ page.title }}">
