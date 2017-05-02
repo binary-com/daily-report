@@ -11,7 +11,7 @@ The dollar pairs are mixed, with the the AUD/USD lower after the RBA meeting in 
 
 The yen pairs have a firm positive bias, with the EUR/JPY leading the way. 
 
-The euro appears to have recovered its poise this morning, with the EUR/ GBP back on the rise despite negative reports from the weekend's meeting between May and Junker.
+The euro appears to have recovered its poise this morning, with the EUR/GBP back on the rise despite negative reports from the weekend's meeting between May and Junker.
 
 
 ## Coming up today
@@ -21,7 +21,7 @@ Coming up today, we have UK manufacturing PMI at 09.30 preceded by Spanish manuf
 
 ## Trade Idea
 
-The USD/JPY appears to be picking up momentum and this could well continue. More than other pairs, the USD/ JPY's trends can run and run. 
+The USD/JPY appears to be picking up momentum and this could well continue. More than other pairs, the USD/JPY's trends can run and run. 
 
 <img class="post-image" src="{{ site.url }}/images/02-05-2017 08-02-19.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
