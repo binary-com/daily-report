@@ -16,14 +16,14 @@ The euro remains subdued with the EUR/GBP set for another negative session, whil
 
 Coming up today, we have ECB President Draghi speaking at 12.00. 
 
-This is followed byb US import prices at 12.30 and crude oil inventories at 14.30. 
+This is followed by US import prices at 12.30 and crude oil inventories at 14.30. 
 
 We have the RBNZ cash rate at 21.00.
 
 
 ## Trade Idea
 
-The GBP/ JPY has continued its remarkable run, with minor gains again this morning. 
+The GBP/JPY has continued its remarkable run, with minor gains again this morning. 
 
 
 <img class="post-image" src="{{ site.url }}/images/2017-05-10_07-09-22.jpg" alt="{{ page.title }}" title="{{ page.title }}">
