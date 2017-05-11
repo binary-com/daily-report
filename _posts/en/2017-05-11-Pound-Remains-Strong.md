@@ -16,7 +16,7 @@ The USD/CAD's uptrend is getting back on track, helped by the renewed weakness i
 
 ## Coming up today
 
-Coming up today, we have UK manfucturing production at 08.30, released alongside Goods trade balance. 
+Coming up today, we have UK manufacturing production at 08.30, released alongside Goods trade balance. 
 
 At 09.00, we get EU Economic Forecasts.
 
