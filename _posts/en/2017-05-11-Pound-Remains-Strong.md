@@ -34,8 +34,8 @@ The NZD/USD's downtrend has mirrored the AUD/USD, though has gone somewhat under
 There could be further downside from here, especially as the commodity retreat continues.  
 
 
-<img class="post-image" src="{{ site.url }}/images/2017-05-10_07-09-22.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/11-may-17.png" alt="{{ page.title }}" title="{{ page.title }}">
 
 <a href="%LINK%%?currency=GBP&market=forex&underlying=frxNZDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.6800" target="_blank">A good way to play this is a LOWER trade predicting that the NZD/ USD will close below 0.6800 in 14 days for a potential return of 158%</a>
 
-<img class="post-image" src="{{ site.url }}/images/2017-05-10_07-10-51.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/ru-11-may-17.png" alt="{{ page.title }}" title="{{ page.title }}">
