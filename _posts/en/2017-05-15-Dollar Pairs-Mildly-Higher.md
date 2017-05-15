@@ -23,7 +23,7 @@ Theresa May speaks at 19.00.
 
 ## Trade Idea
 
-The USD/JPY is back on the rise this morning, with the previous two sessions hardly dentingn the uptrend since mid April.  
+The USD/JPY is back on the rise this morning, with the previous two sessions hardly denting the uptrend since mid April.  
 
 
 <img class="post-image" src="{{ site.url }}/images/2017-05-15_07-50-44.jpg" alt="{{ page.title }}" title="{{ page.title }}">
