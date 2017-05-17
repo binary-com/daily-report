@@ -22,7 +22,7 @@ Coming up today, we have UK average earnings index, claimant count change and un
 
 At 09.00, we get final European CPI. 
 
-Canadian manfuacturing sales follows at 12.30. 
+Canadian manufacturing sales follows at 12.30. 
 
 At 14.30, we get crude oil inventories.
 
