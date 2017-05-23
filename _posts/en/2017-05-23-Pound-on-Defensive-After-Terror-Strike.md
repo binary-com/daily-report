@@ -34,6 +34,6 @@ The Australian dollar is putting a strong run together and with the US dollar co
 
 <img class="post-image" src="{{ site.url }}/images/2017-05-23_07-46-46.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7525" target="_blank">A good way to play this is a HIGHER trade predicting that the AUD/ USD will close above 0.7525 for a potential return of 130%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7525" target="_blank">A good way to play this is a HIGHER trade predicting that the AUD/USD will close above 0.7525 for a potential return of 130%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/2017-05-23_07-47-37.jpg" alt="{{ page.title }}" title="{{ page.title }}">
