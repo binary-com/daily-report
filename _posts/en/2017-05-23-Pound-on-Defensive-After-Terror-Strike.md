@@ -19,7 +19,7 @@ Today, we have German Ifo Business climate, flash manufacturing PMI and flash se
 
 At 08.30, we get the latest UK public sector net borrowing figures, with the latest inflation report hearings at 09.00. 
 
-Canadian Wholsale sales follow at 12.30. 
+Canadian Wholesale sales follow at 12.30. 
 
 FOMC member Kashkari speaks at 13.00. 
 
