@@ -9,7 +9,7 @@ OPEC agreed to cut oil production yesterday, but by lesser amount than expected,
 
 The USD/CAD saw the biggest moves, with the USD/CAD rallying. The US dollar rallied as the Canadian dollar slipped lower. 
 
-The GBP/USD has under performed other struggling dollar pairs after GDP estimates dropped below expecations yesterday. The EUR/GBP extended its rally as a result. 
+The GBP/USD has under performed other struggling dollar pairs after GDP estimates dropped below expectation yesterday. The EUR/GBP extended its rally as a result. 
 
 The yen pairs are generally lower, but the GBP/JPY has seen the steepest declines, down 0.81% this morning. 
 
