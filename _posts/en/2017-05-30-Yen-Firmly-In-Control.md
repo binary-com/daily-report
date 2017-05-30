@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "May 30th: Yen Firmly Firmly In Control"
+title: "May 30th: Yen Firmly In Control"
 language: en
 ---
 ## Morning Report: 07.00 London
