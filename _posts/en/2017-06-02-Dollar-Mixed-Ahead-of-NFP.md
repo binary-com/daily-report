@@ -27,6 +27,6 @@ The New Zealand dollar has been in a moderate uptrend for the last 30 days and t
 
 <img class="post-image" src="{{ site.url }}/images/2017-06-02_06-47-39.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxNZDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7125" target="_blank">There could still be some good upside from here though and a good way to play this is a HIGHER trade predicting that the NZD/USD will close above 157%</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxNZDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7125" target="_blank">There could still be some good upside from here though and a good way to play this is a HIGHER trade predicting that the NZD/USD will close above 0.7125 in 14 days for a potential return of 157%</a>
 
 <img class="post-image" src="{{ site.url }}/images/2017-06-02_06-49-30.jpg" alt="{{ page.title }}" title="{{ page.title }}">
