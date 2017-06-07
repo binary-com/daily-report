@@ -19,7 +19,7 @@ Coming up today, we have UK Halifax HPI at 08.30.
 
 At 13.30, we get Canadian Building Permits. 
 
-Crude oui inventories follow at 15.30. 
+Crude Oil inventories follow at 15.30. 
 
 ## Trade Idea
 
