@@ -25,7 +25,7 @@ BOC governor Poloz speaks at 16.15.
 
 ## Trade Idea
 
-The Corbyn surge has taken many by suprise in the UK election, but judging by various polls and betting markets, it is unlikely to be enough to stop a conservative majority. 
+The Corbyn surge has taken many by surprise in the UK election, but judging by various polls and betting markets, it is unlikely to be enough to stop a conservative majority. 
 
 <img class="post-image" src="{{ site.url }}/images/2017-06-08_07-30-07.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
