@@ -25,7 +25,7 @@ with the UK at the epicentre of political uncertainty, it may be worth looking a
 
 In these light, the NZD/USD appears to be a bastion of calm with a consistent up trend over the last few weeks.
 
-<img class="post-image" src="{{ site.url }}/2017-06-09_07-33-39.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/2017-06-09_07-33-39.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
 <a href="%LINK%%?currency=GBP&market=forex&underlying=frxNZDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7250" target="_blank">A good way to play this is a HIGHER trade predicting that the NZD/USD will close above 0.7250 in 14 days for a potential return of 150%</a>
 
