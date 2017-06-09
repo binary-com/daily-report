@@ -15,9 +15,9 @@ Meanwhile, gold has continued to retreat from the highs, posting its third loss 
 
 ## Coming up today
 
-Coming up today, we have UK manufacturingn production at 09.30, released alongside goods trade balance. 
+Coming up today, we have UK manufacturing production at 09.30, released alongside goods trade balance. 
 
-At 13.30, we have the Canadian employement change and unemployment rate data. 
+At 13.30, we have the Canadian employment change and unemployment rate data. 
 
 ## Trade Idea
 
