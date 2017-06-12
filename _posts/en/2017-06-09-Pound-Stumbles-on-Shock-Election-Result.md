@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "June 12th 2017: Pound Stumbles on Shock Election Result"
+title: "June 9th 2017: Pound Stumbles on Shock Election Result"
 language: en
 ---
 ## Morning Report: 07.00 London
