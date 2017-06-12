@@ -25,6 +25,6 @@ A new government is being formed, but negative ruminations could continue for we
 
 <img class="post-image" src="{{ site.url }}/images/2017-06-12_07-17-12.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxNZDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7250" target="_blank">A good way to play this is a LOWER trade predicting that the GBP/JPY will close below 140.00 in 10 days for a potential return of 144%</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=10&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=140" target="_blank">A good way to play this is a LOWER trade predicting that the GBP/JPY will close below 140.00 in 10 days for a potential return of 144%</a>
 
 <img class="post-image" src="{{ site.url }}/images/2017-06-12_07-18-50.jpg" alt="{{ page.title }}" title="{{ page.title }}">
