@@ -5,7 +5,7 @@ language: en
 ---
 ## Morning Report: 07.00 London
 
-This morning, the British pound remains strong after yesterday's revalation that the Bank of England had closer than expected to raising interest rates. A feared inflation spike is thought to be behind this move, helping the EUR/GBP to trade lower and the GBP/JPY to push higher. 
+This morning, the British pound remains strong after yesterday's revelation that the Bank of England had closer than expected to raising interest rates. A feared inflation spike is thought to be behind this move, helping the EUR/GBP to trade lower and the GBP/JPY to push higher. 
 
 Meanwhile, the USD/JPY continues to trade higher as the dollar takes control following better than expected manufacturing data. 
 
