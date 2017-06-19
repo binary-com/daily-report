@@ -9,9 +9,9 @@ Markets are generally quiet this morning, as the macro environment generally rem
 
 The pound is softer though after Chancellor Hammond confirmed that the UK would pursue Brexit without the single market, a so called 'hard Brexit'
 
-The dollar and dollar pairs are mixed this morning with the AUD/ USD slipping lower and the EUR/ USD making small gains. 
+The dollar and dollar pairs are mixed this morning with the AUD/USD slipping lower and the EUR/USD making small gains. 
 
-The NZD/ USD gapped higher at the open, but has since fallen back. 
+The NZD/USD gapped higher at the open, but has since fallen back. 
 
 Gold continues to struggle. 
 
