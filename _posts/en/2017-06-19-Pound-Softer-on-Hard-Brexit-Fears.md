@@ -27,6 +27,6 @@ Gold is continuing its down trend and this could continue as investors seek out 
 
 <img class="post-image" src="{{ site.url }}/images/2017-06-19_07-41-20.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=metals&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&underlying=frxXAUUSD&formname=higherlower&barrier=1245" target="_blank">A good way to play this is a LOWER trade predicting that gold will close below $1245 in 14 days for a potential return of 133%/a>
+<a href="%LINK%%?currency=GBP&market=metals&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&underlying=frxXAUUSD&formname=higherlower&barrier=1245" target="_blank">A good way to play this is a LOWER trade predicting that gold will close below $1245 in 14 days for a potential return of 133%</a>
 
 <img class="post-image" src="{{ site.url }}/images/2017-06-19_07-43-03.jpg" alt="{{ page.title }}" title="{{ page.title }}">
