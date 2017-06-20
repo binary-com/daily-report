@@ -19,7 +19,7 @@ Gold remains soft however.
 
 Coming up today, we have the Mansion House speech from BOE Governor Carney and Chancellor Hammond. 
 
-SNB Chairman Jordan speaks at 21.45.
+SNB Chairman Jordan speaks at 09.45.
 
 Canadian Wholesale sales are released at 13.30, alongside US current account. 
 
