@@ -29,6 +29,6 @@ The NZD/USD has been one of the more consistent performers of late and this coul
 
 <img class="post-image" src="{{ site.url }}/images/2017-06-20_07-23-23.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxNZDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7350" target="_blank">A good way to play this is a HIGHER trade predicting that the NZD/USD will close above above 0.7350 in 14 days for a potential return of 231%</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxNZDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7350" target="_blank">A good way to play this is a HIGHER trade predicting that the NZD/USD will close above 0.7350 in 14 days for a potential return of 231%</a>
 
 <img class="post-image" src="{{ site.url }}/images/2017-06-20_07-29-46.jpg" alt="{{ page.title }}" title="{{ page.title }}">
