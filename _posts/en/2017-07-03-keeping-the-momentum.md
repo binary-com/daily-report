@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "July 3rd 2017: AUD/JPY is keeping the momentum"
+title: "July 3rd 2017: AUD/JPY is keeps momentum"
 language: en
 ---
 ## Morning Report: 07.00 London
