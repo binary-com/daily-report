@@ -5,7 +5,7 @@ language: en
 ---
 ## Morning Report: 07.00 London
 
-This morning, the US dollar is recovering, forcing dollar pairs lower this morning. All major dollar pairs are on the back foot, with the NZD/USD slightly out pacing other pairs, down 0.29%.
+This morning, the US dollar is recovering, forcing dollar pairs lower. All major dollar pairs are on the back foot, with the NZD/USD slightly out pacing other pairs, down 0.29%.
 
 The EUR/GBP remains on the back foot with the EUR/GBP trading down for third day out of four. 
 
