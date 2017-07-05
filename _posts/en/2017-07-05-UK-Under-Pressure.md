@@ -5,7 +5,7 @@ language: en
 ---
 ## Morning Report: 07.00 London
 
-This morning, the British pound remains under pressure after construction PMI dropped slightly below expectations yesterday. The EUR/GBP is rising this morning, with the GBP/USD down for a third straight day in a row. 
+This morning, the British pound remains under pressure after construction PMI dropped slightly below expectations yesterday. The EUR/GBP is rising this morning, with the GBP/USD down for a third straight day. 
 
 The US dollar is on the rise again this morning after markets closed for Independence Day. 
 
