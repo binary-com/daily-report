@@ -27,7 +27,7 @@ US Crude oil inventories follow at 16.00
 
 ## Trade Idea
 
-The late June spurt is starting to unwind for the EUR/USD but there could be further to fall. 
+The late June spurt is starting to unwind for the EUR/USD but there could be a further fall in price levels. 
 
 <img class="post-image" src="{{ site.url }}/images/2017-07-06-001.png" alt="{{ page.title }}" title="{{ page.title }}">
 
