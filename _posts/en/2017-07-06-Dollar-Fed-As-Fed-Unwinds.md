@@ -29,7 +29,7 @@ US Crude oil inventories follow at 16.00
 
 The late June spurt is starting to unwind for the EUR/USD but there could be further to fall. 
 
-<img class="post-image" src="{{ site.url }}/images/2017-07-06-001.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/2017-07-06-001.png" alt="{{ page.title }}" title="{{ page.title }}">
 
 <a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.1200" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/USD will close below 1.1200 within the next 14 days for a potential return of 133%</a>
 
