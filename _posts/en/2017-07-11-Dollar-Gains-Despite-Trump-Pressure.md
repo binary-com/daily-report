@@ -9,7 +9,7 @@ keywords: Dollar pairs are under pressure EUR/USD down
 
 This morning, the dollar index is on the rise again despite renewed pressure on Trump's Presidency. Revelations of links between Donald Trump Jr and Russia have failed to impact the US dollar. Dollar pairs are under pressure, with the EUR/USD down for the third day in a row.
 
-The shining light is the AUD/USD which is up by Th0.2%. The AUD/JPY is one of the top movers today, up 0.5%.
+The shining light is the AUD/USD which is up by 0.2%. The AUD/JPY is one of the top movers today, up 0.5%.
 
 The yen pairs are on the rise across the board, led by the AUD/JPY. The GBP/JPY is up 0.35%.
 
@@ -27,7 +27,7 @@ At 15.00, we get JOLTS job openings, followed by FOMC member Brainard speaking a
 
 ## Trade Idea
 
-The USD/JPY is pipping the May highs this morning and this could continue, with a health trend supporting the recent move.  
+The USD/JPY is pipping the May highs this morning and this could continue, with a healthy trend supporting the recent move.  
 
 <img class="post-image" src="{{ site.url }}/images/2017-07-11_07-34-02.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
