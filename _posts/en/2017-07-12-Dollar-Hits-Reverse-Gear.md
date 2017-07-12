@@ -2,8 +2,8 @@
 layout: post
 title: "July 12th 2017: Dollar Hits Reverse Gear"
 language: en
-description: Dollar pairs are under pressure, with the EUR/USD down for the third day in a row
-keywords: Dollar pairs are under pressure EUR/USD down
+description: The dollar pairs are mixed, with the AUD/USD continuing to rise, but the GBP/USD sinking for its fourth day in a row
+keywords: dollar pairs mixed AUD/USD rise
 ---
 ## Morning Report: 07.00 London
 
