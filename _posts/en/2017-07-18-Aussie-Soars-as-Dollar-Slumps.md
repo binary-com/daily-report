@@ -31,6 +31,6 @@ We've been a backer of the AUD/USD in recent months and despite today's rise, th
 
 <img class="post-image" src="{{ site.url }}/images/2017-07-18_07-15-10.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=89.00" target="_blank">A good way to play this is a HIGHER trade predicting that the AUD/USD will close above 89.00 in 14 days for a potential return of 115%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=89.00" target="_blank">A good way to play this is a HIGHER trade predicting that the AUD/JPY will close above 89.00 in 14 days for a potential return of 115%.</a>
 
-<img class="post-image" src="{{ site.url }}/images/2017-07-18_07-16-44.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/en-18-july-17.png" alt="{{ page.title }}" title="{{ page.title }}">
