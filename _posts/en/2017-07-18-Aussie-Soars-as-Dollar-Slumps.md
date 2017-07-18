@@ -17,7 +17,7 @@ After a brief rally yesterday, the USD/CAD is back on the slide again this morni
 
 ## Coming up today
 
-We start the day with UK CPI, PPI and PPI at 09.30. 
+We start the day with UK CPI, RPI and PPI at 09.30. 
 
 At 10.00, we get German ZEW economic sentiment. 
 
