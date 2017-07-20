@@ -8,5 +8,5 @@ twitter_username:
 github_username:  
 
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
