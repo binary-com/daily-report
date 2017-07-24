@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "July 24th 2017: Euro Shoots Higher on Tightening Talk"
+title: "July 24th 2017: US dollar performing better"
 language: en
-description: The euro is storming higher on the back of ECB tightening comments, but this merely extends the recent trend that has been running throughout 2017
+description: The US dollar is performing better despite the latest report continuing to predict moderate global growth as Trumps plans remain stalled
 keywords: dollar index euro
 ---
 ## Morning Report: 07.00 London
