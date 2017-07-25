@@ -3,7 +3,7 @@ layout: post
 title: "July 25th 2017: Dollar Backs Off on Mixed Alphabet Results"
 language: en
 description: The dollar pairs are on the rise this morning as the dollar backs off after last night's mixed results from Alphabet, Google's parent company
-keywords: dollar index
+keywords: dollar index pairs
 ---
 ## Morning Report: 07.00 London
 
