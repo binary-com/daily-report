@@ -29,6 +29,6 @@ The AUD/JPY has recovered from its recent impasse and is showing no signs of a s
 
 <img class="post-image" src="{{ site.url }}/images/2017-07-27_07-13-35.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=91.00" target="_blank">A good way to play this could be ONE TOUCH trade predicting that the AUD/USD will touch 91.00 within 14 days for a potential return of 178%</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=91.00" target="_blank">A good way to play this could be ONE TOUCH trade predicting that the AUD/JPY will touch 91.00 within 14 days for a potential return of 178%</a>
 
 <img class="post-image" src="{{ site.url }}/images/2017-07-27_07-16-12.jpg" alt="{{ page.title }}" title="{{ page.title }}">
