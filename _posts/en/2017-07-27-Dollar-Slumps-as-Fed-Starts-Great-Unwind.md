@@ -7,7 +7,7 @@ keywords: dollar index pairs
 ---
 ## Morning Report: 07.00 London
 
-Last night, the Fed opted to keep rates on hold yesterday, but more significantly signalled that they would beginning to reduce it's crisis era balance sheet as soon as September. The dollar slumped as a result, with follow-on selling this morning. 
+Last night, the Fed opted to keep rates on hold, but more significantly signalled that they would beginning to reduce it's crisis era balance sheet as soon as September. The dollar slumped as a result, with follow-on selling this morning. 
 
 The dollar pairs have enjoyed gains since last night, with NZD/USD and AUD/USD leading the pack over the last 24 hours. 
 
@@ -25,7 +25,7 @@ At 13.30, we get US core durable goods orders and unemployment claims.
 
 ## Trade Idea
 
-The AUD/USD has recovered from its recent impasse and is showing no signs of a significant reversal. 
+The AUD/JPY has recovered from its recent impasse and is showing no signs of a significant reversal. 
 
 <img class="post-image" src="{{ site.url }}/images/2017-07-27_07-13-35.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
