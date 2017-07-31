@@ -16,7 +16,7 @@ The USD/CAD has seen one of the biggest moves, with the USD/CAD gapping higher d
 Gold is also on the back foot, but the mid-June surge remains on track. 
 
 ## Coming up today
-. 
+
 At 09.30, we have UK net lending to individuals. 
 
 This is followed by European CPI data at 10.00. 
