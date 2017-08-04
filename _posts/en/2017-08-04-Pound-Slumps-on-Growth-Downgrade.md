@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aug 4th 2017: Pound Slumps on Growth Downgrade"
+title: "August 4th 2017: Pound Slumps on Growth Downgrade"
 language: en
 description: The British Pound remains under pressure this morning despite the Bank of England warning of further rate hikes to come. The MPC downgraded growth prospects for the UK
 keywords: British Pound remains under pressure
