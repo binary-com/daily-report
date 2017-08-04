@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aug 3rd 2017: Dollar Up as Dow Hits 22K"
+title: "August 3rd 2017: Dollar Up as Dow Hits 22K"
 language: en
 description: The US dollar is on the rise this morning, despite US ADP non farm employment change increasing less than expected
 keywords: us dollar
