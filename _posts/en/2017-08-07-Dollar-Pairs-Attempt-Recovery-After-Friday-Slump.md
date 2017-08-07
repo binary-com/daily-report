@@ -15,7 +15,7 @@ The EUR/GBP is on the rise again after small losses on Friday.
 
 Gold is unchanged after suffering similar losses Friday.
 
-# Coming up today
+## Coming up today
 
 Coming up today, we have UK Halifax HPI at 08.30. 
 
