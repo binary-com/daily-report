@@ -2,8 +2,6 @@
 layout: post
 title: "July 17th 2017: Dollar Steady After Friday Sell-Off"
 language: en
-description: The dollar pairs are on the back foot this morning, but there is some way to go to reverse Friday's gains
-keywords: dollar pairs
 ---
 ## Morning Report: 07.00 London
 

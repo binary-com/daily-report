@@ -2,8 +2,6 @@
 layout: post
 title: "August 8th 2017: Yen in Control as Dollar Slips"
 language: en
-description: This morning the yen is in control, as the USD/JPY slips lower alongside other yen pairs
-keywords: US dollar slipping
 ---
 ## Morning Report: 07.00 London
 

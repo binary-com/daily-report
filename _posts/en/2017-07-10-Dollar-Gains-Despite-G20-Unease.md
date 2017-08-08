@@ -2,8 +2,6 @@
 layout: post
 title: "July 10th 2017: Dollar Gains Despite G20 Unease"
 language: en
-description: Gold continues to struggle despite the dollar's off day yesterday, pointing to further downside potential
-keywords: Dollar Gains Despite G20 Unease
 ---
 ## Morning Report: 07.00 London
 

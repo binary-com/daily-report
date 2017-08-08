@@ -2,8 +2,6 @@
 layout: post
 title: "July 26th 2017: Dollar Strong as Investors Eye FOMC"
 language: en
-description: This morning, the US dollar performing well again as investors eye tonight's FOMC meeting. No change is expected, but hints as to the future direction of travel will be a market mover as ever
-keywords: dollar index pairs
 ---
 ## Morning Report: 07.00 London
 

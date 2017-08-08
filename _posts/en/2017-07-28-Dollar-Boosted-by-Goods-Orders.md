@@ -2,8 +2,6 @@
 layout: post
 title: "July 28th 2017: Dollar Boosted by Goods Orders"
 language: en
-description: The dollar remains on top this morning after strong gains yesterday. These gains are in part being driven by yesterday's better than expected durable goods orders
-keywords: dollar index pairs
 ---
 ## Morning Report: 07.00 London
 

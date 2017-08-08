@@ -2,8 +2,6 @@
 layout: post
 title: "July 11th 2017: Dollar Gains Despite Trump Pressure"
 language: en
-description: Dollar pairs are under pressure, with the EUR/USD down for the third day in a row
-keywords: Dollar pairs are under pressure EUR/USD down
 ---
 ## Morning Report: 07.00 London
 

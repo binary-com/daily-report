@@ -2,8 +2,6 @@
 layout: post
 title: "July 20th 2017: Dollar Rebounds As Tech Stocks Soar"
 language: en
-description: The USD/JPY is matching the US dollar index, making gains this morning, reversing yesterday's gains. This despite in-line employment data
-keywords: dollar index
 ---
 ## Morning Report: 07.00 London
 

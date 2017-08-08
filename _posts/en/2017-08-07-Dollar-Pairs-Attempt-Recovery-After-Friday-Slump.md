@@ -2,8 +2,6 @@
 layout: post
 title: "August 7th 2017: Dollar Pairs Attempt Recovery After Friday Slump"
 language: en
-description: This morning, the US dollar is slipping off the pace after a jumping higher on Friday's US jobs report. The likes of the EUR/USD are on the up after suffering heavy losses Friday
-keywords: US dollar slipping
 ---
 ## Morning Report: 07.00 London
 

@@ -2,8 +2,6 @@
 layout: post
 title: "August 2nd 2017: Euro Boosted by Eurozone Growth"
 language: en
-description: The euro remains strong this morning after figures showing that GDP and business confidence were on the rise. The reaction has been relatively muted though as the EUR/GBP remains within its trading range
-keywords: euro remains strong
 ---
 ## Morning Report: 07.00 London
 

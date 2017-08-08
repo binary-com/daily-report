@@ -2,8 +2,6 @@
 layout: post
 title: "July 18th 2017: Aussie Soars as Dollar Slumps"
 language: en
-description: The dollar index is slipping again, mainly as a counter-reaction to the surging Australian dollar
-keywords: dollar index slipping
 ---
 ## Morning Report: 07.00 London
 

@@ -2,8 +2,6 @@
 layout: post
 title: "July 31st 2017: Yen Makes Early Push"
 language: en
-description: The dollar pairs are generally on the back foot so far this morning, but the long term bullish trends that we have seen since April remain intact
-keywords: dollar index pairs
 ---
 ## Morning Report: 07.00 London
 

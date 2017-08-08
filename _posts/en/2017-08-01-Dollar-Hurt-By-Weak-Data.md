@@ -2,8 +2,6 @@
 layout: post
 title: "August 1st 2017: Dollar Hurt By Weak Data"
 language: en
-description: The dollar pairs are mixed this morning after solid gains yesterday which saw the EUR/USD extend its winning run
-keywords: dollar index pairs
 ---
 ## Morning Report: 07.00 London
 
