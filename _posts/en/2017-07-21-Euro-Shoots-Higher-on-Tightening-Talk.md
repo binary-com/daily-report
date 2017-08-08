@@ -2,8 +2,6 @@
 layout: post
 title: "July 21st 2017: Euro Shoots Higher on Tightening Talk"
 language: en
-description: The euro is storming higher on the back of ECB tightening comments, but this merely extends the recent trend that has been running throughout 2017
-keywords: dollar index euro
 ---
 ## Morning Report: 07.00 London
 

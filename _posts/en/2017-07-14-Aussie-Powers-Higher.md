@@ -2,8 +2,6 @@
 layout: post
 title: "July 14th 2017: Aussie Powers Higher"
 language: en
-description: The AUD/JPY continues to plough a fresh path higher, as the Australian economy continues to out-perform
-keywords: dollar pairs Australian
 ---
 ## Morning Report: 07.00 London
 

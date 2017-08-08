@@ -2,8 +2,6 @@
 layout: post
 title: "July 24th 2017: US dollar performing better"
 language: en
-description: The US dollar is performing better despite the latest report continuing to predict moderate global growth as Trumps plans remain stalled
-keywords: dollar index euro
 ---
 ## Morning Report: 07.00 London
 

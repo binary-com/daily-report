@@ -2,8 +2,6 @@
 layout: post
 title: "July 13th 2017: Yellen Sparks Dollar Reverse"
 language: en
-description: TDollar pairs are generally higher, with the exception of the euro which is lagging, with the EUR/GBP also falling short
-keywords: dollar pairs higher
 ---
 ## Morning Report: 07.00 London
 
