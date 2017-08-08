@@ -23,7 +23,7 @@ Today, we have US JOLTS job openings at 15.00.
 
 The pound has been under renewed pressure this week as Brexit uncertainty continues to drag on Sterling. 
 
-<img class="post-image" src="{{ site.url }}/images/2017-08-07_07-53-45.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/2017-08-08_07-20-54.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
 <a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=143.50" target="_blank">A good way to play this is that the GBP/JPY will close below 143.50 in 14 day for a potential return of 151%.</a>
 
