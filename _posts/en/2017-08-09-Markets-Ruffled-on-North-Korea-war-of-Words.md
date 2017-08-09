@@ -15,7 +15,7 @@ The yen pairs are generally lower, with the exception of the GBP/JPY which is ou
 
 Gold is on the rise on the safe haven play
 
-# Coming up today
+## Coming up today
 
 Coming up today at 13.30, we have US preliminary non-farm productivity and unit labour costs. 
 
