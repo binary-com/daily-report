@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "August 9th 2017: Markets Ruffled on North Korea war of Words"
+title: "August 9th 2017: Markets Ruffled on North Korea war of words"
 language: en
 ---
 ## Morning Report: 07.00 London
