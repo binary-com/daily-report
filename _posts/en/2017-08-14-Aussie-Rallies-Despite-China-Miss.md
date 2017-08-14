@@ -23,8 +23,8 @@ Coming up today, we have European industrial production data at 10.00.
 
 The euro is under pressure this morning, but the EUR/USD's summer rally is still on track.   
 
-<img class="post-image" src="{{ site.url }}/images/14-08-2017 06-19-52.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/14-08-2017 06-19-52.png" alt="{{ page.title }}" title="{{ page.title }}">
 
 <a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.1900" target="_blank">A good way to play this is a HIGHER trade predicting that the EUR/USD will close above 1.1900 in 14 days for a potential return of 163%</a>
 
-<img class="post-image" src="{{ site.url }}/images/14-08-2017 06-21-27.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/14-08-2017 06-21-27.png" alt="{{ page.title }}" title="{{ page.title }}">
