@@ -1,32 +1,38 @@
 ---
 layout: post
-title: "August 15th 2017: North Korea Tension Eases - Yen Backs Off"
+title: "16th 2017: Aussie Rallies Despite Dangerous China Growth"
 language: en
 ---
 ## Morning Report: 07.00 London
 
-This morning, the Japanese yen is on the back foot as yen pairs dominate the early movers. The USD/JPY is one of the top movers, with the GBP/JPY performing well. 
+This morning the Australian dollar remains the power player after the IMF predicted faster growth for China, albeit fuelled by dangerous levels of debt. Australian pairs are rallying this morning while other dollar pairs falter. 
 
-The AUD/JPY is also continuing its rebound.
+After a below par set of inflation figures yesterday, the British pound slumped against most currencies. The EUR/GBP is on the rise as a result, extending its recent up-trend. 
 
-The dollar is rallying, forcing dollar pairs lower. 
+The dollar pairs are generally flat to negative this morning after yesterday's better than expected Empire State Manufacturing Index and retail sales. 
 
-The USD/CHF is rallying again, completely erasing last week's risk aversion trade.
-
-Gold is also nudging off the highs as a further sign of the market's ease on the North Korea situation. 
+The yen pairs are on the rise, led by the AUD/JPY, as the USD/JPY extends its recent rebound.
 
 ## Coming up today
 
-Coming up today we have UK CPI at 09.30, released alongside PPI and RPI. 
+Coming up today, we have UK claimant count change and unemployment rate. At the same time we get average earnings index. 
 
-At 13.30, we get US core retail sales, empire state manufacturing and import prices. 
+At 10.00, we get European flash GDP. 
+
+At 13.30, we get US building permits and housing starts. Canadian securities purchases are released at the same time. 
+
+US crude oil inventories are released at 15.30. 
+
+At the 19.00, we get the release of the latest FOMC meeting minutes. 
 
 ## Trade Idea
 
-The British pound has performed well this week, but long term pressure remains despite today's planned Brexit announcement. There is a long road still ahead.    
+The Australian dollar remains strong despite IMF warnings about dangerous debt levels. Meanwhile, the pound remains under pressure.
 
-<img class="post-image" src="{{ site.url }}/images/15-08-2017 07-29-19.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+The GBP/AUD has had been stuck in a range recently, but recent events may force deciding move lower in coming weeks.  
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=143.00" target="_blank">A good way to play this is a LOWER trade on the GBP/JPY predicting that the pair will close below 143.00 in 14 days for a potential return of 102.4%</a>
+<img class="post-image" src="{{ site.url }}/images/2017-08-16_06-51-26.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<img class="post-image" src="{{ site.url }}/images/15-08-2017 07-32-14.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.6350" target="_blank">A good way to play this is a LOWER trade predicting that the GBP/AUD will close below 1.6350 in 14 days for a potential return of 125%</a>
+
+<img class="post-image" src="{{ site.url }}/images/2017-08-16_06-52-27.jpg" alt="{{ page.title }}" title="{{ page.title }}">
