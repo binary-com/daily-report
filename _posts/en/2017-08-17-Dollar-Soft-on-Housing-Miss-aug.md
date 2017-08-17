@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "17th 2017: Dollar Soft on Housing Miss"
+title: "August 17th 2017: Dollar Soft on Housing Miss"
 language: en
 ---
 ## Morning Report: 07.00 London
