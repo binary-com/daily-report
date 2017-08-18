@@ -11,7 +11,7 @@ permalink: /en/www
 {% assign assetsSource = site.github.url | replace: "http", " " %}
 <p>Assign: </p>{{ assetsSource }}
 
-19.23
+19.33
 
 {% assign single = site.github.url | replace: 'http', 'https' %}
 <p>Single: </p>{{ single  }}
@@ -22,3 +22,5 @@ permalink: /en/www
 {% else %}
 {% assign assetspath = site.github.url | replace: 'http', 'https' %}
 {% endif %}
+
+<p>Result: </p> {{ assetspath  }}
