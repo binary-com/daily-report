@@ -18,9 +18,9 @@ permalink: /en/www
 
 
 {% assign coresource = site.github.url %}
-{% if coresource contains "https" %}{% assign assetspath = '' %}
+{% if coresource contains "https" %}{% assign assetspath = site.github.url %}
 {% else %}
 {% assign assetspath = site.github.url | replace: 'http', 'https' %}
 {% endif %}
 
-<p>Result: </p> {{ assetspath  }}
+<p>Result: </p> {{ assetspath }}
