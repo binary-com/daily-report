@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "August 18th 2017: Euro Dips as ECB Expresses Concern"
+title: "August 18th 2017 Euro Dips as ECB Expresses Concern"
 language: en
 ---
 ## Morning Report: 07.00 London
