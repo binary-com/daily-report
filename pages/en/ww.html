@@ -15,3 +15,10 @@ permalink: /en/www
 
 {% assign single = site.github.url | replace: 'http', 'https' %}
 <p>Single: </p>{{ single  }}
+
+
+{% assign coresource = site.github.url %}
+{% if coresource contains "https" %}{% assign assetspath = '' %}
+{% else %}
+{% assign assetspath = site.github.url | replace: 'http', 'https' %}
+{% endif %}
