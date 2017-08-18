@@ -19,7 +19,7 @@
 
 
 {% assign coresource = site.github.url %}
-{% if coresource contains "https" %}{% assign assetspath = '' %}
+{% if coresource contains "https" %}{% assign assetspath = site.github.url %}
 {% else %}
 {% assign assetspath = site.github.url | replace: 'http', 'https' %}
 {% endif %}
