@@ -8,9 +8,10 @@ permalink: /en/www
 <p>Site Github Url: {{ site.github.url }}</p>
 
 
-{% assign assetsSource = site.github.url | replace: "http", "https" %}
+{% assign assetsSource = site.github.url | replace: "http", " " %}
 <p>Assign: </p>{{ assetsSource }}
 
+19.23
 
 {% assign single = site.github.url | replace: 'http', 'https' %}
-<p>Single: {{ single  }}</p>
+<p>Single: </p>{{ single  }}
