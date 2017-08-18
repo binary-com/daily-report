@@ -2,6 +2,7 @@
 layout: post
 title: "August 18th 2017 Euro Dips as ECB Expresses Concern"
 language: en
+permalink: /en/euro-dips-as-ecb-expresses-concern-aug-17/
 ---
 ## Morning Report: 07.00 London
 
@@ -11,7 +12,7 @@ Most yen pairs with the exception of the USD/JPY are staging a counter rally thi
 
 The euro is under-performing again today after selling off on yesterday's ECB comments which expressed concern over the strength of the euro and the impact of this. 
 
-Dollar pairs are generally performing well, led by the GBP/ USD. 
+Dollar pairs are generally performing well, led by the GBP/USD. 
 
 Gold testing the August highs yesterday, but is slipping back slightly this morning. 
 
@@ -19,7 +20,7 @@ Gold testing the August highs yesterday, but is slipping back slightly this morn
 
 Today, we have Canadian CPI at 13.30. 
 
-At 15.00, we get US preliminary UoM consumer sentiment
+At 15.00, we get US preliminary UoM consumer sentiment.
 
 ## Trade Idea
 
