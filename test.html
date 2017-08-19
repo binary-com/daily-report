@@ -5,6 +5,7 @@ excerpt:
 keywords: 
 language: en
 ---
+{% include lang.html %}
 {% assign engPosts = site.posts | where: "language", "en" %}
 {% for post in engPosts limit:10 %}  
 <div class="row list--item">
