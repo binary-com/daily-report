@@ -16,10 +16,8 @@
 {% else %}
 {% assign siteLang = 'en' %}{% assign LangUrl = '/en/' %}
 {% endif %}
-
-
 {% assign coresource = site.github.url %}
-{% if coresource contains "https" %}{% assign assetspath = site.github.url %}
+	{% if coresource contains "https" %}{% assign assetspath = site.github.url %}
 {% else %}
-{% assign assetspath = site.github.url | replace: 'http', 'https' %}
+	{% assign assetspath = site.github.url | replace: 'http', 'https' %}
 {% endif %}

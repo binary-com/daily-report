@@ -13,11 +13,29 @@ language: en
 		<div class="Page-List__item__excerpt">	
 		    <h1><a href="{{ post.url | assetspath }}">{{ post.title }}</a></h1>
 				<h3><a href="{{ post.url | relative_url }}"></a></h3>
-				<p>3</p>
+				<p>5</p>
 				<p>{{ assetspath }}</p>
 				<p>{{ post.url }}</p>
 				<p>{{ assetspath }}{{ post.url }}</p>
 				<p>{{ post.url | prepend: assetspath }}</p>
+				<h2>Nav</h2>
+				{% for page in site.pages %}						
+					{% if page.title %}
+						<li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+					{% endif %}	
+				{% endfor %}
+				<h2>Nav 2</h2>
+				{% for page in site.pages %}						
+					{% if page.title %}
+						<li><a href="{{ page.url | prepend: assetspath }}">{{ page.title }}</a></li>
+					{% endif %}	
+				{% endfor %}
+				<h2>Nav 3</h2>
+				{% for page in site.pages %}						
+					{% if page.title %}
+						<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+					{% endif %}	
+				{% endfor %}
 			{{ post.content }}
 		</div>
 	</div>	
