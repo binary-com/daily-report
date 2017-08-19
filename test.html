@@ -11,18 +11,18 @@ language: en
 <div class="row list--item">
 	<div class="col-sm-12">
 		<div class="Page-List__item__excerpt">	
-		    <h1><a href="{{ post.url | assetspath }}">{{ post.title }}</a></h1>
+		    <h1><a href="{{ post.url | domain }}">{{ post.title }}</a></h1>
 				<h3><a href="{{ post.url | relative_url }}"></a></h3>
 				<p>7</p>
-				<p>{{ assetspath }}</p>
+				<p>{{ domain }}</p>
 				<p>{{ post.url }}</p>
-				<p>{{ assetspath }}{{ post.url }}</p>
-				<p>{{ post.url | prepend: assetspath }}</p>
+				<p>{{ domain }}{{ post.url }}</p>
+				<p>{{ post.url | prepend: domain }}</p>
 
 				<h2>Nav 2</h2>
 				{% for page in site.pages %}						
 					{% if page.title %}
-						<li><a href="{{ page.url | prepend: assetspath }}">{{ page.title }}</a></li>
+						<li><a href="{{ page.url | prepend: domain }}">{{ page.title }}</a></li>
 					{% endif %}	
 				{% endfor %}
 
