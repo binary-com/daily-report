@@ -12,6 +12,7 @@ language: en
 		<div class="Page-List__item__excerpt">	
 		    <h1><a href="{{ post.url | assetspath }}">{{ post.title }}</a></h1>
 				<h3><a href="{{ post.url | relative_url }}"></a></h3>
+				<p>{{ post.url }}</p>
 			{{ post.content }}
 		</div>
 	</div>	
