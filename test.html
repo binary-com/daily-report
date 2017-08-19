@@ -5,7 +5,7 @@ excerpt:
 keywords: 
 language: en
 ---
-
+{% include lang.html %}
 {% assign engPosts = site.posts | where: "language", "en" %}
 {% for post in engPosts limit:10 %}  
 <div class="row list--item">
@@ -13,7 +13,7 @@ language: en
 		<div class="Page-List__item__excerpt">	
 		    <h1><a href="{{ post.url | assetspath }}">{{ post.title }}</a></h1>
 				<h3><a href="{{ post.url | relative_url }}"></a></h3>
-				<p>6</p>
+				<p>7</p>
 				<p>{{ assetspath }}</p>
 				<p>{{ post.url }}</p>
 				<p>{{ assetspath }}{{ post.url }}</p>
