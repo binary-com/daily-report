@@ -16,8 +16,10 @@
 {% else %}
 {% assign siteLang = 'en' %}{% assign LangUrl = '/en/' %}
 {% endif %}
+
 {% assign coresource = site.github.url %}
-	{% if coresource contains "https" %}{% assign domain = site.github.url %}
+{% if coresource contains "localhost" %}{% assign domain = site.url %}
+{% elsif coresource contains "https" %}{% assign domain = site.github.url %}
 {% else %}
-	{% assign domain = site.github.url | replace: 'http', 'https' %}
+{% assign domain = site.github.url | replace: 'http', 'https' %}
 {% endif %}
