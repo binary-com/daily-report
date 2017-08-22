@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "August 22nd 2017: Dollar Rallies as Trump Outlines Afgan Plan"
+title: "August 22nd 2017: Dollar Rallies as Trump Outlines Afghan Plan"
 language: en
 permalink: /en/Dollar-Rallies-as-Trump-Outlines-Afgan-Plan-17/
 ---
