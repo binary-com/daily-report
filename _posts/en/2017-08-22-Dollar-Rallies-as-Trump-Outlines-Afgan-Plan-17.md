@@ -30,4 +30,4 @@ The pound continues to suffer, while the Canadian dollar is having a strong morn
 
 <a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPCAD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.6100" target="_blank">A good way to play this is a LOWER trade on the GBP/CAD predicting that the pair will close below 1.6100 in 14 days for a potential return of 141%</a>
 
-<img class="post-image" src="{{ domain }}/images/aug-17/2017-08-22_07-14-02.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/aug-17/2017-08-22_07-14-02.jpg" alt="{{ page.title }}" title="{{ page.title }}">

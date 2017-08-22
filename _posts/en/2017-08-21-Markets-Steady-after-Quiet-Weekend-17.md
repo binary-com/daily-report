@@ -30,4 +30,4 @@ The GBP/AUD has been a consistent loser in recent months and there seem to be no
 
 <a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.6200" target="_blank">A good way to play this might be a LOWER trade predicting that the GBP/AUD will close below 1.6200 in 14 days for a potential return of 109% if successful.</a>
 
-<img class="post-image" src="{{ domain }}/images/aug-17/2017-08-21_07-40-08.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/aug-17/2017-08-21_07-40-08.jpg" alt="{{ page.title }}" title="{{ page.title }}">
