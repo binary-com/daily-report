@@ -2,7 +2,7 @@
 layout: post
 title: "August 23rd 2017: Euro Eyes Draghi Speech"
 language: en
-permalink: /en/Euro Eyes Draghi Speech-aug-17/
+permalink: /en/Euro-Eyes-Draghi-Speech-aug-17/
 ---
 ## Morning Report: 07.00 London
 
