@@ -24,7 +24,7 @@ ECB president Draghi speaks at 20.00.
 
 ## Trade Idea
 
-The USD/CAD continues to drip lower, despite the stronger US dollar. Helping the drive lower is gold prices holding above the $50 level. 
+The USD/CAD continues to drip lower, despite the stronger US dollar. Helping the drive lower is oil prices holding above the $50 level. 
 
 <img class="post-image" src="{{ site.url }}/images/aug-17/2017-08-25_07-42-11.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
