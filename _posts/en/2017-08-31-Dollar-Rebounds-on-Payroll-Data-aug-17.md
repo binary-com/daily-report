@@ -16,7 +16,7 @@ The yen pairs are on the rise as well, with the GBP/JPY leading the pack and the
 
 ## Coming up today
 
-Coming up today, we have European flash estimate at 10.00. 
+Coming up today, we have European CPI flash estimate at 10.00. 
 
 We have Canadian GDP at 13.30, released alongside US unemployment claims and personal spending. 
 
