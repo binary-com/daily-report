@@ -2,7 +2,7 @@
 layout: post
 title: "September 1st 2017: Markets Cautious Ahead of NFP"
 language: en
-permalink: /en/Markets Cautious Ahead of NFP-sep-17/
+permalink: /en/Markets-Cautious-Ahead-of-NFP-sep-17/
 ---
 ## Morning Report: 07.00 London
 
