@@ -29,3 +29,5 @@ Judging by recent rhetoric, the North Korea situation could get worse before it 
 <a href="%LINK%%?currency=GBP&market=metals&duration_amount=21&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&underlying=frxXAUUSD&formname=higherlower&barrier=1350" target="_blank">This could mean gold prices could rise higher still. A good way to play this is a HIGHER trade on gold predicting that the precious metal closes above $1350 in 21 days for a potential return of 164%</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-17/2017-09-04_07-15-33.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+
+
