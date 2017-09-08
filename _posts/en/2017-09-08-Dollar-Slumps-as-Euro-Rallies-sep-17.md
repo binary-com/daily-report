@@ -32,6 +32,6 @@ This shows no signs of slowing in the short term, so there could be further upsi
 
 <img class="post-image" src="{{ site.url }}/images/sep-17/2017-09-08_07-33-28.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=metals&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&underlying=frxXAGUSD&formname=higherlower&barrier=18.50" target="_blank">A good way to play this is a HIGHER trade predicting that gold closes above $18.50 could return 200% if successful.</a>
+<a href="%LINK%%?currency=GBP&market=metals&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&underlying=frxXAGUSD&formname=higherlower&barrier=18.50" target="_blank">A good way to play this is a HIGHER trade predicting that silver will close above $18.50 in 14 days could return 200% if successful.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-17/2017-09-08_07-34-56.jpg" alt="{{ page.title }}" title="{{ page.title }}">
