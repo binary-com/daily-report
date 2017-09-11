@@ -4,12 +4,13 @@ title: Daily Report
 language: en
 permalink: /en/
 ---
+{% include lang.html %}
 {% assign engPosts = site.posts | where: "language", "en" %}
 {% for post in engPosts limit:10 %}  
 <div class="row list--item">
 	<div class="col-sm-12">
 		<div class="Page-List__item__excerpt">	
-			<h1><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></h1>			
+			<h1><a href="{{ post.url | prepend: domain }}">{{ post.title }}</a></h1>			
 			{{ post.content }}
 		</div>
 	</div>	
