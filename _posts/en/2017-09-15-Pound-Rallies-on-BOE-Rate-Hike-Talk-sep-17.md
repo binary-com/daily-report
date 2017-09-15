@@ -35,3 +35,4 @@ This could see the pound’s recent spike to reverse.
 <a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=higherlower&duration_amount=21&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=1.3300" target="_blank">A good way to play this is a LOWER trade on the GBP/USD predicting that the pair will close below 1.3300 in 21 days could return 166%</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-17/2017-09-15_07-02-13.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+
