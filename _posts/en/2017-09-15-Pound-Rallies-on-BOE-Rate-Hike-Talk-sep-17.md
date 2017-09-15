@@ -18,7 +18,7 @@ The dollar pairs are mixed to negative, with the exception of the GBP/USD which 
 
 We start the day with MPC member Vlieghe speaking at 09.50. 
 
-Following this, we get US core retail sales at 13.30, released at Empire State Manufacturing Index. 
+Following this, we get US core retail sales and Empire State Manufacturing Index, released at 13.30. 
 
 At 14.15, we get US Capacity Utilisation Rate and Industrial production. 
 
