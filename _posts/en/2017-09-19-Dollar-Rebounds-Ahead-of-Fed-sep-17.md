@@ -16,13 +16,13 @@ The GBP/USD also reversed yesterday, with the EUR/GBP rallying for the first tim
 
 ## Coming up today 
 
-Coming up today, we have UK retail sales at 09.30. 
+Coming up today, we have UK retail sales at 09.30.
 
-Following this, we get existing US home sales at 15.00, followed by crude oil inventories at 15.30. 
+Following this, we get US building permits and export prices at 13.30.
 
-At 19.00, we have the FOMC economic projections, with the FOMC statement and funds rate. The press conference follows at 19.30. 
+Also at 13.30 we get Canadian manufacturing sales.
 
-New Zealand GDP is at 23.45. 
+US President Trump speaks at 15.30 
 
 ## Trade Idea
 
@@ -30,7 +30,7 @@ Gold has come off the boil recently as North Korean tensions ease. At the same t
  
 <img class="post-image" src="{{ site.url }}/images/sep-17/2017-09-19_06-46-44.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=metals&duration_amount=15&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&underlying=frxXAUUSD&formname=higherlower&barrier=1300" target="_blank">A good way to play this is a HIGHER trade predicting that gold will close below $1300 in 15 days for a potential return of 123%.</a>
+<a href="%LINK%%?currency=GBP&market=metals&duration_amount=15&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&underlying=frxXAUUSD&formname=higherlower&barrier=1300" target="_blank">A good way to play this is a LOWER trade predicting that gold will close below $1300 in 15 days for a potential return of 123%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-17/2017-09-19_06-48-38.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
