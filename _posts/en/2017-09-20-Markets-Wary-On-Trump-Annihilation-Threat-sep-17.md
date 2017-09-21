@@ -36,4 +36,3 @@ This speaks of underlying strength, with more upside on the cards from here.
 <a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=89.75" target="_blank">A good way to play this is a HIGHER trade predicting that the AUD/JPY will close above 89.75 in 14 days for a potential return of 114%</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-17/2017-09-20_06-29-15.jpg" alt="{{ page.title }}" title="{{ page.title }}">
-
