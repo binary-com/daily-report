@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "September 21st, 2017: Markets Wary on North Korea H Bomb Threat"
+title: "September 22st, 2017: Markets Wary on North Korea H Bomb Threat"
 language: en
 permalink: /en/Markets-Wary-on-North-Korea-H-Bomb-Threat-sep-17/
 ---
