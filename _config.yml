@@ -6,6 +6,7 @@ baseurl: ""
 url: "https://dailyreport.binary.com" 
 twitter_username: 
 github_username:  
+future: true
 
 markdown: kramdown
 plugins:
