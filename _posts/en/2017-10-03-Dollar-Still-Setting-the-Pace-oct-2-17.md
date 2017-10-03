@@ -30,9 +30,9 @@ The AUD/USD has been on a losing streak for some time, but the NZD/USD has so fa
 
 We are approaching a potential supporting support though and should this break, we could well see further downside from here.    
  
-<img class="post-image" src="{{ site.url }}/images/oct/03-10-2017 12-08-23.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/oct/03-10-2017-12-08-23.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
 <a href="%LINK%%?currency=GBP&market=forex&underlying=frxNZDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7100" target="_blank">A good way to play this is a LOWER trade predicting that the NZD/USD closes below 0.7100 in 14 days for a potential return of 231%.</a>
 
-<img class="post-image" src="{{ site.url }}/images/oct/03-10-2017 12-07-34.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/oct/03-10-2017-12-07-34.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
