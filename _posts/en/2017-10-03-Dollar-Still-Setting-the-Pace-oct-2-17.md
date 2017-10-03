@@ -2,7 +2,7 @@
 layout: post
 title: "October 3rd, 2017: Dollar Still Setting the Pace"
 language: en
-permalink: /en/Dollar-Still-Setting-the-Pace-oct-2-17/
+permalink: /en/Dollar-Still-Setting-the-Pace-oct-3-17/
 ---
 ## Morning Report: 07.00 London
 
