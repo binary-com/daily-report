@@ -33,5 +33,5 @@ It’s too early to say if the dollar softening could be a trend reversal, but o
 
 <a href="%LINK%%?currency=AUD&market=forex&underlying=frxUSDCAD&formname=higherlower&duration_amount=21&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.24&s=1&t=so3sUnbFpp0K1kMR5ktb850co5lt24DG" target="_blank">A good way to play this is a LOWER trade predicting that the USD/CAD will close below 1.2400 in 21 days for a potential return of 145%.</a>
 
-<img class="post-image" src="{{ site.url }}/images/oct/USDCAD-04-oct-17.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/oct/USDCAD-04-oct-17.png" alt="{{ page.title }}" title="{{ page.title }}">
 
