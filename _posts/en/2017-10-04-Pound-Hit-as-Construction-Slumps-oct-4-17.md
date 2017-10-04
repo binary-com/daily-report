@@ -8,9 +8,9 @@ permalink: /en/Pound-Hit-as-Construction-Slumps-oct-4-17/
 
 The US dollar index is back on the rise this morning ahead of today’s ADP payrolls from the US. The dollar pressure eased yesterday and this morning, helping most dollar pairs to make gains. 
 
-The main exception is the GBP/ USD which continues to struggle. The GBP/ JPY has made further losses while the EUR/ GBP has risen for four straight days. This comes after disappointing manufacturing PMI and Construction PMI in the last two days. 
+The main exception is the GBP/USD which continues to struggle. The GBP/JPY has made further losses while the EUR/GBP has risen for four straight days. This comes after disappointing manufacturing PMI and Construction PMI in the last two days. 
 
-The yen pairs are mixed as the dollar backs off, forcing the likes of the USD/ JPY on the defensive. 
+The yen pairs are mixed as the dollar backs off, forcing the likes of the USD/JPY on the defensive. 
 
 Gold reversed some of its losses yesterday and this morning, but the downtrend remains firmly on track.
  
@@ -27,7 +27,7 @@ ECB President Draghi speaks at 18.15, with Fed chair Yellen speaking at 20.15.
 
 ## Trade Idea
 
-It’s too early to say if the dollar softening could be a trend reversal, but one pair that might benefit the most is the USD/ CAD. The pair has been rallying as the dollar strengthens and oil prices retreat from the highs. This oil price pullback has been shallow though and it is encouraging for the Canadian dollar that prices remain firmly above $50.   
+It’s too early to say if the dollar softening could be a trend reversal, but one pair that might benefit the most is the USD/CAD. The pair has been rallying as the dollar strengthens and oil prices retreat from the highs. This oil price pullback has been shallow though and it is encouraging for the Canadian dollar that prices remain firmly above $50.   
  
 <img class="post-image" src="{{ site.url }}/images/oct/2017-10-04_06-53-06.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
