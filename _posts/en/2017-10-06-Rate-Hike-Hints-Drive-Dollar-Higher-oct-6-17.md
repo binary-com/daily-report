@@ -32,7 +32,7 @@ With the prospect of a leadership challenge to Theresa May, markets are taking a
  
 <img class="post-image" src="{{ site.url }}/images/oct/2017-10-06_06-35-45.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=147.00" target="_blank">A good way to play this could be a LOWER trade on the GBP/JPY predicting that the GBP/JPY will close below 147.00 for a potential return of 148%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=147.00" target="_blank">A good way to play this could be a LOWER trade predicting that the GBP/JPY will close below 147.00 for a potential return of 148%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct/2017-10-06_06-41-41.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
