@@ -2,7 +2,7 @@
 layout: post
 title: "October 11th, 2017: Dollar Retreats as Catalonia Pulls Back"
 language: en
-permalink: /en/Dollar-Retreats-as-Catalonia-Pulls-Back-oct-10-17/
+permalink: /en/Dollar-Retreats-as-Catalonia-Pulls-Back-oct-11-17/
 ---
 ## Morning Report: 07.00 London
 
