@@ -28,7 +28,7 @@ The AUD/USD shot high last week, but this was against the medium term trend.
 
 <img class="post-image" src="{{ site.url }}/images/oct/2017-10-16_06-51-34.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.782" target="_blank">This morning’s reversal could gather strength and a good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7825 in 14 days.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7825" target="_blank">This morning’s reversal could gather strength and a good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7825 in 14 days</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct/2017-10-16_06-52-50.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
