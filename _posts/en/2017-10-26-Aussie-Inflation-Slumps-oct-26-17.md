@@ -2,7 +2,7 @@
 layout: post
 title: "October 26th, 2017: Aussie Dollar Remains Under Pressure"
 language: en
-permalink: /en/Aussie-Inflation-Slumps-oct-26-17/
+permalink: /en/Aussie-Dollar-Remains-Under-Pressure-oct-26-17/
 ---
 ## Morning Report: 07.00 London
 
