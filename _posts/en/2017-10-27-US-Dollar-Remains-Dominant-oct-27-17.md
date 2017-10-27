@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "October 26th, 2017: US Dollar Remains Dominant"
+title: "October 27th, 2017: US Dollar Remains Dominant"
 language: en
 permalink: /en/US-Dollar-Remains-Dominant-oct-27-17/
 ---
