@@ -36,7 +36,6 @@ There are positive signs in Europe, but there will be some time until regional e
 
 <img class="post-image" src="{{ site.url }}/images/oct/2017-10-31_06-31-27.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.8750" target="_blank">A good way to play this is a LOWER trade on the EUR/GBP predicting that the EUR/GBP will close below 0.8750 in 14 days for a potential return of 166%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.8750" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/GBP will close below 0.8750 in 14 days for a potential return of 166%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct/2017-10-31_06-34-52.jpg" alt="{{ page.title }}" title="{{ page.title }}">
-
