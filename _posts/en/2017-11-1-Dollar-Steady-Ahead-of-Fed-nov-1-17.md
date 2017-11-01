@@ -34,8 +34,8 @@ It is a public holiday in France and Italy today.
 
 The USD/CAD continues to climb despite oil prices doing the same. No change is expected from the Fed meeting today, which could mean the bullish trend could run for a little while longer yet. 
 
-<img class="post-image" src="{{ site.url }}/images/nov/2017-11-01_07-09-00.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/oct/2017-11-01_07-09-00.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
 <a href="%LINK%%?currency=GBP&market=major_pairs&duration_amount=21&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&underlying=frxUSDCAD&formname=higherlower&barrier=1.2950" target="_blank">A good way to play this is a HIGHER trade predicting that the USD/CAD closes HIGHER than 1.2950 in 21 days for a potential return of 131%.</a>
 
-<img class="post-image" src="{{ site.url }}/images/nov/2017-11-01_07-11-41.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/oct/2017-11-01_07-11-41.jpg" alt="{{ page.title }}" title="{{ page.title }}">
