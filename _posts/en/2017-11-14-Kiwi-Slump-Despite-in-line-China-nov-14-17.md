@@ -18,7 +18,7 @@ The US dollar is also making gains against the Canadian dollar, with the USD/CAD
 
 This morning, we have UK inflation at 09.30, with CPI, PPI and RPI expected to increase. 
 
-ECB President Draghi speaks at 10.00. BOE governor Carney, BOJ governor Yellen and US Fed Chair Yellen are due to speak at the same time. 
+ECB President Draghi speaks at 10.00. BOE governor Carney, BOJ governor Kuroda and US Fed Chair Yellen are due to speak at the same time.
 
 Also at 10.00, we get German ZEW economic sentiment and European sentiment at the same time. 
 
