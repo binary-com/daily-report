@@ -22,7 +22,7 @@ Coming up today, we have UK retail sales at 09.30.
 
 At 10.00, we get European final CPI. 
 
-At 13.30, we switch to North America for US unemployment claims, import prices and Philly Fed Manufacturing. At the same time we get Canadian ADP non-farm employment, foreign securities and manufacturing sales. 
+At 13.30, we switch to North America for US unemployment claims, import prices and Philly Fed Manufacturing. At the same time we get Canadian foreign securities and manufacturing sales. 
 
 BOE governor Carney speaks at 14.00. 
 
