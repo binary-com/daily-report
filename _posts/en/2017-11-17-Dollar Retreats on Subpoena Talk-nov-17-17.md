@@ -2,7 +2,7 @@
 layout: post
 title: "Nov 17th, 2017: Dollar Retreats on Subpoena Talk"
 language: en
-permalink: /en/Dollar Retreats on Subpoena Talk-nov-17-17/
+permalink: /en/Dollar-Retreats-on-Subpoena-Talk-nov-17-17/
 ---
 ## Morning Report: 07.00 London
 
