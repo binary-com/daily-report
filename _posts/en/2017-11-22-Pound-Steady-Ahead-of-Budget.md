@@ -34,6 +34,6 @@ The AUD/JPY’s winter unwind has continued this morning, with clear skies until
 
 <img class="post-image" src="{{ site.url }}/images/nov/2017-11-22_07-30-55.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=touchnotouch&duration_amount=9&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=83.75" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/JPY will TOUCH 83.75 in 9 days for a potential return of 137%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=touchnotouch&duration_amount=9&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=83.75" target="_blank">A good way to play this is a TOUCH trade predicting that the AUD/JPY will touch 83.75 in 9 days for a potential return of 137%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov/2017-11-22_07-34-36.jpg" alt="{{ page.title }}" title="{{ page.title }}">
