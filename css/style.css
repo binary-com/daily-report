@@ -207,6 +207,14 @@ a h2:hover {
 	display: block;
 }
 @media only screen and (max-width: 992px) {
+	.ico-banner-ends {
+       font-size: 22px;
+	   line-height: 26px;
+	   padding: 0 5px;
+}
+
+}
+@media only screen and (max-width: 768px) {
 	  .ico-banner-col-end-date {
 		border-left: 0px;
 		border-bottom: 0px; 
@@ -216,6 +224,10 @@ a h2:hover {
 		padding: 15px 0;
         margin: 0 15px;
         margin-top: 20px;
+		display: block;
+	}
+	.ico-banner-col-main {
+		display: block;
 	}
 	.ico-banner-ends {
 		margin: 0;
