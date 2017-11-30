@@ -30,7 +30,7 @@ FOMC member Quarles speaks at 17.30. FOMC member Kaplan speaks at 18.00.
 
 ## Trade Idea
 
-The GBP/USD has had a strong run recently, but the longer term trend shows that there has been a positive bias since the beginning of March. 
+The GBP/USD has had a strong run recently, and the longer term trend shows that there has been a positive bias since the beginning of March. 
 
 With a Brexit trade deal on the cards, there could be further upside from here in the medium term. 
 
