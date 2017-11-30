@@ -211,8 +211,7 @@ a h2:hover {
        font-size: 22px;
 	   line-height: 26px;
 	   padding: 0 5px;
-}
-
+    }
 }
 @media only screen and (max-width: 766px) {
 	  .ico-banner-col-end-date {
