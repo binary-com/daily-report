@@ -10,7 +10,7 @@ This morning, the US dollar is firmly in control on expectations for further rat
 
 This in turn is putting pressure on dollar pairs, notably the AUD/USD which is off by 0.33%. The AUD/JPY is also extending yesterday’s losses. This comes on the back of poor trade balance data. 
 
-The NZD/ USD is also weak, with the NZD/USD one of the worse performers this morning. 
+The NZD/USD is also weak and one of the worse performers this morning. 
 
 The Canadian dollar also remains weak following yesterday’s BOC rate statement and reversal in oil prices. The USD/CAD is pushing higher and is close to undoing last week’s slump. 
 
