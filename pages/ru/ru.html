@@ -5,14 +5,14 @@ language: ru
 permalink: /ru/
 ---
 {% include lang.html %}
+{% include geturl.html %}
 {% assign engPosts = site.posts | where: "language", "ru" %}
 {% for post in engPosts limit:10 %}  
-<div class="row list--item">
-	<div class="col-sm-12">
-		<div class="Page-List__item__excerpt">	
-		    <h1><a href="{{ post.url | prepend: domain }}">{{ post.title }}</a></h1>			
-			{{ post.content }}
-		</div>
+<div class="row">
+	<div class="col">
+		<a href="{{ post.url | prepend: SourceUrl }}"><h1>{{ post.title }}</h1></a>
+		<p>{{ post.content }}</p>	
 	</div>	
 </div>
+<div class="separator-line-thin-gray-xs"></div>
 {% endfor %}
