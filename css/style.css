@@ -369,22 +369,6 @@ img {
     display: inline-table;
 }
 
-.cta {
-    text-align: center;
-    padding: 5px 30px;
-    display: block
-}
-
-.cta-lg {
-    text-align: center;
-    padding: 10px 30px;
-    display: block
-}
-
-.cta-lg img {
-    text-align: center!important
-}
-
 .separator-lg {
     height: 30px;
     display: table
