@@ -1,0 +1,467 @@
+---
+---
+{% include geturl.html %}
+a h2:hover {color:inherit;}
+.topbar {
+    min-height: 28px
+}
+
+#select_language {
+    z-index: 9999!important
+}
+
+#select_language li a:link {
+    color: #000000!important;
+    font-weight: normal!important
+}
+
+#select_language li a:visited {
+    color: #000000!important;
+    font-weight: normal!important
+}
+
+#topbar .language-wrapper,
+.topbar .language-wrapper {
+    vertical-align: middle;
+    padding: 0 5px;
+    display: inline-flex;
+    min-width: 58px;
+    margin: 0 auto
+}
+
+.topbar .language-wrapper .language {
+    padding: 5px 1px
+}
+
+.Header__title {
+    color: #fff;
+    margin: 0;
+    padding-top: 10px;
+    padding-right: 20px;
+    text-align: right;
+    font-weight: 300!important;
+    margin-top: 5px!important
+}
+
+@media (max-width:992px) {
+    .Header__title {
+        text-align: right;
+        margin-bottom: 10px;
+        padding-right: 0
+    }
+}
+
+.Subheader {
+    display: table;
+    width: 100%;
+    font-size: 15px;
+    border-bottom: 1px solid #dedede;
+    padding: 0;
+    text-align: left
+}
+
+.Subheader ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    display: block
+}
+
+.Subheader ul li {
+    display: inline-block;
+    margin: 0;
+    padding: 5px 0
+}
+
+.Subheader ul li a {
+    margin: 0;
+    padding: 4px 15px;
+    font-weight: 400
+}
+
+.Subheader ul li a:hover {
+    text-decoration: none
+}
+
+@media (max-width:768px) {
+    .Subheader ul li {
+        display: block;
+        margin: 0 0;
+        padding: 6px 0;
+        width: 100%;
+        border-bottom: 1px solid #ccc
+    }
+    .Subheader ul li a {
+        width: 100%;
+        margin: 0;
+        padding: 7px 15px;
+        display: block
+    }
+}
+
+.sidebar-box {
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+.sidebar-box p:last-child {
+    margin-bottom: 0;
+}
+
+.sidebar-box .button {
+	margin: 0;
+}
+
+.sidebar-box .list-group {
+    margin-bottom: 0;
+}
+
+#footer {
+	margin-top: 15px;
+}
+
+#footer-menu h4 {
+    font-size: .8695652174rem
+}
+
+#footer #footer-menu ul {
+    padding: 0;
+    margin-top: -10px
+}
+
+#footer #footer-menu li {
+    line-height: 1
+}
+
+#footer .content-inverse-color a {
+    text-decoration: underline
+}
+
+#footer #footer-regulatory #regulatory-text {
+    text-align: justify;
+    font-size: .6575162324rem
+}
+
+#footer #footer-last .gambling {
+    text-align: justify;
+    font-size: .7561436673rem;
+    font-weight: 400;
+    line-height: 110%
+}
+
+@media only screen and (max-width:480px) {
+    .mobile-hide {
+        display: none!important
+    }
+}
+
+.report-list {
+    width: 100%
+}
+
+img {
+    max-width: 100%
+}
+
+.list-group {
+    padding-left: 0;
+    margin-bottom: 20px
+}
+
+.post--date {
+    display: block;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000;
+    margin-top: -20px
+}
+
+.p--action {
+    margin: 30px 0;
+    text-align: center!important
+}
+
+.fl--left {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 15px
+}
+
+.float-left {
+    float: left;
+    margin-right: 20px
+}
+
+.float-right {
+    float: right;
+    margin-left: 20px
+}
+
+.sc--center {
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center
+}
+
+.top-20 {
+    margin-top: 20px
+}
+
+.bottom-20 {
+    margin-bottom: 20px
+}
+
+.daily-report img {
+    width: inherit;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px
+}
+
+.daily-report ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0
+}
+
+.daily-report ul li {
+    margin-left: 0;
+    padding: 0;
+    width: 100%
+}
+
+.md-padding {
+    padding: 20px
+}
+
+.tb-15 {
+    margin: 15px 0
+}
+
+.rounded {
+    border-radius: 100%;
+    border: 1px solid #dedede;
+    padding: 3px;
+    width: 125px;
+    height: 125px
+}
+
+.separator-line-thin-gray-xs {
+    height: 1px;
+    background-color: #dedede;
+    margin: 0
+}
+
+.separator-line-thin-gray {
+    display: block;
+    height: 1px;
+    background-color: #dedede;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.Share {
+    text-align: right;
+    margin: 0;
+    margin: 10px 0;
+}
+
+.Share h5 {
+    font-weight: 400;
+    margin: 0;
+    margin-bottom: 5px;
+    font-size: 14px
+}
+
+.Share ul,
+.Social ul {
+    margin: 0;
+    padding: 0
+}
+
+.Share ul li,
+.Social ul li {
+    display: inline-block;
+    margin: 0;
+    padding: 0 3px
+}
+
+.Share img,
+.Social img {
+    width: 30px;
+    height: 30px
+}
+
+.Social {
+    text-align: right;
+    margin: 15px 0
+}
+
+@media only screen and (max-width:768px) {
+    .Share {
+        text-align: center;
+        margin: 0;
+        margin-bottom: 15px
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .Social {
+        margin-top: 5px;
+        margin-bottom: 15px;
+        text-align: center
+    }
+}
+
+.video-container {
+    position: relative;
+    margin-top: 20px;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0
+}
+
+.video-thumb {
+    cursor: pointer;
+    display: inline-block;
+    width: 22%;
+    margin: 4% 4% 0 0;
+    vertical-align: top
+}
+
+.video-thumb:nth-child(4n) {
+    margin-right: 0
+}
+
+.video-thumb img {
+    padding-bottom: 1em
+}
+
+.video-thumb p {
+    font-size: 14px;
+    margin: 0
+}
+
+.unbounce--confirmation iframe {
+    border: none;
+    margin: 0;
+    padding: 0
+}
+
+.button {
+    display: inline-table;
+}
+
+.separator-lg {
+    height: 30px;
+    display: table
+}
+
+.regulatory-text {
+    text-align: justify;
+    font-size: .6575162324rem
+}
+
+.centered {
+    text-align: center!important
+}
+
+.ico-banner-layout {
+    background-image:url({{'/images/ico/970x90-bg.jpg' | prepend:SourceUrl}});
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    margin: 20px 0
+}
+
+.ico-banner-title {
+    display: block;
+    font-weight: 700;
+    font-size: 24px;
+    color: #e98024;
+    margin-top: 15px
+}
+
+.ico-banner-subtitle {
+    display: block;
+    font-weight: 400;
+    font-size: 24px
+}
+
+.ico-banner-col-end-date {
+    border-left: 30px solid transparent;
+    border-bottom: 100px solid #e98024;
+    height: 0;
+    line-height: 40px;
+    padding: 0;
+    margin: 0;
+    margin-left: -15px
+}
+
+.ico-banner-ends {
+    display: block;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32px;
+    color: #fff;
+    margin-top: 20px;
+    padding: 0 20px
+}
+
+.ico-date {
+    display: block
+}
+
+@media only screen and (max-width:992px) {
+    .ico-banner-ends {
+        font-size: 22px;
+        line-height: 26px;
+        padding: 0 5px
+    }
+}
+
+@media only screen and (max-width:766px) {
+    .ico-banner-col-end-date {
+        border-left: 0;
+        border-bottom: 0;
+        height: 100%;
+        line-height: auto;
+        background-color: #e98024;
+        padding: 15px 0;
+        margin: 0 15px;
+        margin-top: 20px;
+        display: block
+    }
+    .ico-banner-col-main {
+        display: block
+    }
+    .ico-banner-ends {
+        margin: 0;
+        padding: 5px
+    }
+    .ico-date {
+        display: inline
+    }
+}
+
+.ico-banner-links:hover {
+    text-decoration: none
+}
