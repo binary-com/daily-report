@@ -1,7 +1,7 @@
 ---
 ---
 {% include geturl.html %}
-a h2:hover {color:inherit;}
+
 .topbar {
     min-height: 28px
 }
@@ -31,74 +31,6 @@ a h2:hover {color:inherit;}
 
 .topbar .language-wrapper .language {
     padding: 5px 1px
-}
-
-.Header__title {
-    color: #fff;
-    margin: 0;
-    padding-top: 10px;
-    padding-right: 20px;
-    text-align: right;
-    font-weight: 300!important;
-    margin-top: 5px!important
-}
-
-@media (max-width:992px) {
-    .Header__title {
-        text-align: right;
-        margin-bottom: 10px;
-        padding-right: 0
-    }
-}
-
-.Subheader {
-    display: table;
-    width: 100%;
-    font-size: 15px;
-    border-bottom: 1px solid #dedede;
-    padding: 0;
-    text-align: left
-}
-
-.Subheader ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    margin: 0;
-    width: 100%;
-    display: block
-}
-
-.Subheader ul li {
-    display: inline-block;
-    margin: 0;
-    padding: 5px 0
-}
-
-.Subheader ul li a {
-    margin: 0;
-    padding: 4px 15px;
-    font-weight: 400
-}
-
-.Subheader ul li a:hover {
-    text-decoration: none
-}
-
-@media (max-width:768px) {
-    .Subheader ul li {
-        display: block;
-        margin: 0 0;
-        padding: 6px 0;
-        width: 100%;
-        border-bottom: 1px solid #ccc
-    }
-    .Subheader ul li a {
-        width: 100%;
-        margin: 0;
-        padding: 7px 15px;
-        display: block
-    }
 }
 
 .sidebar-box {
@@ -151,12 +83,6 @@ a h2:hover {color:inherit;}
     line-height: 110%
 }
 
-@media only screen and (max-width:480px) {
-    .mobile-hide {
-        display: none!important
-    }
-}
-
 .report-list {
     width: 100%
 }
@@ -168,42 +94,6 @@ img {
 .list-group {
     padding-left: 0;
     margin-bottom: 20px
-}
-
-.post--date {
-    display: block;
-    font-weight: 400;
-    font-size: 14px;
-    color: #000;
-    margin-top: -20px
-}
-
-.p--action {
-    margin: 30px 0;
-    text-align: center!important
-}
-
-.fl--left {
-    float: left;
-    margin-right: 20px;
-    margin-bottom: 15px
-}
-
-.float-left {
-    float: left;
-    margin-right: 20px
-}
-
-.float-right {
-    float: right;
-    margin-left: 20px
-}
-
-.sc--center {
-    display: block;
-    margin-left: 0;
-    margin-right: 0;
-    text-align: center
 }
 
 .top-20 {
@@ -223,18 +113,6 @@ img {
     margin-top: 30px
 }
 
-.daily-report ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0
-}
-
-.daily-report ul li {
-    margin-left: 0;
-    padding: 0;
-    width: 100%
-}
-
 .md-padding {
     padding: 20px
 }
@@ -243,26 +121,16 @@ img {
     margin: 15px 0
 }
 
-.rounded {
-    border-radius: 100%;
-    border: 1px solid #dedede;
-    padding: 3px;
-    width: 125px;
-    height: 125px
+@media only screen and (max-width:480px) {
+    .mobile-hide {
+        display: none!important
+    }
 }
 
 .separator-line-thin-gray-xs {
     height: 1px;
     background-color: #dedede;
     margin: 0
-}
-
-.separator-line-thin-gray {
-    display: block;
-    height: 1px;
-    background-color: #dedede;
-    margin-top: 20px;
-    margin-bottom: 20px
 }
 
 .Share {
@@ -318,60 +186,8 @@ img {
     }
 }
 
-.video-container {
-    position: relative;
-    margin-top: 20px;
-    padding-bottom: 56.25%;
-    padding-top: 30px;
-    height: 0;
-    overflow: hidden
-}
-
-.video-container iframe,
-.video-container object,
-.video-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: 0
-}
-
-.video-thumb {
-    cursor: pointer;
-    display: inline-block;
-    width: 22%;
-    margin: 4% 4% 0 0;
-    vertical-align: top
-}
-
-.video-thumb:nth-child(4n) {
-    margin-right: 0
-}
-
-.video-thumb img {
-    padding-bottom: 1em
-}
-
-.video-thumb p {
-    font-size: 14px;
-    margin: 0
-}
-
-.unbounce--confirmation iframe {
-    border: none;
-    margin: 0;
-    padding: 0
-}
-
 .button {
     display: inline-table;
-}
-
-.separator-lg {
-    height: 30px;
-    display: table
 }
 
 .regulatory-text {
@@ -381,6 +197,10 @@ img {
 
 .centered {
     text-align: center!important
+}
+
+.text-right {
+	text-align: right;
 }
 
 .ico-banner-layout {
