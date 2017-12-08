@@ -3,27 +3,12 @@ layout: compress
 ---
 <!DOCTYPE html>
 {% include lang.html %}
-{% include sourceurl.html %}
+{% include geturl.html %}
 <html lang="{{ siteLang }}">
 {% include head.html %}    
     {% include header.html %}	
 		<div class="container">
-			<div class="row">
-				<div class="col-sm-12">
-					<a class="ico-banner-links" href="https://info.binary.com/binaryico_karen">
-						<div class="ico-banner-layout">
-							<div class="row">
-								<div class="col-md-9 ico-banner-col-main">
-									<span class="ico-banner-title">THE BINARY.COM ICO IS NOW LIVE</span> <span class="ico-banner-subtitle">The World's First ICO with 18 Years of History</span>
-								</div>
-								<div class="col-md-3 ico-banner-col-end-date">
-									<div class="ico-banner-ends">Token sale <span class="ico-date">ends 25 Dec</span></div>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-			</div>	
+			{% include snippets/ico-banner.html %}	
 			<div class="row">	
 				<div class="col-md-8">	
 				</div>
@@ -31,21 +16,16 @@ layout: compress
 					{% include snippets/share.html %}
 				</div>
 			</div>
-		</div>
-		<div class="container">
 			<div class="row">
-				<div class="col-md-9">
-					<div class="rte">{{ content }}</div>
+				<div class="col-md-9">			
+					{{ content }}				
 				</div>
 				<div class="col-md-3">
 					{% include sidebar/ready-to-start.html %}
-					{% include sidebar/latest-list.html %}
-					<div class="sc--center">
-					
-					</div>
+					{% include sidebar/latest-list.html %}				
 				</div>
 			</div>
-		</div>
+		</div>	
 		{% include footer.html %}	
 	</body>
 </html>
