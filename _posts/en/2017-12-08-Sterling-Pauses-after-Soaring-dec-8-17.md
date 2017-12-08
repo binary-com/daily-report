@@ -18,7 +18,7 @@ Gold is nudging higher after heavy selling yesterday.
 
 ## Coming up today 
 
-At 09.30, we get UK manufacturing production at 09.30, released alongside goods trade balance. 
+At 09.30, we get UK manufacturing production released alongside goods trade balance. 
 
 At 13.30, we get US Non Farm Payrolls which are expected to increase by 198,000. At the same time, we have average hourly earnings and the unemployment rate. 
 
