@@ -5,7 +5,7 @@
 			<h3>{{ translate.recent_posts }}</h3>
 			<ul class="list-group">	
 			{% assign ActiveLanguagePosts = site.posts | where: "language", siteLang %}	
-			{% for post in ActiveLanguagePosts | limit:20 %}
+			{% for post in ActiveLanguagePosts %}
 				{% if post.language == siteLang %}														
 					{% if post.title %}
 						<li><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>
