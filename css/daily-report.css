@@ -2,6 +2,14 @@
 ---
 {% include geturl.html %}
 
+h1 a {
+	font-weight: 300;
+}
+
+h1 a:hover {
+	text-decoration: underline;
+}
+
 .topbar {
     min-height: 28px
 }
