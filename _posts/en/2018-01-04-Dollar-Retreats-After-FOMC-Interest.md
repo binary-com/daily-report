@@ -37,6 +37,6 @@ With the US dollar on the retreat again this morning, there is more upside on th
 
 <img class="post-image" src="{{ site.url }}/images/jan-18/2018-01-04_07-01-36.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7900" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/USD will close above 0.7900 in 14 days for a potential return of 211%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7900" target="_blank">A good way to play this is a HIGHER trade predicting that the AUD/USD will close above 0.7900 in 14 days for a potential return of 211%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jan-18/2018-01-04_07-04-32.jpg" alt="{{ page.title }}" title="{{ page.title }}">
