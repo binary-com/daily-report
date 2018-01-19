@@ -2,7 +2,7 @@
 layout: post
 title: "Jan 19th, 2018: Aussie Extends Winning Run"
 language: en
-permalink: /en/Aussie Extends Winning Run-19-jan-18/
+permalink: /en/Aussie-Extends-Winning-Run-19-jan-18/
 ---
 ## Morning Report: 07.00 London
 
