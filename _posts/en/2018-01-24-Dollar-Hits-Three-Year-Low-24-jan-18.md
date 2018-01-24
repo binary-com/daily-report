@@ -28,10 +28,10 @@ US crude oil inventories are at 15.30.
 
 With the US dollar continuing to struggle, betting on dollar pairs to climb higher could be a good bet from here. 
 
-A strong candidate is the NZD/USD which is steadily climbing from the December lows.
+A strong candidate is the AUD/USD which is steadily climbing from the December lows.
 
-<img class="post-image" src="{{ site.url }}/images/jan-18/2018-01-24_07-31-33.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/jan-18/en-24-jan-18.png" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=higherlower&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=0.880" target="_blank">A good way to play this is a HIGHER trade predicting that the NZD/USD will close above 0.8800 in 14 days for a potential return of 118%.</a>
+<a href="http://record.binary.com/_bPzDzniJKAJHH6eEtUVc2J0co5lt24DG/1/?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=0.809" target="_blank">A good way to play this is a HIGHER trade predicting that the AUD/USD will close above 0.8090 in 14 days for a potential return of 128%.</a>
 
-<img class="post-image" src="{{ site.url }}/images/jan-18/2018-01-24_07-34-02.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/jan-18/en-24-jan-18-trade.png" alt="{{ page.title }}" title="{{ page.title }}">
