@@ -8,7 +8,7 @@ permalink: /en/Yen-Advances-as-Markets-Turn-Cautious-30-jan-18/
 
 This morning, the Japanese yen is on the rise as markets look for safer harbours and the previous weeks excesses are blown away. The yen pairs are the biggest losers, with the AUD/JPY down 0.62%. 
 
-The USD/JPY itself has continued its losing run that first started in November. This comes as a government advisor advised the BOJ and its new head to stick to Adenomics. 
+The USD/JPY itself has continued its losing run that first started in November. This comes as a government advisor advised the BOJ and its new head to stick to Abenomics. 
 
 The GBP/JPY has demonstrated the hardest reversal, with the pair selling heavily for the last four days including today. 
 
@@ -22,7 +22,7 @@ This morning, we have UK net lending to individuals at 09.30.
 
 European preliminary flash GDP is at 10.00. 
 
-US CB Consumer Confidence speaks at 15.00. 
+US CB Consumer Confidence at 15.00. 
 
 BOE governor Carney speaks at 15.30. 
 
