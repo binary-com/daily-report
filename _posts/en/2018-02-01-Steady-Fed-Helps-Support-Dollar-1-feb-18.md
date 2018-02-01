@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Feb 2nd, 2018: Steady Fed Helps Support Dollar"
+title: "Feb 1st, 2018: Steady Fed Helps Support Dollar"
 language: en
 permalink: /en/Steady-Fed-Helps-Support-Dollar-1-feb-18/
 ---
