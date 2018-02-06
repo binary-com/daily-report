@@ -28,6 +28,6 @@ The AUD/JPY is the most sensitive to these moves, with further downside on the c
 
 <img class="post-image" src="{{ site.url }}/images/feb-18/2018-02-06_07-31-19.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=84.00" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/JPY will touch 84.00 in 14 days for a potential return of 104%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=84.00" target="_blank">A good way to play this is a TOUCH trade predicting that the AUD/JPY will touch 84.00 in 14 days for a potential return of 104%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/feb-18/2018-02-06_07-32-04.jpg" alt="{{ page.title }}" title="{{ page.title }}">
