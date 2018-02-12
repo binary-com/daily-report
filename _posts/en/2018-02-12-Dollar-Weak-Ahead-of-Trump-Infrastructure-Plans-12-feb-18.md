@@ -32,6 +32,6 @@ Volatility is likely to be the biggest risk over coming days and weeks. As the A
 
 <img class="post-image" src="{{ site.url }}/images/feb-18/en-12-feb-18.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7700" target="_blank">A good way to play this a ONE TOUCH trade predicting that the AUD/USD will touch 0.7700 within the next 14 days could return 101% if successful.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7700" target="_blank">A good way to play this a TOUCH trade predicting that the AUD/USD will touch 0.7700 within the next 14 days could return 101% if successful.</a>
 
 <img class="post-image" src="{{ site.url }}/images/feb-18/en-12-feb-1-18.jpg" alt="{{ page.title }}" title="{{ page.title }}">
