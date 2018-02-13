@@ -18,7 +18,7 @@ Across yen pairs, the USD/JPY is leading a negative bias and heading for the Sep
 
 Coming up today, we have UK CPI at 09.30 and RP at the same time. 
 
-At 13.00, we have US FOMC member Mester speaking at 13.00. 
+At 13.00, we have US FOMC member Mester speaking. 
 
 ## Trade Idea
 
