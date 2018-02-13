@@ -8,7 +8,7 @@ permalink: /en/Markets-Extends-Rebound-13-feb-18/
 
 This morning, world markets look set to extend their recovery, with the US dollar index backing off. The dollar pairs are generally higher, led by the EUR/USD which is setting up for two straight days of gains. 
 
-The AUD/USD continues to push higher after Monday’s opening gap higher, while the mirrors a similar run. 
+The AUD/USD continues to push higher after Monday’s opening gap higher, while the NZD/USD mirrors a similar run. 
 
 The GBP/USD is higher but the pound is generally lagging other pairs, helping the EUR/GBP to rise for the third straight day. 
 
