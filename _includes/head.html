@@ -2,23 +2,17 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-	<meta name="description" content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-	<meta name="keywords" content="{{ page.keywords }}">
+	{% include metatg.html %}
 	<link rel="icon" href="{{ '/images/binary-icon.png' | prepend: SourceUrl }}" sizes="57x57"/>
 	<link rel="stylesheet" href="https://style.binary.com/binary.css">
 	<link rel="stylesheet" href="{{ '/css/grid.css' | prepend: SourceUrl }}">	
 	<link rel="stylesheet" href="{{ '/css/daily-report.css' | prepend: SourceUrl }}">	
-	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: SourceUrl }}">		
-	{% if siteLang == "en" %}
-    <link href="{{ site.url }}/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts" />
-	{% elsif siteLang == "id" %}
-	<link href="{{ site.url }}/feed-id.xml" type="application/rss+xml" rel="alternate" title="Laporan" />
-	{% elsif siteLang == "ru" %}
-	<link href="{{ site.url }}/feed-ru.xml" type="application/rss+xml" rel="alternate" title="Анализ Рынка" />	
-	{% else %}
-	<link href="{{ site.url }}/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts" />
-	{% endif %}		
+	<link rel="canonical" href="{{ page.url | replace:'index.html' | prepend: SourceUrl }}">			
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 	<script src="https://style.binary.com/binary.js"></script>
 </head>
+
+
+
+
+    	

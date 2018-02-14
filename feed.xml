@@ -14,7 +14,7 @@ layout: null
 		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
 		<link>{{ site.url }}</link>
 		<description>Dave Evans, Market Analyst</description>
-		<lastBuildDate>{{ page.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+		<lastBuildDate>{{ post.date | date_to_long_string }}</lastBuildDate>
 		<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -23,12 +23,12 @@ layout: null
 			{% for post in engPosts limit:10 %}
 				<item>
 					<title>{{ post.title | xml_escape }}</title>
-					<link>{{ site.url }}/{{ post.url }}</link>
+					<link>{{ site.url }}{{ post.url }}</link>
 					<comments>{{ site.url }}/{{ post.url }}</comments>
-					<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+					<pubDate>{{ post.date | date_to_long_string }}</pubDate>
 					<dc:creator><![CDATA[regentbinary]]></dc:creator>
 							<category><![CDATA[Market]]></category>
-					<guid isPermaLink="false">{{ site.url }}/{{ post.url }}</guid>
+					<guid isPermaLink="false">{{ site.url }}{{ post.url }}</guid>
 					<description>
 						<![CDATA[  
 							{{ post.content | truncatewords: 50 }}
