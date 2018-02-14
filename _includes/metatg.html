@@ -1,0 +1,21 @@
+{% if siteLang == "en" %}
+<title>{% if page.title %}Binary.com - {{ page.title }}{% else %}{{ site.title | escape }} - {{ page.date | date_to_long_string }} {% endif %}</title>
+<meta name="description" content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.content | strip_html | truncate: 160 }}{% endif %}">
+<meta name="keywords" content="{{ page.keywords }}">
+<link href="{{ site.url }}/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts" />
+{% elsif siteLang == "id" %}
+<title>{% if page.title %}Binary.com - {{ page.title }}{% else %}Binary.com Анализ Рынка - {{ page.date | date_to_long_string }} {% endif %}</title>
+<meta name="description" content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.content | strip_html | truncate: 160 }}{% endif %}">
+<meta name="keywords" content="{{ page.keywords }}">
+<link href="{{ site.url }}/feed-id.xml" type="application/rss+xml" rel="alternate" title="Laporan" />
+{% elsif siteLang == "ru" %}
+<title>{% if page.title %}Binary.com {{ page.title }}{% else %}Binary.com Анализ Рынка - {{ page.date | date_to_long_string }} {% endif %}</title>	
+<meta name="description" content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.content | strip_html | truncate: 160 }}{% endif %}">
+<meta name="keywords" content="{{ page.keywords }}">
+<link href="{{ site.url }}/feed-ru.xml" type="application/rss+xml" rel="alternate" title="Анализ Рынка" />
+{% else %}
+<title>{% if page.title %}Binary.com - {{ page.title }}{% else %}{{ site.title | escape }} - {{ page.date | date_to_long_string }} {% endif %}</title>
+<meta name="description" content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.content | strip_html | truncate: 160 }}{% endif %}">
+<meta name="keywords" content="{{ page.keywords }}">
+<link href="{{ site.url }}/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts" />
+{% endif %}
