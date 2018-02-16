@@ -14,7 +14,7 @@ layout: null
 		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
 		<link>{{ site.url }}</link>
 		<description>Dave Evans, Market Analyst</description>
-		<lastBuildDate>{{ post.date | date_to_long_string }}</lastBuildDate>
+		<lastBuildDate>{{ site.date | date_to_long_string }}</lastBuildDate>
 		<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -34,6 +34,11 @@ layout: null
 							{{ post.content | truncatewords: 50 }}
 						]]>
 					</description>
+                    <image>
+                        <url>{{ site.url }}/images/{{ post.featured}}</url>
+                        <title>Daily Reprt</title>
+                        <link>{{ site.url }}{{ post.url }}</link>
+                      </image>
 					<content:encoded>
 						<![CDATA[
 							{{ post.content }}
