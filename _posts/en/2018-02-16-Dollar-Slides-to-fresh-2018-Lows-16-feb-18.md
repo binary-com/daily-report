@@ -20,7 +20,7 @@ Meanwhile, gold is set for a fresh 2018 closing high.
 
 ## Coming up today 
 
-Coming up today, we have US retail sales at 09.30. 
+Coming up today, we have UK retail sales at 09.30. 
 
 This is followed by Canadian foreign securities purchases and manufacturing sales at 13.30. 
 
