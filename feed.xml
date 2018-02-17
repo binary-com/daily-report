@@ -24,7 +24,7 @@ layout: null
 				<item>
 					<title>{{ post.title | xml_escape }}</title>
 					<link>{{ site.url }}{{ post.url }}</link>
-					<comments>{{ site.url }}/{{ post.url }}</comments>
+					<comments>{{ site.url }}{{ post.url }}</comments>
 					<pubDate>{{ post.date | date_to_long_string }}</pubDate>
 					<dc:creator><![CDATA[regentbinary]]></dc:creator>
 							<category><![CDATA[Market]]></category>
@@ -34,11 +34,6 @@ layout: null
 							{{ post.content | truncatewords: 50 }}
 						]]>
 					</description>
-                    <image>
-                        <url>{{ site.url }}/images/{{ post.featured}}</url>
-                        <title>Daily Report</title>
-                        <link>{{ site.url }}{{ post.url }}</link>
-                      </image>
 					<content:encoded>
 						<![CDATA[
 							{{ post.content }}
