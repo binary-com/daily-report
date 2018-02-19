@@ -4,6 +4,8 @@ title: "Feb 16th, 2018: Dollar Slides to fresh 2018 Lows"
 language: en
 permalink: /en/Dollar-Slides-to-fresh-2018-Lows-16-feb-18/
 image: /images/feb-18/en-16-feb-18.jpg
+subtitle: Dollar Slides to fresh 2018 Lows
+summary: "The US dollar index is on the slide again, threatening fresh 2018 lows as last week’s rate hike excitement subsides. Stock markets are riding to the highs again by contrast"
 ---
 ## Morning Report: 07.00 London
 

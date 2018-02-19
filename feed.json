@@ -23,12 +23,12 @@ layout: null
         {
             "id": "{{ post.url | absolute_url | sha1 }}",
             "title": {{ post.title | jsonify }},
-            "summary": {{ post.seo_description | jsonify }},
-            "img": "{{  site.url }}{{ post.image }}",
+            "subtitle": {{ post.subtitle | jsonify }},
+            "summary": {{ post.summary | truncatewords: 20 | jsonify }},
             "content_text": {{ post.content | strip_html | strip_newlines | jsonify }},
             "content_html": {{ post.content | strip_newlines | jsonify }},
             "url": "{{ post.url | absolute_url }}",
-            {% if post.image.size > 1 %}"image": " {{ post.image | absolute_url }}",{% endif %}
+            {% if post.image.size > 1 %}"image": "{{ post.image | absolute_url }}",{% endif %}
             {% if post.link.size > 1 %}"external_url": "{{ post.link }}",{% endif %}
             {% if post.banner.size > 1 %}"banner_image": "{{ post.banner }}",{% endif %}
             {% if post.tags.size > 1 %}"tags": {{ post.tags | jsonify }},{% endif %}

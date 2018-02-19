@@ -3,6 +3,9 @@ layout: post
 title: "Feb 12th, 2018: Dollar Weak Ahead of Trump Infrastructure Plans"
 language: en
 permalink: /en/Dollar-Weak-Ahead-of-Trump-Infrastructure-Plans-12-feb-18/
+image: /images/feb-18/en-12-feb-18.jpg
+subtitle: Dollar Weak Ahead of Trump Infrastructure Plans
+summary: "After last week’s excitement markets appear stable, but the S&P 500 still remains down by 2% year to date. The dollar has backed off the pace this morning as Donald Trump prepares massive infrastructure plans – another potential risk event for market traders"
 ---
 ## Morning Report: 07.00 London
 

@@ -3,6 +3,9 @@ layout: post
 title: "Feb 13th, 2018: Markets Extends Rebound"
 language: en
 permalink: /en/Markets-Extends-Rebound-13-feb-18/
+image: /images/feb-18/en-13-feb-18.jpg
+subtitle: Markets Extends Rebound
+summary: "World markets look set to extend their recovery, with the US dollar index backing off. The dollar pairs are generally higher, led by the EUR/USD which is setting up for two straight days of gains"
 ---
 ## Morning Report: 07.00 London
 

@@ -3,6 +3,9 @@ layout: post
 title: "Feb 2nd, 2018: Dollar is back on the rise"
 language: en
 permalink: /en/Dollar-is-back-on-the-rise-2-feb-18/
+image: /images/feb-18/2018-02-02_07-42-17.jpg
+subtitle: Dollar is back on the rise
+summary: "The dollar is back on the rise ahead of today’s Non Farm Payrolls after yesterday’s losses. Yesterday’s poor performance was driven by activity in treasuries which superseded strong economic data and results from tech giants who reported results last night"
 ---
 ## Morning Report: 07.00 London
 

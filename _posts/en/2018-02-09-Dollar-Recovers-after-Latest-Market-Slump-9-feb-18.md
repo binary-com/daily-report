@@ -3,6 +3,9 @@ layout: post
 title: "Feb 9th, 2018: Dollar Recovers after Latest Market Slump"
 language: en
 permalink: /en/Dollar-Recovers-after-Latest-Market-Slump-9-feb-18/
+image: /images/feb-18/2018-02-09_07-16-47.jpg
+subtitle: Dollar Recovers after Latest Market Slump
+summary: "The dollar index is recovering after the latest bout of volatility which saw the Dow Jones lose more than 1000 points. The dollar made small losses, with gains made this morning. Generally, currency markets have avoided the worst of stock market volatility"
 ---
 ## Morning Report: 07.00 London
 

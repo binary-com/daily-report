@@ -3,6 +3,9 @@ layout: post
 title: "Feb 8th, 2018: Dollar Stable, Eyes on MPC"
 language: en
 permalink: /en/Dollar-Stable-Eyes-on-MPC-8-feb-18/
+image: /images/feb-18/2018-02-08_07-28-46.jpg
+subtitle: Dollar Stable, Eyes on MPC
+summary: "The US dollar is mixed after yesterday’s rally in line with stocks. This comes as hopes rise for a breaking of the US budget deadlock. In turn, the dollar pairs are generally mixed"
 ---
 ## Morning Report: 07.00 London
 

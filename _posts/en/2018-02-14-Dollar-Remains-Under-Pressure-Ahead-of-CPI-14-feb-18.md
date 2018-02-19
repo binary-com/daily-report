@@ -3,6 +3,9 @@ layout: post
 title: "Feb 14th, 2018: Dollar Remains Under Pressure Ahead of CPI"
 language: en
 permalink: /en/Dollar-Remains-Under-Pressure-Ahead-of-CPI-14-feb-18/
+image: /images/feb-18/2018-02-14_07-26-37.jpg
+subtitle: Dollar Remains Under Pressure Ahead of CPI
+summary: "The US dollar continues to trade on the back foot ahead of today’s US inflation data. The US dollar index is now set to fall for three straight sessions. US retail sales are set to fall by 0.2%"
 ---
 ## Morning Report: 07.00 London
 
