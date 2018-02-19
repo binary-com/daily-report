@@ -3,6 +3,9 @@ layout: post
 title: "Feb 1st, 2018: Steady Fed Helps Support Dollar"
 language: en
 permalink: /en/Steady-Fed-Helps-Support-Dollar-1-feb-18/
+image: /images/jan-18/2018-02-01_07-33-30.jpg
+subtitle: Steady Fed Helps Support Dollar
+summary: "The dollar is on the rise this morning, supported by an in-line Final Fed meeting for departing chair Janet Yellen. Dollar pairs are on the back foot, with the AUD/USD leading the fallers, down 0.48%"
 ---
 ## Morning Report: 07.00 London
 

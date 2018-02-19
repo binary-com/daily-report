@@ -3,6 +3,9 @@ layout: post
 title: "Feb 15th, 2018: Yen hits 15 month High as Dollar Declines"
 language: en
 permalink: /en/Yen-hits-15-month-High-as-Dollar-Declines-15-feb-18/
+image: /images/feb-18/2018-02-15_07-42-33.jpg
+subtitle: Yen hits 15 month High as Dollar Declines
+summary: "The Japanese Yen has hit 15 month highs against the US dollar, sending the USD/JPY spiralling. This came despite bigger than expected US inflation data that sent Treasury yields sharply higher"
 ---
 ## Morning Report: 07.00 London
 

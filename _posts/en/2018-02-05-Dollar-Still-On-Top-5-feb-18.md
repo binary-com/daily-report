@@ -3,6 +3,9 @@ layout: post
 title: "Feb 5th, 2018: Dollar Still On Top"
 language: en
 permalink: /en/Dollar-Still-On-Top-5-feb-18/
+image: /images/feb-18/2018-02-05_07-23-57.jpg
+subtitle: Dollar Still On Top
+summary: "This morning, the US dollar is slipping back, but still remains in the driving seat after Friday’s rally. Friday saw a surge in interest for the dollar on better than expected Payroll data and bond yields"
 ---
 ## Morning Report: 07.00 London
 

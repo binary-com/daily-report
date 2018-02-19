@@ -3,6 +3,9 @@ layout: post
 title: "Feb 6th, 2018: Global Market Rout"
 language: en
 permalink: /en/Global-Market-Rout-6-feb-18/
+image: /images/feb-18/2018-02-06_07-31-19.jpg
+subtitle: Global Market Rout
+summary: "It is said that stock markets go upstairs and down escalators. This much is true of the current sell-off as 2018’s carefully fought gains are reversing in three brutal sessions"
 ---
 ## Morning Report: 07.00 London
 

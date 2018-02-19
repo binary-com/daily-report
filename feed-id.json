@@ -18,8 +18,8 @@ layout: null
     },{% else %}"{{ site.author }}",{% endif %}
     {% endif %}
 "items": [
-    {% assign ruPosts = site.posts | where: "language", "ru" %}
-    {% for post in ruPosts limit:36 %}
+    {% assign idPosts = site.posts | where: "language", "id" %}
+    {% for post in idPosts limit:36 %}
         {
             "id": "{{ post.url | absolute_url | sha1 }}",
             "title": {{ post.title | jsonify }},

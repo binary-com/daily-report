@@ -4,6 +4,8 @@ title: "Feb 19th, 2018: Dollar Recovers On Strong Data"
 language: en
 permalink: /en/Dollar-Recovers-On-Strong-Data-19-feb-18/
 image: /images/feb-18/2018-02-19_07-42-23.jpg
+subtitle: Dollar Recovers On Strong Data
+summary: "This morning, the US dollar continues to recover after a slew of positive data on Friday. Building permits, housing starts, import prices and preliminary UoM consumer sentiment all came in above expectations"
 ---
 ## Morning Report: 07.00 London
 

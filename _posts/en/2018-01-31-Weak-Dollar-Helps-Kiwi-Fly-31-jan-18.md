@@ -3,6 +3,9 @@ layout: post
 title: "Jan 31st, 2018: Weak Dollar Helps Kiwi Fly"
 language: en
 permalink: /en/Weak-Dollar-Helps-Kiwi-Fly-31-jan-18/
+image: /images/jan-18/2018-01-31_07-32-09.jpg
+subtitle: Weak Dollar Helps Kiwi Fly
+summary: "This morning, the dollar index is on the back foot after a muted reaction to Trump’s state of the union speech. This has been good news for the NZD/USD which is powering higher this morning"
 ---
 ## Morning Report: 07.00 London
 

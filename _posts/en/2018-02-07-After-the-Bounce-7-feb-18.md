@@ -3,6 +3,9 @@ layout: post
 title: "Feb 7th, 2018: After the Bounce?"
 language: en
 permalink: /en/After-the-Bounce-7-feb-18/
+image: /images/feb-18/2018-02-07_07-30-32.jpg
+subtitle: After the Bounce?
+summary: "World markets rallied hard yesterday as after the worst sell-off since 2015. The question now remains whether this will prove to be a dead cat bounce or the catalyst for renewed highs"
 ---
 ## Morning Report: 07.00 London
 
