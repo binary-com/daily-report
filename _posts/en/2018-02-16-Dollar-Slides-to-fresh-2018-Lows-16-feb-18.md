@@ -3,7 +3,7 @@ layout: post
 title: "Feb 16th, 2018: Dollar Slides to fresh 2018 Lows"
 language: en
 permalink: /en/Dollar-Slides-to-fresh-2018-Lows-16-feb-18/
-featured: feb-18/en-16-feb-18.jpg
+image: /images/feb-18/en-16-feb-18.jpg
 ---
 ## Morning Report: 07.00 London
 
