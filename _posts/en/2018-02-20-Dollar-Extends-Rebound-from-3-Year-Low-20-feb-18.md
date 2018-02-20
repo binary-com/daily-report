@@ -29,6 +29,6 @@ The AUD/USD has performed well in the short and medium term and there could be m
 
 <img class="post-image" src="{{ site.url }}/images/feb-18/2018-02-20_07-29-41.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7950" target="_blank">A good way to play this is a HIGHER trade predicting that the AUD/USD will close above 0.7950 in 14 days for a potential return of 150%..</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7950" target="_blank">A good way to play this is a HIGHER trade predicting that the AUD/USD will close above 0.7950 in 14 days for a potential return of 150%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/feb-18/2018-02-20_07-31-26.jpg" alt="{{ page.title }}" title="{{ page.title }}">
