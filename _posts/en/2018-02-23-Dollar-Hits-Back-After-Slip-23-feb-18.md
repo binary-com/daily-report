@@ -5,7 +5,7 @@ language: en
 permalink: /en/Dollar-Hits-Back-After-Slip-23-feb-18/
 image: /images/feb-18/2018-02-23_07-31-17.jpg
 subtitle: Dollar Hits Back After Slip
-summary: "his morning, the dollar is rebounding after yesterday’s reversal, putting renewed pressure on the dollar pairs that were unable to capitalise on yesterday’s benign conditions. One such pair is the NZD/USD which barely saw an upwards move yesterday"
+summary: "The dollar is rebounding after yesterday’s reversal, putting renewed pressure on the dollar pairs that were unable to capitalise on yesterday’s benign conditions. One such pair is the NZD/USD which barely saw an upwards move yesterday"
 ---
 ## Morning Report: 07.00 London
 
