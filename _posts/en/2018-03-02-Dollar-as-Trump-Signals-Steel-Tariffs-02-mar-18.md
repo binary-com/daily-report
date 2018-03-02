@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "Mar 2nd, 2018: Dollar as Trump Signals Steel Tariffs"
+title: "Mar 2nd, 2018: Dollar Dips as Trump Signals Steel Tariffs"
 language: en
 permalink: /en/Dollar-as-Trump-Signals-Steel-Tariffs-02-mar-18/
 image: /images/mar-18/2018-03-02_07-24-26.jpg
-subtitle: Dollar as Trump Signals Steel Tariffs
+subtitle: Dollar Dips as Trump Signals Steel Tariffs
 summary: "This morning, the US dollar is reversing lower following a negative reaction to Trump’s plan to impose a 25% tariff on steel imports. The dollar pairs are generally positive, but there are some exceptions as the EUR/USD trades lower and AUD/USD remains"
 ---
 ## Morning Report: 07.00 London
 
-This morning, the US dollar is reversing lower following a negative reaction to Trump’s plan to impose a 25% tariff on steel imports. The dollar pairs are generally positive, but there are some exceptions as the EUR/USD trades lower and AUD/USD remains. 
+This morning, the US dollar is reversing lower following a negative reaction to Trump’s plan to impose a 25% tariff on steel imports. The dollar pairs are generally positive, but there are some exceptions as the EUR/USD trades lower and AUD/USD remains subdued. 
 
 The GBP/USD is on the rise after selling yesterday and significant under performance compared to the euro. The EUR/GBP rose to the top of the trading range. 
 
 The NZD/USD is making further gains after putting in one of the strongest performance yesterday. 
 
-Dollar outflows are biggest into the Swiss Franc and Japanese yen. The latter has extended its recent losing run. 
+Dollar outflows are biggest into the Swiss Franc and Japanese yen. The latter has extended its recent winning run. 
 
 The EUR/JPY has broken the week’s lows. All other yen pairs are following suit.  
 
