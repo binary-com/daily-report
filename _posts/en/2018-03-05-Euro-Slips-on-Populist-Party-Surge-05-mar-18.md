@@ -33,6 +33,6 @@ With Trump’s tariff threat potentially impacting raw commodity prices as well,
 
 <img class="post-image" src="{{ site.url }}/images/mar-18/en-05-mar-18.png" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="http://record.binary.com/_bPzDzniJKAJHH6eEtUVc2J0co5lt24DG/1/?currency=GBP&market=forex&underlying=frxAUDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=81.50" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/JPY will close below 82.50 in 14 days for a potential return of 125%.</a>
+<a href="http://record.binary.com/_bPzDzniJKAJHH6eEtUVc2J0co5lt24DG/1/?currency=GBP&market=forex&underlying=frxAUDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=81.50" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/JPY will close below 81.50 in 14 days for a potential return of 125%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/mar-18/en-05-mar-2-18.png" alt="{{ page.title }}" title="{{ page.title }}">
