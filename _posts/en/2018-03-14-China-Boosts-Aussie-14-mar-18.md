@@ -11,7 +11,7 @@ summary: "The Australian dollar is leading markets higher after better than expe
 
 This morning, the Australian dollar is leading markets higher after better than expected Chinese industrial production data. Both the AUD/ USD and AUD/ JPY are rising after yesterday’s volatile session. 
 
-The dollar pairs are generally mixed, with the dollar index negative admin US political uncertainty. The EUR/USD and GBP/USD are on the back foot slightly. 
+The dollar pairs are generally mixed, with the dollar index negative amid US political uncertainty. The EUR/USD and GBP/USD are on the back foot slightly. 
 
 The EUR/GBP is on the rise after another session in favour of the pound yesterday. 
 
