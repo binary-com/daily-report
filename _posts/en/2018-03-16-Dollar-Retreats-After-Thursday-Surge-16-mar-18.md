@@ -9,7 +9,7 @@ summary: "This morning, world markets have a risk-off bias as traders fret over 
 ---
 ## Morning Report: 07.00 London
 
-This morning, the US dollar is on the retreat after an Empire State inspired surge yesterday. The dollar index hit a weekly high yesterday, but already half of those gains have been lost this morning as traders fret over US political uncertainty this morning. 
+This morning, the US dollar is on the retreat after an Empire State inspired surge yesterday. The dollar index hit a weekly high yesterday, but already half of those gains have been lost this morning as traders fret over US political uncertainty. 
 
 The dollar pairs are mirroring these moves with losses yesterday and gains so far this morning. The AUD/USD has been at the extreme end of these moves, while the NZD/USD is bucking this trend, extending yesterday’s losses. 
 
