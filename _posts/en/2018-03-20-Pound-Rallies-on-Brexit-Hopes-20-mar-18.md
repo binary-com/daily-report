@@ -33,6 +33,6 @@ The pound could see another run to the highs and it’s worth a ONE TOUCH trade 
 
 <img class="post-image" src="{{ site.url }}/images/mar-18/2018-03-19_07-35-31.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=touchnotouch&duration_amount=21&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.4300" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the GBP/ USD will touch 1.4300 at some point in the next 21 days for a potential return of 130%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=touchnotouch&duration_amount=21&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.4300" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the GBP/USD will touch 1.4300 at some point in the next 21 days for a potential return of 130%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/mar-18/2018-03-20_06-19-44.jpg" alt="{{ page.title }}" title="{{ page.title }}">
