@@ -9,7 +9,7 @@ summary: "This morning, the British pound remains strong after apparent key Brex
 ---
 ## Morning Report: 07.00 London
 
-This morning, the dollar index softer this morning as markets eye today’s FOMC meeting where traders are widely expecting the Fed to increase rates to 1.75%, their highest levels since September 2008. This follows a day of dollar strength and general dollar pair weakness. 
+This morning, the dollar index is softer as markets eye today’s FOMC meeting where traders are widely expecting the Fed to increase rates to 1.75%, their highest levels since September 2008. This follows a day of dollar strength and general dollar pair weakness. 
 
 The dollar’s weakness is helping key dollar pairs to lift off yesterday’s lows, with the EUR/USD in particular notable for its recovery. The EUR/USD sold off heavily yesterday as German ZEW sentiment crashed in below expectations. The move also saw the EUR/GBP plunge lower despite poor UK data. 
 
@@ -21,7 +21,7 @@ The yen pairs are mixed, with small gains for the USD/JPY and AUD/JPY and slight
 
 ## Coming up today 
 
-This morning at 09.30, we have UK average earnings index, claimant count change, public sector net borrowing and the unemployment. 
+This morning at 09.30, we have UK average earnings index, claimant count change, public sector net borrowing and the unemployment change. 
 
 US current account data is at 12.30.
 
