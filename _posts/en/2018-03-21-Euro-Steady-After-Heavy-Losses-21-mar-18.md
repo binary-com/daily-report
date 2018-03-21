@@ -37,6 +37,6 @@ The AUD/USD continues to weaken and with the FOMC meeting looming today, there c
 
 <img class="post-image" src="{{ site.url }}/images/mar-18/2018-03-21_06-23-12.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7650" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7650 in 14 days for a potential return of 169.00</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7650" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7650 in 14 days for a potential return of 169.00%</a>
 
 <img class="post-image" src="{{ site.url }}/images/mar-18/2018-03-21_06-24-09.jpg" alt="{{ page.title }}" title="{{ page.title }}">
