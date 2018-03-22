@@ -11,7 +11,7 @@ summary: "This morning, the US dollar index remains weak, following yesterday’
 
 This morning, the US dollar index remains weak, following yesterday’s slump sparked by the Fed. Jay Powell’s first FOMC meeting produced projections which point to a worrying lack of growth in 2019. This provides a real stick in the eye to Trump’s growth plans. 
 
-The dollar pairs are mixed this morning though, following hefty gains yesterday. The AUD/USD has undone around half of yesterday’s losses so far today. This follows worse than expected Aussie employment data. Most other dollar pairs are so far unchanged. 
+The dollar pairs are mixed this morning though, following hefty gains yesterday. The AUD/USD has undone around half of yesterday’s gains so far today. This follows worse than expected Aussie employment data. Most other dollar pairs are so far unchanged. 
 
 The EUR/GBP continues to retreat, falling further yesterday to travel within range of testing the 0.8700 lows. 
 
