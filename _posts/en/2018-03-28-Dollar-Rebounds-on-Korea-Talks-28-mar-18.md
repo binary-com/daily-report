@@ -31,7 +31,7 @@ FOMC member Bostic speaks at 17.00.
 
 While Australian cricket players come under pressure in the press, the real economy is looking on shaking grounds as well. The key driver for this appears to be the slowdown of Australia’s exports to China which clearly peaked in early 2017.
 
-<img class="post-image" src="{{ site.url }}/images/mar-18/en-28-mar-18.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/mar-18/en-28-mar-18.png" alt="{{ page.title }}" title="{{ page.title }}">
 
 <a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=79.50" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the AUD/JPY will touch 79.50 within the next 14 days for a potential return of 140% if successful.</a>
 
