@@ -38,4 +38,4 @@ However, the EUR/GBP has followed a fairly consistent pattern of circular highs 
 
 <a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.8800" target="_blank">A good way to play this is a HIGHER trade predicting that the EUR/GBP will close above 0.8800 in 14 days for a potential return of 166%.</a>
 
-<img class="post-image" src="{{ site.url }}/images/apr18/2018-04-03_06-34-08.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+<img class="post-image" src="{{ site.url }}/images/apr-18/2018-04-03_06-34-08.jpg" alt="{{ page.title }}" title="{{ page.title }}">
