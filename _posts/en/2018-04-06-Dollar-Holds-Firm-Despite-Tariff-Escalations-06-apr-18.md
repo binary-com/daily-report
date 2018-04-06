@@ -9,7 +9,7 @@ summary: "Dollar pairs have a negative bias, with the likes of the GBP/USD and E
 ---
 ## Morning Report: 07.00 London
 
-This morning, the US Dollar is holding firm despite an apparent escalation of tariff threats from both sides of Pacific. Traders are more focussed on the positive potential for today’s Non Farm Payrolls data. 
+This morning, the US Dollar is holding firm despite an apparent escalation of tariff threats from both sides of Pacific. Traders are more focused on the positive potential for today’s Non Farm Payrolls data. 
 
 Dollar pairs have a negative bias, with the likes of the GBP/USD and EUR/USD selling off again. The EUR/GBP is recovering well though, with the pair rising as the euro showing some relative strength. 
 
