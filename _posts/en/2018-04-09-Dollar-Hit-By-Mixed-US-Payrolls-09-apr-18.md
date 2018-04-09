@@ -11,7 +11,7 @@ summary: "This morning, the US dollar is falling off again, on the back of mixed
 
 This morning, the US dollar is falling off again, on the back of mixed US payroll data on Friday. Average earnings held firm while jobs and unemployment disappointed. This and ongoing uncertainty surrounding trade tariffs has heaped further trouble on the dollar. 
 
-Dollar pairs are mixed this morning, as the EUR/USD recovers from an opening gap lower. The GBP/USD is unchanged however, following Friday’s sizeable gains. The EUR/GBP gapped lower at the open, with the EUR/GBP recovering from the ongoing pressure of ECB interest rate expectations. 
+Dollar pairs are mixed this morning, as the EUR/USD recovers from an opening gap lower. The GBP/USD is unchanged however, following Friday’s sizeable gains. The EUR/GBP gapped lower at the open, with the euro trying to recover from the ongoing pressure of ECB interest rate expectations.. 
 
 By contrast, the NZD/USD is travelling well, leading the dollar pairs higher along with the AUD/USD. 
 
