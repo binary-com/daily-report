@@ -31,6 +31,6 @@ With the yen remaining soft, there could be further upside from here.
 
 <img class="post-image" src="{{ site.url }}/images/apr-18/2018-04-09_06-22-02.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=152.00" target="_blank">A good way to play this is a HIGHER trade predicting that the GBP/ JPY will close above 152.00 in 14 days for a potential return of 157%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=152.00" target="_blank">A good way to play this is a HIGHER trade predicting that the GBP/JPY will close above 152.00 in 14 days for a potential return of 157%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/apr-18/2018-04-09_06-25-59.jpg" alt="{{ page.title }}" title="{{ page.title }}">
