@@ -13,7 +13,7 @@ This morning, the US dollar is unchanged after another weak session on Monday. T
 
 The AUD/USD and NZD/USD are higher again on hopes of a bullish response from China on Trump’s tariff threats. The Kiwi is higher for the third straight day. 
 
-After a strong day yesterday, the EUR/USD us suffering minor losses, with the GBP/USD unchanged despite reassuring house price data yesterday. The EUR/GBP is dropping back again after making gains yesterday. 
+After a strong day yesterday, the EUR/USD is suffering minor losses, with the GBP/USD unchanged despite reassuring house price data yesterday. The EUR/GBP is dropping back again after making gains yesterday. 
 
 Yen pairs have a positive bias, with the yen backing off, helping major pairs including the USD/JPY to rise. The GBP/JPY is making its third solid day of gains. 
 
