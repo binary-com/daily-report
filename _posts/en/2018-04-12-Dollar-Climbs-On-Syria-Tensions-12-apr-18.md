@@ -13,7 +13,7 @@ This morning, the US dollar and Japanese yen are on the rise as Syria tensions m
 
 Most dollar pairs are lower this morning, erasing yesterday’s gains. The USD/CAD is on the rise despite oil prices continuing to climb well above $70. 
 
-The yen pairs higher, but with less intent. The USD/JPY has made the biggest gains, erasing half of yesterday’s gains, while the AUD/JPY is on the back foot. 
+The yen pairs higher, but with less intent. The USD/JPY has made the biggest gains, erasing half of yesterday’s losses, while the AUD/JPY is on the back foot. 
 
 Gold and silver are on the back foot as dollar strength takes hold. 
 
