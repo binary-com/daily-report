@@ -25,7 +25,7 @@ At 10.00, we have German ZEW economic sentiment.
 
 At 13.30, we have US housing starts and building permits. Canadian foreign securities purchases and manufacturing sales are released at the same time. 
 
-At 14.15, we have US capacity utilisation rate, FOMC member Williams speaking and industrial production at 14.15. 
+We have US capacity utilisation rate, FOMC member Williams speaking and industrial production at 14.15. 
 
 FOMC member Quarles speaks at 15.00, with Bostic speaking at 22.40. 
 
@@ -35,6 +35,6 @@ This morning, the GBP/AUD is pushing higher, helped by the resurgent pound and a
 
 <img class="post-image" src="{{ site.url }}/images/apr-18/2018-04-17_06-48-10.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.8600" target="_blank">A good way to play this is a HIGHER trade predicting that GBP/AUD will close above 1.8500 in 14 days for a potential return of 178%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.8600" target="_blank">A good way to play this is a HIGHER trade predicting that GBP/AUD will close above 1.8600 in 14 days for a potential return of 178%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/apr-18/2018-04-17_06-47-25.jpg" alt="{{ page.title }}" title="{{ page.title }}">
