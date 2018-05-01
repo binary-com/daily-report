@@ -11,7 +11,7 @@ summary: "The dollar continues to hover at the highs this morning. This 15 week 
 
 The dollar continues to hover at the highs this morning. This 15 week high comes despite stock markets peeling off the highs and a massive day tomorrow. Wednesday brings both Non Farm Payrolls and the latest FOMC meeting. 
 
-Dollar pairs are mixed, with the AUD/USD lifting off the highs. By contrast, the EUR/USD and GBP/USD are making further (minor) losses ahead of public holidays across mainland Europe. The EUR/GBP is unchanged so far, following losses yesterday. 
+Dollar pairs are mixed, with the AUD/USD lifting off the lows. By contrast, the EUR/USD and GBP/USD are making further (minor) losses ahead of public holidays across mainland Europe. The EUR/GBP is unchanged so far, following losses yesterday. 
 
 Both the USD/CHF and USD/JPY continued to climb yesterday, with 0.9950 now the next target for the Swissy. 
 
