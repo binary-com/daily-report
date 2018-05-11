@@ -5,7 +5,7 @@ language: en
 permalink: /en/BOE-Reset-Expectations-11-may-18/
 image: /images/may-18/2018-05-11_06-30-28.jpg
 subtitle: BOE Reset Expectations
-summary: "This morning, the US dollar index is on the back foot as money flows into the safety of the Japanese yen. Traders are seeking out safer harbours especially in emerging markets after the Malaysian opposition sprung a surprise election victory"
+summary: "This morning, the British pound remains under pressure following yesterday’s BOE meeting. The MPC downgraded growth and inflation, with expectations for the next rate increase inching into the future. The GBP/USD dropped in volatile trading, with small gains this morning. Meanwhile, the EUR/GBP shot higher as the euro holds its ground"
 ---
 ## Morning Report: 07.00 London
 
