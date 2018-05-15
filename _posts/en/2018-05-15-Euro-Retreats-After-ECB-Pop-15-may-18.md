@@ -11,7 +11,7 @@ summary: "The EUR/USD is on the back foot, while the EUR/GBP has a negative bias
 
 This morning, the euro is retreating again after reaching a high tide just shy of 1.2000 yesterday. The euro popped higher and subsequently retreated on comments from ECB member Villeroy indicated that a rate hike was on the cards sooner than expected. The EUR/USD is on the back foot, while the EUR/GBP has a negative bias again. The EUR/JPY is on the rise by contrast, largely driven by a weaker yen. 
 
-Other dollar pairs are following suit, with the GBP/USD and AUD/AUD slipping lower. The latter impacted by a relatively dovish RBA meeting. The GBP/USD has held together at the lows recently though with some volatile trading. 
+Other dollar pairs are following suit, with the GBP/USD and AUD/USD slipping lower. The latter impacted by a relatively dovish RBA meeting. The GBP/USD has held together at the lows recently though with some volatile trading. 
 
 The USD/CAD has risen for the third straight day despite oil prices making a pop higher. 
 
