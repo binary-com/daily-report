@@ -15,7 +15,7 @@ Dollar pairs generally are unchanged this morning, but pressure remains. The eur
 
 The EUR/GBP has a positive bias yesterday, but there were significant losses yesterday There is considerable pressure on the euro, despite UK earnings and unemployment claims data disappointing. 
 
-The USD/JPY has continued to climb, breaking the 110.00 level. Other dollar pairs have been more circumspect, with the EUR/JPY lagging behind. 
+The USD/JPY has continued to climb, breaking the 110.00 level. Other yen pairs have been more circumspect, with the EUR/JPY lagging behind. 
 
 Gold suffered heavy selling yesterday as the dollar takes control. 
 
