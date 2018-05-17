@@ -2,7 +2,7 @@
 layout: post
 title: "May 17th, 2018: Dollar Slips"
 language: en
-permalink: /en/Dollar Slips-17-may-18/
+permalink: /en/Dollar-Slips-17-may-18/
 image: /images/may-18/2018-05-17_06-11-45.jpg
 subtitle: Dollar Slips
 summary: "This morning, the dollar remains in control as risk factors flood into global markets. North Korean talks have collapsed, with Pyongyang blaming the one sided nature of demands and negotiations"
