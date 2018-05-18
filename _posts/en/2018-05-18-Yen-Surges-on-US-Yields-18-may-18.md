@@ -27,7 +27,7 @@ Canadian inflation is at 13.30
 
 ## Trade Idea
 
-The dollar may be under some pressure this morning, but the pound has many question markets hanging over it, not least its menopausal economy. 
+The dollar may be under some pressure this morning, but the pound has many question marks hanging over it, not least its menopausal economy. 
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-18_06-16-59.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
