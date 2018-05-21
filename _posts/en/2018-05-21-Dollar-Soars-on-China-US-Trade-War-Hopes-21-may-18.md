@@ -15,7 +15,7 @@ The EUR/USD is lower again, touching 1.1700 and falling for the sixth day in a r
 
 Meanwhile, the Aussie dollar has gapped higher against the US dollar on hopes that the US-Chinese trade war won’t disrupt the Aussie economy. The AUD/JPY continues to trade higher after gapping at the opening. 
 
-The yen pairs generally continue to climb, breaking 111.00 as the dollar dominates and the yen takes a back seat. The EUR/JPY is higher amid choppy trading, while the GBP/JPY gapped higher at the open, but still lags its peers. 
+The yen pairs generally continue to climb, USD/JPY is breaking 111.00 as the dollar dominates and the yen takes a back seat. The EUR/JPY is higher amid choppy trading, while the GBP/JPY gapped higher at the open, but still lags its peers. 
 
 ## Coming up today
 
