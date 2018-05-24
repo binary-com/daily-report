@@ -13,7 +13,7 @@ The Japanese yen is in demand as traders take fright of Trump’s treatment of t
 
 Other yen pairs have continued to slide with the EUR/JPY and GBP/JPY off by 1.72% and 1.92% on the week respectively. The AUD/JPY is holding up slightly better by contrast as the Aussie holds up well. 
 
-The and euro slumped yesterday as economic data failed to impress. European manufacturing and services PMI largely slumped prompting the EUR/USD to slump to 1.1700. Meanwhile, the GBP/USD slumped with the EUR/GBP dropping after UK inflation increased less than expected.
+The pound and euro slumped yesterday as economic data failed to impress. European manufacturing and services PMI largely slumped prompting the EUR/USD to slump to 1.1700. Meanwhile, the GBP/USD slumped with the EUR/GBP dropping after UK inflation increased less than expected.
 
 The Swiss franc is in control, with the USD/CHF dropping this morning and the EUR/CHF tanking. 
 
@@ -21,7 +21,7 @@ The AUD/USD is holding up relatively well though despite regional tensions relat
 
 ## Coming up today
 
-BOE governor Carney speaks at 09.00. FOMC member Dudley speaks at 21.15. 
+BOE governor Carney speaks at 09.00. FOMC member Dudley speaks at 09.15. 
 
 UK retail sales follow at 09.30. 
 
