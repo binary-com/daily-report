@@ -15,7 +15,7 @@ The EUR/USD overhauled Tuesday’s losses, with small gains this morning. The EU
 
 The pound also continues to recover, with moderate gains for the GBP/USD, lifting above the 1.3300 level. 
 
-The Aussie is under-performing this morning, with the AUD/JPY down 0.38%. The AUD/JPY is off 0.22%. 
+The Aussie is under-performing this morning, with the AUD/JPY down 0.38%. The AUD/USD is off 0.22%. 
 
 The USD/CAD is staging some of the biggest momentum, with the Canadian dollar capitalising on the recovery in oil prices and retreating dollar. 
 
