@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "June 4th, 2018: Dollar Extends Retreat"
+title: "June 5th, 2018: Pound Struggles on Brexit Uncertainty"
 language: en
-permalink: /en/Dollar-Extends-Retreat-04-jun-18/
+permalink: /en/Pound-Struggles-on-Brexit-Uncertainty-05-jun-18/
 image: /images/jun-18/2018-06-04_07-20-19.jpg
 subtitle: Dollar Extends Retreat
-summary: "TThe dollar index is on the back foot this morning after failing to ignite on Friday despite better than expected US economic data, including NFP. Dollar weakness comes amid a general appetite for risk taking and uncertainty over the dollar’s long-term prospects in light of Trump’s policies"
+summary: "The dollar index is on the back foot this morning after failing to ignite on Friday despite better than expected US economic data, including NFP. Dollar weakness comes amid a general appetite for risk taking and uncertainty over the dollar’s long-term prospects in light of Trump’s policies"
 ---
 ## Morning Report: 07.00 London
 
