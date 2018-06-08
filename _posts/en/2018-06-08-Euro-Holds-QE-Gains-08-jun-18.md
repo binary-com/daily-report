@@ -13,7 +13,7 @@ The euro remains in control on fresh hopes that monetary stimulus may be coming 
 
 Markets are generally quiet this morning, with no economic releases with potential global impact. The US dollar index is slipping back after small gains yesterday. The AUD/USD is extending yesterday’s losses, while the GBP/USD is unchanged for the second straight day. 
 
-The USD/JPY sold of yesterday, continuing to reverse the recent mini rally. The AUD/JPY continues to retreat, while the GBP/JPY holds relatively firm. 
+The USD/JPY sold off yesterday, continuing to reverse the recent mini rally. The AUD/JPY continues to retreat, while the GBP/JPY holds relatively firm. 
 
 ## Coming up today
 
@@ -27,6 +27,6 @@ The USD/CHF continues to drop as the Swiss franc takes in buyers at the expense 
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-08_06-07-14.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=stake&barrier=0.9650" target="_blank">A ONE TOUCH trade predicting that the USD/CHF will touch 0.6550 within the next 14 could return 142% if successful.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=stake&barrier=0.9650" target="_blank">A ONE TOUCH trade predicting that the USD/CHF will touch 0.9650 within the next 14 could return 142% if successful.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-08_06-18-21.jpg" alt="{{ page.title }}" title="{{ page.title }}">
