@@ -293,3 +293,13 @@ img {
 .ico-banner-links:hover {
     text-decoration: none
 }
+
+.reports-home h2 {
+    font-size: 22px;
+}
+
+.small-date {
+    color: #777;
+    margin-top: 30px;
+    margin-bottom: -20px;
+}

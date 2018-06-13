@@ -1,19 +1,16 @@
 ---
-layout: default
-title: Daily Report
+layout: page
+title: Анализ Рынка
 language: ru
 permalink: /ru/
 description: Binary.com Анализ Рынка
 ---
 {% include lang.html %}
 {% include geturl.html %}
-{% assign engPosts = site.posts | where: "language", "ru" %}
-{% for post in engPosts limit:10 %}  
-<div class="row">
-	<div class="col">
-		<h1><a href="{{ post.url | prepend: SourceUrl }}">{{ post.title }}</a></h1>
-		<p>{{ post.content }}</p>	
-	</div>	
-</div>
-<div class="separator-line-thin-gray-xs"></div>
+{% assign rPosts = site.posts | where: "language", "ru" %}
+{% for post in rPosts limit:1 %}
+    <div class="post-content">
+        <h1 >{{ post.subtitle }}<span class="font-s ft-400 darkGray">{{ post.date | date_to_long_string }} - Dave Evans</span></h1>
+        {{ post.content }}
+    </div>   
 {% endfor %}

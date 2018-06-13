@@ -1,5 +1,5 @@
 {% if siteLang == "en" %}
-<title>{% if page.title %}Binary.com - {{ page.title }}{% else %}{{ site.title | escape }} - {{ page.date | date_to_long_string }} {% endif %}</title>
+<title>{% if page.subtitle %}Binary.com Daily Market Report - {{ page.subtitle }}{% else %}{{ site.title | escape }} - {{ page.date | date_to_long_string }} {% endif %}</title>
 <meta name="description" content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.content | strip_html | truncate: 160 }}{% endif %}">
 <meta name="keywords" content="{{ page.keywords }}">
 <link href="{{ site.url }}/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts" />
@@ -14,7 +14,7 @@
 <meta name="keywords" content="{{ page.keywords }}">
 <link href="{{ site.url }}/feed-ru.xml" type="application/rss+xml" rel="alternate" title="Анализ Рынка" />
 {% else %}
-<title>{% if page.title %}Binary.com - {{ page.title }}{% else %}{{ site.title | escape }} - {{ page.date | date_to_long_string }} {% endif %}</title>
+<title>{% if page.title %}Binary.com Daily Market Report - {{ page.title }}{% else %}{{ site.title | escape }} - {{ page.date | date_to_long_string }} {% endif %}</title>
 <meta name="description" content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.content | strip_html | truncate: 160 }}{% endif %}">
 <meta name="keywords" content="{{ page.keywords }}">
 <link href="{{ site.url }}/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts" />
