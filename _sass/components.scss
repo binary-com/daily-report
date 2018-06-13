@@ -1,0 +1,116 @@
+/* Logo */
+
+.logo-wrapper {
+    padding: 10px 0px;
+    text-align: left;
+    margin: 0;
+}
+
+@media screen and (max-width: 992px) {
+      .logo-wrapper {
+          margin-left: auto;
+          margin-right: auto;
+          text-align: center;
+    } 
+}
+
+.header-logo {
+    height: 50px;
+    width: 200px;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    
+}
+
+.dark-logo {
+    background-image: url(../images/binary_logo_dark.svg);
+    background-size: 50px 200px;
+    background-position: center;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.light-logo{
+    background-image: url(../images/binary_logo_light.svg);
+    background-size: 50px 200px;
+    background-position: center;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/* home */
+
+.post--header-flat {
+	width: 100%; /* for IE 6 */
+	background-color: #2a3052;
+	padding: 100px 20px;
+}
+
+.home--header {
+	width: 100%; /* for IE 6 */
+	background:  
+	linear-gradient(
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0)
+    ),
+	url(../images/home2.jpg) no-repeat;
+    background-size: contain;
+	padding: 40px 20px;
+	background-position: center;
+    height: 100vh;
+    position: relative;
+}
+
+/* Video Embed */
+
+.video-container {
+    position: relative;
+    margin-top:0px;
+    margin-bottom: 20px;
+    padding-bottom: 54.5%;
+    padding-top: 30px; 
+    height: 0; 
+    overflow: hidden;
+    box-shadow: 0 3px 28px 0 rgba(0, 0, 0, 0.03), 0 3px 28px 0 rgba(0, 0, 0, 0.3);
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; 
+    border: 10px solid #f2f2f2;
+}
+
+/* Awards */
+
+.binary-awards img {
+    height: 100px;
+    width: auto;
+    margin: 20px;
+    margin-top: 0;
+}
+
+/* Footer payment logos */
+
+.list-inline li {
+    display: inline;
+}
+.footerpayment {
+    color: #777;
+    font-size: 42px;
+    font-weight: 100;
+}
+.footerpayment ul {
+    margin-top: 0px;
+    margin-bottom: 0px; 
+}
+
+.footer-legal-link {
+    color: #FFF;
+    text-decoration: underline;
+}

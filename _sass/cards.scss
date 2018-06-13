@@ -1,0 +1,138 @@
+
+.card {
+	border-radius: 3px;
+	margin-bottom: 30px;
+    /* box-shadow: 0 2px 50px 0 rgba(0, 0, 0, 0.01), 0 2px 20px 0 rgba(0, 0, 0, 0.12); */
+}
+
+.card .caption {
+	padding: 10px 20px 0 20px;
+}
+
+.card-date-top {
+    position: absolute;
+    top: 20px;
+    left: 25px;
+    padding: 5px 14px;
+    background-color: #fff;
+    color: #44484c;
+    font-weight: 400;
+    border: 0px solid #f2f2f2;
+}
+
+.card-date-auto {
+    padding: 10px;
+    background-color: #e98024;
+    color: #fff;
+}
+
+@media only screen and (max-width : 576px) {
+	.card {
+		margin-bottom: 15px;
+  }
+}
+
+/* FLEXBOX
+   - Equal Height Columns in Rows
+   - Equal Height Thumbnails
+   - Flex Grow to Fill Paragraph Height
+*/
+
+@media only screen and (min-width : 481px) {
+  .flex-row.row {
+    display: flex;
+	 flex-wrap: wrap;
+  }
+  .flex-row.row > [class*='col-'] {
+    display: flex;
+    flex-direction: column;
+  }
+  .flex-row.row:after,
+  .flex-row.row:before {
+	 display: flex;
+  }
+  .flex-row.row > [class*='col-'] > .box {
+    display: flex;
+	 flex: 1;
+  }
+}
+
+
+
+
+/* Grow thumbnails to fill columns height */
+.flex-row .thumbnail,
+.flex-row .caption {
+	display: flex;
+	flex: 1 0 auto;
+	flex-direction: column;
+}
+
+/* Flex Grow Text Container */
+.flex-row .caption p.flex-text {
+	flex-grow: 1;
+}
+
+/* Flex Responsive Image */
+.flex-row img {
+	width: 100%;
+	height: auto;
+}
+
+.row.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+.row.no-gutters > [class^="col-"],
+.row.no-gutters > [class*=" col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
+.no-gutters {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+/* Small Gutters */
+.row.sm-gutters {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.row.sm-gutters > [class^="col-"],
+.row.sm-gutters > [class*=" col-"] {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.sm-gutters {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.img-zoom {
+  position: relative;
+  overflow: hidden;
+}
+.img-zoom img {
+  max-width: 100%;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.img-zoom:hover img {
+  -moz-transform: scale(1.05);
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
+}
+
+
+.col-category-caption {
+    background-color: #e98024;
+    color: #fff;
+    font-weight: 400;
+    display: table;
+    margin: 0px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}

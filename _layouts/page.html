@@ -5,17 +5,16 @@ layout: compress
 {% include lang.html %}
 {% include geturl.html %}
 <html lang="{{ siteLang }}">
-{% include head.html %}  
-		{% include header.html %}
+{% include head.html %}    
+    {% include header.html %}
 		<div class="container top-20">
 			<div class="row">
-				<div class="col-lg-9">	
-						<h1 >{{ page.subtitle }}<span class="font-s ft-400 darkGray">{{ page.date | date_to_long_string }} by Dave Evans</span></h1>
+				<div class="col-lg-9">			
 					{{ content }}				
 				</div>
 				<div class="col-lg-3 left-border">
-						{% include sidebar/ready-to-start.html %}		
-					{% include sidebar/latest-list.html %}		
+					{% include sidebar/ready-to-start.html %}		
+					{% include sidebar/home-list.html %}		
 					</div>
 			</div>
 		</div>	
