@@ -17,7 +17,7 @@ The Canadian dollar continues to suffer, with the USD/ CAD continuing to make fr
 
 The USD/CHF is also back on the rise, heading back to the parity level for the first time since the beginning of May. 
 
-The yen pairs continue to add to yesterday’s gains, with the USD/JPY showing the greatest gains. The USD/JPY is trading above 110.50 The other yen pairs are on the rise with the GBP/JPY and EUR/JPY marking two days of gains. 
+The yen pairs continue to add to yesterday’s gains, with the USD/JPY showing the greatest gains and trading above 110.50. The other yen pairs are on the rise with the GBP/JPY and EUR/JPY marking two days of gains. 
 
 Gold is extending its losses, building on Friday’s slump, with the precious metal making fresh 2018 lows. 
 
