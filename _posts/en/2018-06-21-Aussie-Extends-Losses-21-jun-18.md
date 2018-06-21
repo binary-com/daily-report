@@ -11,9 +11,9 @@ summary: "The US dollar has extended its winning run despite trade war worries. 
 
 The US dollar has extended its winning run despite trade war worries. This has continued to force the dollar pairs ever lower. The AUD/USD is extending its losing run on the week, off by over 1%, though not as far as the NZD/USD which is off by 1.50% this week. 
 
-The GBP/USD is making a 2018 low this morning, having lost 8.4% since the start of the year. The EUR/USD is also off, but is so far holding above the highs. The EUR/GBP is unchanged this morning after slipping below 0.8800 yesterday. 
+The GBP/USD is making a 2018 low this morning, having lost 8.4% since the start of the year. The EUR/USD is also off, but is so far holding above the lows. The EUR/GBP is unchanged this morning after slipping below 0.8800 yesterday. 
 
-The Canadian dollar continues to suffer, with the USD/ CAD continuing to make fresh 2018 highs despite oil prices remaining within a stretch of the highs. 
+The Canadian dollar continues to suffer, with the USD/CAD continuing to make fresh 2018 highs despite oil prices remaining within a stretch of the highs. 
 
 The USD/CHF is also back on the rise, heading back to the parity level for the first time since the beginning of May. 
 
