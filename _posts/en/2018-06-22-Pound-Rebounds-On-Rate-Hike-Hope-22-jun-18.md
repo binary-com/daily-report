@@ -9,7 +9,7 @@ summary: "The British pound continues to out-perform following yesterday’s sur
 ---
 ## Morning Report: 07.00 London
 
-The British pound continues to out-perform following yesterday’s surprisingly bullish ECB meeting where three members voted for a rate hike amid noises of quitting QE earlier than expected. The GBP/USD and GBP/JPY are higher again after rallying yesterday, while the EUR/GBP is sinking for the second straight day. 
+The British pound continues to out-perform following yesterday’s surprisingly bullish MPC meeting where three members voted for a rate hike amid noises of quitting QE earlier than expected. The GBP/USD and GBP/JPY are higher again after rallying yesterday, while the EUR/GBP is sinking for the second straight day. 
 
 The euro is also nudging higher, though lagging the pound, with the AUD/USD beating a similar path. 
 
