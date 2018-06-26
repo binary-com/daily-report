@@ -19,7 +19,7 @@ Gold continues to shift lower, trading at its lowest trading close level for 201
 
 The Swiss franc continues to regain ground, with the USD/CHF continuing to slip below 0.9900 this morning. The EUR/CHF has continued to slip lower
 
-The USD/CAD suffered a sharp reversal Friday on OPEC output increases, but the Canadian dollar has slipped back again this morning, helping the pair to gap higher. The EUR/CHF has continued to slip lower. 
+The USD/CAD suffered a sharp reversal Friday on OPEC output increases, but the Canadian dollar has slipped back again this morning, helping the pair to gap higher.
 
 ## Coming up today
 
