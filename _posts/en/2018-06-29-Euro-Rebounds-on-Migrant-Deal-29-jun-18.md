@@ -35,7 +35,7 @@ European CPI flash estimate is at 10.00, with the second day of the EU economic 
 
 Canadian GDP is at 13.30, released alongside RMPI. 
 
-US Core PCE price index is at 13.300, with personal spending at the same time. 
+US Core PCE price index is at 13.30, with personal spending at the same time. 
 
 Chicago PMI is at 14.45. 
 
