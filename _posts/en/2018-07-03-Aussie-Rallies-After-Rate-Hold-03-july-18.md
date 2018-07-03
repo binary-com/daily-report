@@ -13,11 +13,11 @@ The Aussie dollar is on the rise this morning after the RBA opted to keep rates 
 
 The pound and euro have a slight positive bias, with the EUR/USD and GBP/USD nudging higher. The EUR/JPY and GBP/JPY are also tracking higher, while the EUR/GBP tops 0.8850 with the euro in control. 
 
+The US Dollar index is dipping lower this morning, but remains within touching distance of the recent highs.
+
 The USD/CAD is slipping lower again as oil prices dropped below $78.00. Meanwhile, the USD/CHF remains rangebound just below parity. 
 
-The US Dollar index is dipping lower this morning, but remains within touching distance of the recent highs. 
-
-The USD/JPY to perform well with posting its sixth gain in a row and is set to test the highs of 111.00. 
+The USD/JPY continues to perform well with posting its sixth gain in a row and is set to test the highs of 111.00. 
 
 ## Coming up today
 
