@@ -31,6 +31,6 @@ The USD/JPY bull run may have further to go as Trump’s tariffs spark fears of 
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-12_07-16-16.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=113.00" target="_blank">A good way to play this is a HIGHER trade predicting that the USD/ JPY will close above 113.00 in 14 days for a potential return of 189%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=113.00" target="_blank">A good way to play this is a HIGHER trade predicting that the USD/JPY will close above 113.00 in 14 days for a potential return of 189%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-12_07-19-11.jpg" alt="{{ page.title }}" title="{{ page.title }}">
