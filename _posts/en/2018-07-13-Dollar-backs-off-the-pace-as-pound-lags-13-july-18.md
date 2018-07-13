@@ -9,7 +9,7 @@ summary: "The US dollar has lifted off the pace somewhat, though dollar pairs ar
 ---
 ## Morning Report: 07.00 London
 
-The US dollar has lifted off the pace somewhat, though dollar pairs are mixed in their reaction. The AUD/USD is capitalising on this and building on yesterday’s gains. The GBP/USD and EUR/USD are subdued however, with the pound marking three days of gains against the dollar the euro four. 
+The US dollar has lifted off the pace somewhat, though dollar pairs are mixed in their reaction. The AUD/USD is capitalising on this and building on yesterday’s gains. The GBP/USD and EUR/USD are subdued however, with the pound marking three days of gains against the dollar. 
 
 The USD/CHF is unchanged after rising sharply towards the highs yesterday. Meanwhile, the USD/CAD lost ground yesterday and is unchanged this morning as oil prices firm. 
 
