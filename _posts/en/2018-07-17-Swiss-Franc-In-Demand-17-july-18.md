@@ -39,6 +39,6 @@ The EUR/JPY has shown impressive resilience in the face of doubts over European 
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-17_06-49-24.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=132.50" target="_blank">AWith the yen on the back foot currently, there could be further upside form here and a good way to play this is a HIGHER trade predicting that the EUR/JPY will close above 132.50 in 14 days for a potential return of 165%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=132.50" target="_blank">With the yen on the back foot currently, there could be further upside form here and a good way to play this is a HIGHER trade predicting that the EUR/JPY will close above 132.50 in 14 days for a potential return of 165%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-17_06-52-43.jpg" alt="{{ page.title }}" title="{{ page.title }}">
