@@ -17,7 +17,7 @@ The AUD/USD is continuing Monday’s opening reversal. The EUR/USD is following 
 
 The EUR/CHF continues to weaken, as does the EUR/GBP which is slipping further from the 0.8950 level. 
 
-Gold sentiment continues to sour, driving the precious metal to its lowest closing levels of the year,
+Gold sentiment continues to sour, driving the precious metal to its lowest closing levels of the year.
 
 ## Coming up today
 
