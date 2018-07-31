@@ -9,7 +9,7 @@ summary: "The Japanese yen is struggling after the BoJ opted to keep rates on ho
 ---
 ## Morning Report: 07.00 London
 
-The Japanese yen is struggling after the BoJ opted to keep rates on hold against an outside chance of easing moving to an end. Instead, the BoJ announced that headline interest rates were likely to remain at historic lows or the foreseeable future. The USD/JPY has risen, though the weak dollar is putting a lid on gains. 
+The Japanese yen is struggling after the BoJ opted to keep rates on hold against an outside chance of easing moving to an end. Instead, the BoJ announced that headline interest rates were likely to remain at historic lows for the foreseeable future. The USD/JPY has risen, though the weak dollar is putting a lid on gains. 
 
 The EUR/JPY is set for another solid day higher after gains yesterday. The GBP/JPY is rallying above 146.00 The star of the day is the AUD/JPY which has risen above 82.50. 
 
