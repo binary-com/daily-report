@@ -15,7 +15,7 @@ The EUR/USD is lower for the third day in a row, while the GBP/USD dips below 1.
 
 The USD/CHF is continuing its recovery rally back towards parity, almost erasing Monday’s losses. 
 
-The USD/JPY is unchanged this morning after rejecting the 112.00 support level. The yen pairs are generally on the back foot, as money flows into the regional safety of the Japanese yen. Most pairs including the GBP/JPY and EUR/JPY have reversed Tuesday’s rally. 
+The USD/JPY got rejected at the 112.00 resistance level. The yen pairs are generally on the back foot, as money flows into the regional safety of the Japanese yen. Most pairs including the GBP/JPY and EUR/JPY have reversed Tuesday’s rally. 
 
 ## Coming up today
 
