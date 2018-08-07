@@ -27,7 +27,7 @@ Canadian Ivey PMI is at 15.00.
 
 ## Trade Idea
 
-The Canadian dollar is slipping lower as the US dollar struggles and the Canadian dollar holds firm with oil prices stable around $73.
+The USD/CAD is slipping lower as the US dollar struggles and the Canadian dollar holds firm with oil prices stable around $73.
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-07_07-30-30.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
