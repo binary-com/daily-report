@@ -11,7 +11,7 @@ summary: "This morning, emerging market currencies remain under severe pressure 
 
 This morning, emerging market currencies remain under severe pressure as Turkey moves to soothe world markets. The Turkish contagion is spreading to the Rupee and Rand as investors take fright and move to safe havens in Asian and America. 
 
-The Japanese yen continues to draw in volume as traders bet on further turmoil, with the biggest loser so far today, down 0.77%. Other yen pairs are not far behind, with the AUD/JPY off 0.75% and the GBP/JPY% down 0.68%. The USD/JPY is holding up only slightly better, with losses of 0.60%. The GBP/JPY remains the worst performing major pair, but the EUR/JPY has caught up quickly with rapid losses in the past week. 
+The Japanese yen continues to draw in volume as traders bet on further turmoil, with the EUR/JPY biggest loser so far today, down 0.77%. Other yen pairs are not far behind, with the AUD/JPY off 0.75% and the GBP/JPY down 0.68%. The USD/JPY is holding up only slightly better, with losses of 0.60%.
 
 The EUR/GBP is making small gains this morning though, following two days of hefty losses last week. 
 
