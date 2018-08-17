@@ -15,8 +15,6 @@ The AUD/USD is rising off the lows for the second day in a row. The EUR/USD is a
 
 After making gains yesterday for the second day in a row, the EUR/GBP is slipping back after UK retail sales increased more than expected yesterday. 
 
-The USD/JPY and other yen pairs are on the back foot as money flows back into the US dollar. 
-
 ## Coming up today
 
 Today, we have final European CPI at 10.00. 
