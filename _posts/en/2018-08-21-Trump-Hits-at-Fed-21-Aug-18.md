@@ -9,13 +9,13 @@ summary: "The dollar index is under pressure, with dollar pairs building on yest
 ---
 ## Morning Report: 07.00 London
 
-The dollar index is under pressure, with dollar pairs building on yesterday’s gains. Trump downplayed the prospects for trade talks with a China and criticised the Fed’s rate hike trajectory. 
+The dollar index is under pressure, with dollar pairs building on yesterday’s gains. Trump downplayed the prospects for trade talks with China and criticised the Fed’s rate hike trajectory. 
 
 The AUD/USD is now set for its fourth day of solid gains. The EUR/USD and GBP/USD are following a similar trend, with the euro out-performing. The EUR/GBP has continued to perform well, rallying this morning, but falling just shy of 0.9000. 
 
 The USD/CAD and USD/CHF are also continuing to retreat as the dollar loses ground. 
 
-While the dollar is pressured, the yen pairs including the USD/JPY are making gains. The USD/JPY is rallying off the 110.00 level. Other dollar pairs including the AUD/JPY and EUR/JPY have now recovered the opening gap lower from Friday 10th. 
+While the dollar is pressured, the yen pairs including the USD/JPY are making gains. The USD/JPY is rallying off the 110.00 level. Other yen pairs including the AUD/JPY and EUR/JPY have now recovered the opening gap lower from Friday 10th. 
 
 ## Coming up today
 
