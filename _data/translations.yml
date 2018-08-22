@@ -1,9 +1,6 @@
 en:
     site_title: "Daily Report"
     recent_posts: "Recent Posts"
-    contributors: "Contributors"
-    become_contributor: "Become a contributor"
-    become_contributor_text: "Do you want to become a Binary.com contributor/webinar speaker?"
     contact_us: "Contact Us"
     share: "Share"
     findout_more: "Find Out More"
@@ -19,9 +16,6 @@ en:
 id:
     site_title: "Laporan"
     recent_posts: "Postingan Terkini"
-    contributors: "Kontributor"
-    become_contributor: "Menjadi kontributor"
-    become_contributor_text: "Apakah Anda ingin menjadi kontributor/pembicara webinar di Binary.com?"
     contact_us: "Hubungi Kami"
     share: "Bagikan"
     findout_more: "Temukan Lebih Lanjut"
@@ -37,9 +31,6 @@ id:
 ru:
     site_title: "Анализ Рынка"
     recent_posts: "Последние статьи"
-    contributors: "Авторы"
-    become_contributor: "Стать Автор"
-    become_contributor_text: ""
     contact_us: "Свяжитесь с нами"
     share: "Поделиться"
     findout_more: "Подробнее"

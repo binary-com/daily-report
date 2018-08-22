@@ -1,7 +1,3 @@
----
----
-{% include geturl.html %}
-
 h1 a {
 	font-weight: 300;
 }
@@ -211,89 +207,6 @@ img {
 	text-align: right;
 }
 
-.ico-banner-layout {
-    background-image:url({{'/images/ico/970x90-bg.jpg' | prepend:SourceUrl}});
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: #fff;
-    text-align: center;
-    margin: 20px 0
-}
-
-.ico-banner-title {
-    display: block;
-    font-weight: 700;
-    font-size: 24px;
-    color: #e98024;
-    margin-top: 15px
-}
-
-.ico-banner-subtitle {
-    display: block;
-    font-weight: 400;
-    font-size: 24px
-}
-
-.ico-banner-col-end-date {
-    border-left: 30px solid transparent;
-    border-bottom: 100px solid #e98024;
-    height: 0;
-    line-height: 40px;
-    padding: 0;
-    margin: 0;
-    margin-left: -15px
-}
-
-.ico-banner-ends {
-    display: block;
-    font-weight: 700;
-    font-size: 28px;
-    line-height: 32px;
-    color: #fff;
-    margin-top: 20px;
-    padding: 0 20px
-}
-
-.ico-date {
-    display: block
-}
-
-@media only screen and (max-width:992px) {
-    .ico-banner-ends {
-        font-size: 22px;
-        line-height: 26px;
-        padding: 0 5px
-    }
-}
-
-@media only screen and (max-width:766px) {
-    .ico-banner-col-end-date {
-        border-left: 0;
-        border-bottom: 0;
-        height: 100%;
-        line-height: auto;
-        background-color: #e98024;
-        padding: 15px 0;
-        margin: 0 15px;
-        margin-top: 20px;
-        display: block
-    }
-    .ico-banner-col-main {
-        display: block
-    }
-    .ico-banner-ends {
-        margin: 0;
-        padding: 5px
-    }
-    .ico-date {
-        display: inline
-    }
-}
-
-.ico-banner-links:hover {
-    text-decoration: none
-}
-
 .reports-home h2 {
     font-size: 22px;
 }
@@ -302,4 +215,53 @@ img {
     color: #777;
     margin-top: 30px;
     margin-bottom: -20px;
+}
+
+.post-content {
+    padding-right: 10px;
+}
+
+
+h1 span {
+    display: block;
+    margin-bottom: 30px;
+}
+
+h3 a {
+    color: #e98024;
+    font-size: 22px;
+    font-weight: 400;
+}
+.sidebar-excerpt {
+    padding: 15px 10px;
+    border-bottom: 1px solid #f2f2f2;
+}
+.excerpt-date {
+    margin-top: -15px;
+}
+
+
+.firstPost {
+    display: none;
+}
+
+.LC-active {
+    background-color: #f2f2f2;
+}
+
+.border {
+    border: 1px solid #dedede;
+}
+
+.left-border {
+    border-left: 1px solid #f2f2f2;
+}
+
+.darkGray {
+    color: #44484c;
+}
+
+/* Language menu fix */
+.topbar .language-wrapper .language {
+    padding: 5px 0px !important;
 }
