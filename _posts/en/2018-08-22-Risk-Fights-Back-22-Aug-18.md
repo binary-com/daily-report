@@ -17,7 +17,7 @@ The AUD/USD is struggling this morning though after RBA assistant governor Debel
 
 The USD/CAD retains its bearish bias, while the USD/CHF dropped heavily yesterday, cementing three gains of heavy gains. The Swissy giving back this morning though. 
 
-The yen pairs are higher, led by the GBP/JPY which is up 0.20% today and 2.89% on the month. The AUD/JPY and EUR/JPY are following a similar trend. 
+The yen pairs are higher, led by the GBP/JPY which is up 0.20% today and 2.89% on the week. The AUD/JPY and EUR/JPY are following a similar trend. 
 
 ## Coming up today
 
