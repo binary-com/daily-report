@@ -11,7 +11,7 @@ summary: "The Australian dollar is struggling as the Australian government seeks
 
 The Australian dollar is struggling as the Australian government seeks to control the chaos of a potential coup. The AUD/USD is down 0.84%, with the AUD/JPY off by 0.57%. 
 
-The US dollar is stronger overall, reversing the gains made over the last seven days. The EUR/USD has reversed yesterday’s gains, while the GBP/USD is following suit. 
+The US dollar is stronger overall, reversing the losses suffered made over the last seven days. The EUR/USD has reversed yesterday’s gains, while the GBP/USD is following suit. 
 
 The USD/CHF sunk to just above 0.9800 yesterday, but has now rebounded to above 0.9850. The USD/CAD is also reversing yesterday’s losses as the US dollar regains its poise. 
 
