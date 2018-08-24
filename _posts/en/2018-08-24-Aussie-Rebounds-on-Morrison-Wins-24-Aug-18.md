@@ -33,6 +33,6 @@ The EUR/JPY has some impressive momentum behind it and this could well continue 
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-24_06-37-36.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=touchnotouch&duration_units=d&duration_amount=28&expiry_type=duration&amount=10&amount_type=stake&barrier=132" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the EUR/ JPY will touch 132.00 within 28 days for a potential return of 170%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=touchnotouch&duration_units=d&duration_amount=28&expiry_type=duration&amount=10&amount_type=stake&barrier=132" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the EUR/JPY will touch 132.00 within 28 days for a potential return of 170%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-24_06-38-50.jpg" alt="{{ page.title }}" title="{{ page.title }}">
