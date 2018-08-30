@@ -17,7 +17,7 @@ The euro is lagging as the Turkish Lira slips even lower. The EUR/JPY is dipping
 
 The USD/CHF is set to test the 0.9700 level with small gains this morning following hefty losses yesterday. 
 
-The USD/CAD is also making minor gains so far today, reversing yesterdays gains on the back of lower than expected oil price inventories. 
+The USD/CAD is also making minor gains so far today, reversing yesterday's losses on the back of lower than expected oil price inventories. 
 
 ## Coming up today
 
