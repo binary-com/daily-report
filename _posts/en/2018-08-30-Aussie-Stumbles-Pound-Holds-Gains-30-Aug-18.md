@@ -35,6 +35,6 @@ The Swiss franc continues to find buyers worried about the EU’s exposure to Tu
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-30_06-53-01.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.9650" target="_blank">A good way to play this is a LOWER trade predicting that the USD/ CHF will close below 0.9650 in 14 days for a potential return of 179%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.9650" target="_blank">A good way to play this is a LOWER trade predicting that the USD/CHF will close below 0.9650 in 14 days for a potential return of 179%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-30_06-54-44.jpg" alt="{{ page.title }}" title="{{ page.title }}">
