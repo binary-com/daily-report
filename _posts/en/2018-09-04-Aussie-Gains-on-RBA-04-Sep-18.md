@@ -13,7 +13,7 @@ The Australian dollar is on the rise this morning despite an uneventful RBA meet
 
 The pound remains soft after the GBP/USD gapped lower on Brexit fears yesterday, while the EUR/GBP is unchanged after a surge back towards the highs. 
 
-The EUR/USD itself is not without its struggles though as fear’s over Italy’s economy mount amid wider risk aversion to troubled economies at the periphery. The EUR/JPY is still managing to makes gains however. 
+The EUR/USD itself is not without its struggles though as fear’s over Italy’s economy mount amid wider risk aversion to troubled economies at the periphery. The EUR/JPY is still managing to make gains however. 
 
 The USD/CHF is making gains as the dollar regains ground against the Swiss franc. 
 
