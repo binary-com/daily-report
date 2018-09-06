@@ -35,7 +35,7 @@ SNB governing board member Zurbrugg speaks at 17.30, with RBC governing council 
 
 ## Trade Idea
 
-The Australian dollar continues to struggle in the face of emerging markets stress and China trade fears. At the same time, interest in the Swiss franc is increasing.
+The Australian dollar continues to struggle in the face of emerging markets stress and China trade fears. At the same time, interest in safe havens is increasing.
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-06_06-49-28.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
