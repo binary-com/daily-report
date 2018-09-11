@@ -27,7 +27,7 @@ German ZEW economic sentiment is at 10.00.
 
 ## Trade Idea
 
-There was evidently false hope for the Canadian dollar ahead of trade talks, as the USD/CAD rallied to test support around 1.3200. Trump is predictably unpredictable though and there are encouraging noises that a deal will be done sooner rather than later.
+There was evidently false hope for the Canadian dollar ahead of trade talks, as the USD/CAD rallied to test resistance around 1.3200. Trump is predictably unpredictable though and there are encouraging noises that a deal will be done sooner rather than later.
 
 It’s worth betting that the 1.3200 will hold, making lower levels a good target.
 
