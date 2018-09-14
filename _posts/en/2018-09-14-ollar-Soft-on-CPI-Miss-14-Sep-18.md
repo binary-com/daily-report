@@ -23,7 +23,7 @@ Today, we have the BOE’s Mark Carney Speaking at 11.00.
 
 US core retail sales data is at 13.30. 
 
-IS preliminary UoM consumer sentiment is at 15.00
+US preliminary UoM consumer sentiment is at 15.00
 
 ## Trade Idea
 
