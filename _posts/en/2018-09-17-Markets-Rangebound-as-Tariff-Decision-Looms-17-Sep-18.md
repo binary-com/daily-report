@@ -13,7 +13,7 @@ This morning, markets are rangebound as traders await the opening salvos of Trum
 
 The AUD/USD gapped lower at the open, but is back up to parity as we move through the morning session. 
 
-The EUR/USD dropped back significantly from the 1.1700 level on Friday, but is also making small gains this morning. The EUR/JPY is also attempting a positive session after dropping from the 131.00 level on Friday. No such rebound for the EUR/GBP so far through as the EUR/GBP remains firmly below the 1.1700 level. 
+The EUR/USD dropped back significantly from the 1.1700 level on Friday, but is also making small gains this morning. The EUR/JPY is also attempting a positive session after dropping from the 131.00 level on Friday. No such rebound for the EUR/GBP so far through as the pair remains firmly below the 0.8950 level. 
 
 The GBP/JPY and GBP/USD are also making small gains, but from a less severe position as the euro, as the pound maintains its outperformance.
 
