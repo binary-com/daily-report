@@ -11,7 +11,7 @@ summary: "This morning, markets continue to shun safe havens, pushing the dollar
 
 This morning, markets continue to shun safe havens, pushing the dollar and yen lower despite the prospect of a US rate hike next week. Demand for safe havens continue to weaken with many yen pairs hitting their highest levels since May. 
 
-The EUR/JPY is one of the strongest performers with the pairs setting up to test the May highs and challenge 133.00. By contrast, the AUD/JPY is hitting its fourth solid gain in a row as markets slip comfortably into ‘risk-on’ mode. The USD/JPY is making gains again as well, with the July highs the next target. 
+The EUR/JPY is one of the strongest performers with the pairs setting up to test the May highs and challenge 133.00. The AUD/JPY is hitting its fourth solid gain in a row as markets slip comfortably into ‘risk-on’ mode. The USD/JPY is making gains again as well, with the July highs the next target. 
 
 The GBP/JPY is shooting higher, which is curious given the government’s perilous negotiating position on Brexit. The GBP/USD is unchanged this morning though, after surging above 1.3200 yesterday. The EUR/GBP slipped lower yesterday, but those losses have been mostly covered by today’s advances. 
 
