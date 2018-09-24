@@ -33,6 +33,6 @@ The EUR/USD is weaker this morning after Friday’s turnaround. The 1.1800 level
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-24_06-31-29.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1700" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/ USD will close below 1.1700 in 14 days for a potential return of 158% if successful.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1700" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/USD will close below 1.1700 in 14 days for a potential return of 158% if successful.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-24_06-34-20.jpg" alt="{{ page.title }}" title="{{ page.title }}">
