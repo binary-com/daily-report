@@ -25,7 +25,7 @@ The USD/JPY continues to perform well as yen interest diminishes.
 
 ## Coming up today
 
-Coming up today, we have MPC member Vliegh speaking at 21.40. 
+Coming up today, we have MPC member Vliegh speaking at 09.40. 
 
 At 15.00, we have CB Consumer Confidence. 
 
