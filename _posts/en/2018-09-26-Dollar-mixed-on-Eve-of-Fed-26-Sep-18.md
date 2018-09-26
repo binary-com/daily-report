@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "September 26th, 2018: Fed Firmer on Eve of Fed"
+title: "September 26th, 2018: Dollar mixed on Eve of Fed"
 language: en
-permalink: /en/Fed-Firmer-on-Eve-of-Fed-26-Sep-18/
+permalink: /en/Dollar-mixed-on-Eve-of-Fed-26-Sep-18/
 image: /images/sep-18/2018-09-26_06-59-53.jpg
-subtitle: Fed Firmer on Eve of Fed
+subtitle: Dollar mixed on Eve of Fed
 summary: "This morning, the dollar index is mixed ahead of today’s FOMC meeting where the Fed are expected to raise rates by 0.25% to 2.25%"
 ---
 ## Morning Report: 07.00 London
