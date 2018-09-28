@@ -41,7 +41,7 @@ Revised UoM Consumer Sentiment is at 15.00.
 
 ## Trade Idea
 
-The USD/JPY jumped higher this morning, with follow-on buying this morning. The dollar is on a high, while the yen retreats, with further upside on the cards from here.
+The USD/JPY jumped higher yesterday, with follow-on buying this morning. The dollar is on a high, while the yen retreats, with further upside on the cards from here.
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-28_05-44-40.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
