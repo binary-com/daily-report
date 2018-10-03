@@ -9,7 +9,7 @@ summary: "The EUR/USD is rebounding off support around 1.1550 as Italy concerns 
 ---
 ## Morning Report: 07.00 London
 
-The EUR/USD is rebounding off support around 1.1550 as Italy concerns ease. This reverses yesterday’s losses which marked five days of losses. The EUR/GBP is also on the rise, building on yesterday’s losses as Brexit concerns slow down the pound. The EUR/CHF is also making gains this morning and is heading for its highest closing high since August. The EUR/JPY is also reversing recent losses as support around 131.00 holds. 
+The EUR/USD is rebounding off support around 1.1550 as Italy concerns ease. This reverses yesterday’s losses which marked five days of losses. The EUR/GBP is also on the rise, building on yesterday’s gains as Brexit concerns slow down the pound. The EUR/CHF is also making gains this morning and is heading for its highest closing high since August. The EUR/JPY is also reversing recent losses as support around 131.00 holds. 
 
 The GBP/USD is also making gains following yesterday’s failure of 1.3000, with support now becoming resistance. 
 
