@@ -29,6 +29,6 @@ The Aussie remains weak, with the yen holding its own against most currencies wi
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-05_06-51-32.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=113.50" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/JPY will close below 113.50 in 14 days for a potential return of 125%.</a>
+<a href="%LINK%%?currency=AUD&market=forex&underlying=frxAUDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=79.7" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/JPY will close below 113.50 in 14 days for a potential return of 125%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-05_06-53-24.jpg" alt="{{ page.title }}" title="{{ page.title }}">

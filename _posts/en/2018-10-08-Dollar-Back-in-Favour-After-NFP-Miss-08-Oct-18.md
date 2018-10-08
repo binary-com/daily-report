@@ -9,7 +9,7 @@ summary: "The US dollar is back on the front foot following Friday’s NFP inspi
 ---
 ## Morning Report: 07.00 London
 
-The US dollar is back on the front foot following Friday’s NFP inspired sell-off. Payrolls increased less than expected, while unemployment improved. This gave a boost to dollar pairs on Friday, but this boost is receding this morning as the dollar pairs reassert its dominance. 
+The US dollar is back on the front foot following Friday’s NFP inspired sell-off. Payrolls increased less than expected, while unemployment improved. This gave a boost to dollar pairs on Friday, but this boost is receding this morning as the US dollar reassert its dominance. 
 
 The Austrian dollar is of particular interest as Chinese equities sell off severely this morning. The AUD/USD is holding at support around 0.7050 for now. 
 
