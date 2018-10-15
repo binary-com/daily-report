@@ -9,7 +9,7 @@ summary: "The British pound is under pressure as the weekend’s Brexit talks re
 ---
 ## Morning Report: 07.00 London
 
-The British pound is under pressure as the weekend’s Brexit talks reached a stalemate, potentially scuppering the prospect of an orderly transition. The GBP/JPY has dropped below its monthly long trading range. The GBP/USD happed lower, with 1.3100 holding as support for now. The EUR/GBP jumped higher, building on the last two days of gains. 
+The British pound is under pressure as the weekend’s Brexit talks reached a stalemate, potentially scuppering the prospect of an orderly transition. The GBP/JPY has dropped below its monthly long trading range. The GBP/USD gapped lower, with 1.3100 holding as support for now. The EUR/GBP jumped higher, building on the last two days of gains. 
 
 The euro itself is hardly a bastion of stability, opening with a weaker position this morning. The EUR/JPY is also continuing its downwards slide, while the EUR/CHF has gapped lower from the highs. 
 
