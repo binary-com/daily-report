@@ -11,7 +11,7 @@ summary: "The US dollar is holding on to yesterday’s gains as markets continue
 
 The US dollar is holding on to yesterday’s gains as markets continued to bet on higher rate levels for the US dollar. Yesterday’s Federal reserve meeting keep up the rate hike momentum, with the FOMC apparently prepared to defy Trump. 
 
-The EUR/USD reversed heavily yesterday and is slipping below 1.1500 thi morning. The GBP/USD also reversed all of the week’s earlier gains, with follow on selling this morning. This comes after below par inflation, with CPI coming in at just 2.4%.
+The EUR/USD reversed heavily yesterday and is slipping below 1.1500 this morning. The GBP/USD also reversed all of the week’s earlier gains, with follow on selling this morning. This comes after below par inflation, with CPI coming in at just 2.4%.
 
 The USD/CAD made large gains yesterday, reversing the previous four days of losses. This comes as oil prices reversed heavily yesterday. 
 
