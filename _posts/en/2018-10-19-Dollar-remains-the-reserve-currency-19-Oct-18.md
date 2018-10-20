@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "October 18th 2018: Dollar remains the reserve currency"
+title: "October 19th 2018: Dollar remains the reserve currency"
 language: en
 permalink: /en/Dollar-remains-the-reserve-currency-19-Oct-18/
 image: /images/oct-18/2018-10-19_06-46-37.jpg
