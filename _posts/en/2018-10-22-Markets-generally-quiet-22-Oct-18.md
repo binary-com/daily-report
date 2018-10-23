@@ -4,7 +4,7 @@ title: "October 22th 2018: Markets generally quiet"
 language: en
 permalink: /en/Markets-generally-quiet-22-Oct-18/
 image: /images/oct-18/2018-10-22_06-37-04.jpg
-subtitle: Dollar remains the world’s reserve currency
+subtitle: Markets generally quiet
 summary: "The dollar index is recovering somewhat this morning after moderate selling on Friday. Markets are generally quiet despite the potential risk factor of Trump removing the US from the nuclear treaty with Russia"
 ---
 ## Morning Report: 07.00 London
