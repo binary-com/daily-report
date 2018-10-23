@@ -21,7 +21,7 @@ The US dollar index is pulling back after making big gains yesterday, with the U
 
 ## Coming up today
 
-Today, wee have UK MPC member Haldane speaking at 23.30. 
+Today, wee have UK MPC member Haldane speaking at 11.30. 
 
 BOE governor Carney speaks at 16.20. 
 
