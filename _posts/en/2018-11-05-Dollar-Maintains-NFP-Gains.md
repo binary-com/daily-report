@@ -19,7 +19,7 @@ The EUR/USD fell back Friday in volatile trading with this morning’s action ke
 
 The AUD/USD is following other pairs in recovering from the opening gap lower. The AUD/JPY is holding last week’s late gains however. 
 
-The USD/CHF is holding above the parity line after volatility on Friday. The USD/CAD is also maintaining a bullish bias despite oil prices struggling. 
+The USD/CHF is holding above the parity line after volatility on Friday. The USD/CAD is also maintaining a bullish bias with oil prices struggling. 
 
 ## Coming up today
 
