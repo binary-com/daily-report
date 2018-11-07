@@ -35,6 +35,6 @@ The EUR/USD has recovered off the lows this morning, but the recovery has been t
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-07_06-50-42.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1400" target="_blank">The lows are still an attractive target, making a LOWER trade attractive. A good way to play this is a LOWER trade predicting that the EUR/USD will close below 1.1300 in 14 days for a potential return of 145%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1400" target="_blank">The lows are still an attractive target, making a LOWER trade attractive. A good way to play this is a LOWER trade predicting that the EUR/USD will close below 1.1400 in 14 days for a potential return of 145%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-07_06-53-31.jpg" alt="{{ page.title }}" title="{{ page.title }}">
