@@ -17,7 +17,7 @@ The USD/CHF continues to head back to the highs, after the parity line held last
 
 The USD/CAD is one exception, gapping lower on Canadian dollar strength on reports that Saudi Arabia will cut production. 
 
-The USD/JPY has continued to make gains and is holding above the 114.00 level. Other dollar pairs are mixed, with the GBP/JPY gapping lower, along with the EUR/JPY, while the AUD/JPY gapping higher. 
+The USD/JPY has continued to make gains and is holding above the 114.00 level. Other yen pairs are mixed, with the GBP/JPY gapping lower, along with the EUR/JPY, while the AUD/JPY gapping higher. 
 
 ## Coming up today
 
