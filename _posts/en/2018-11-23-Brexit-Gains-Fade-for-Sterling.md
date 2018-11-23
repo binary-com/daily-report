@@ -9,7 +9,7 @@ summary: "This morning, the dollar index continues to slide as risk appetite ret
 ---
 ## Morning Report: 07.00 London
 
-This morning, the dollar index continues to slide as risk appetite returns to global markets as risk appetite returns during the Thanksgiving lull. 
+This morning, the dollar index continues to slide as risk appetite returns to global markets during the Thanksgiving lull. 
 
 The EUR/USD is on the front foot, bidding higher for the third day in a row. By contrast, the GBP/USD is slipping back as some of yesterday’s Brexit deal hopes return to the reality of a parliamentary vote. The EUR/GBP dropped steadily yesterday, erasing all of the week’s gains, but there are encouraging gains this morning so far. 
 
