@@ -9,7 +9,7 @@ summary: "There has been no Brexit bounce for the pound this morning after EU le
 ---
 ## Morning Report: 07.00 London
 
-There has been no Brexit bounce for the pound this morning after EU leaders approved the Brexit divorce terms this weekend. Markets had already discounted EU approval, with the real challenge being parliamentary approval. Early indications are that it will be an uphill challenge for Theresa May to put in mildly, with the vote scheduled before the 12th of December. 
+There has been no Brexit bounce for the pound this morning after EU leaders approved the Brexit divorce terms this weekend. Markets had already discounted EU approval, with the real challenge being parliamentary approval. Early indications are that it will be an uphill challenge for Theresa May to put it mildly, with the vote scheduled before the 12th of December. 
 
 The GBP/USD is up slightly in line with other dollar pairs after slumping down to 1.2800 on Friday. The GBP/JPY is performing a little better, rallying and making good half of Friday’s losses. The EUR/GBP is making small gains after two days of losses on Thursday and Friday. 
 
