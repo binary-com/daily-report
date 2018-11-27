@@ -31,7 +31,7 @@ At 20.00, we have the latest RBNZ financial stability report.
 
 ## Trade Idea
 
-The AUD/JPY is picking up some pace in line with other dollar pairs, with the Aussie maintaining its out-performance.
+The AUD/JPY is picking up some pace in line with other yen pairs, with the Aussie maintaining its out-performance.
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-27_06-42-08.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
