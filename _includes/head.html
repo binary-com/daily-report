@@ -9,9 +9,16 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html' | prepend: SourceUrl }}">
     <meta property="og:title" content="{% if page.subtitle %}Binary.com Daily Market Report - {{ page.subtitle }}{% else %}{{ site.title | escape }} - {{ site.time | date_to_long_string }} {% endif %}" />
 	<meta property="og:type" content="website" />
-	<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.summary | strip_html | truncatewords: 22 }}{% endif %}" />
+	<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | truncate: 260 }}{% else %}{{ page.summary | strip_html | truncatewords: 30 }}{% endif %}" />
 	<meta property="og:url" content="{{ page.url | replace:'index.html' | prepend: site.url }}" />
-	<meta property="og:image" content="{{ page.image | prepend: SourceUrl  }}" />
+    <meta property="og:image" content="{{ page.image | prepend: SourceUrl }}" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@Binarydotcom">
+    <meta name="twitter:title" content="{% if page.subtitle %}Daily Report - {{ page.subtitle }}{% else %}{{ site.title | escape }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | truncate: 260 }}{% else %}{{ page.summary | strip_html | truncatewords: 30 }}{% endif %}">
+    <meta name="twitter:image" content="{{ page.image | prepend: SourceUrl }}">
+    <meta name="twitter:image:alt" content="Binary.com Daily Market report">
+
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 	<script src="https://style.binary.com/binary.js"></script>
 	<script type="application/ld+json">
