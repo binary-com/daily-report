@@ -6,7 +6,41 @@
 	<link rel="icon" href="{{ '/images/binary-icon.png' | prepend: SourceUrl }}" sizes="57x57"/>
 	<link rel="stylesheet" href="https://style.binary.com/binary.css">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | prepend: SourceUrl  }}">
-	<link rel="canonical" href="{{ page.url | replace:'index.html' | prepend: SourceUrl }}">			
+    <link rel="canonical" href="{{ page.url | replace:'index.html' | prepend: SourceUrl }}">
+    <meta property="og:title" content="{% if page.subtitle %}Binary.com Daily Market Report - {{ page.subtitle }}{% else %}{{ site.title | escape }} - {{ site.time | date_to_long_string }} {% endif %}" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.summary | strip_html | truncatewords: 22 }}{% endif %}" />
+	<meta property="og:url" content="{{ page.url | replace:'index.html' | prepend: site.url }}" />
+	<meta property="og:image" content="{{ page.image | prepend: SourceUrl  }}" />
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 	<script src="https://style.binary.com/binary.js"></script>
+	<script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ page.url | replace:'index.html' | prepend: site.url }}"
+        },
+        "headline": "{% if page.subtitle %}Binary.com Daily Market Report - {{ page.subtitle }}{% else %}{{ site.title | escape }}{% endif %}",
+        "image": [
+            "{{ page.image | prepend: SourceUrl  }}"
+        ],
+        "datePublished": "{{ site.time | date_to_xmlschema }}",
+        "dateModified": "{{ site.time | date_to_xmlschema }}",
+        "author": {
+        "@type": "Organization",
+        "name": "Binary.com"
+        },
+        "publisher": {
+        "@type": "Organization",
+        "name": "Binary.com",
+        "logo": {
+        "@type": "ImageObject",
+        "url": "https://dailyreport.binary.com/images/binary-icon.png"
+        }
+    },
+        "description": "{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.summary | strip_html | truncatewords: 22 }}{% endif %}"
+    }
+    </script>
 </head>
