@@ -17,9 +17,9 @@ The EUR/USD is suffering only moderate selling in contrast to the GBP/USD which 
 
 The USD/CAD has fully recovered Monday’s gap lower and is heading back to the highs, while the USD/CHF is on the rise and trading just below the parity line. 
 
-Yen pairs have a positive bias as money flows form the yen into the dollar. There was heavy selling on the USD/JPY yesterday, but around a third of this move has been recovered. 
+Yen pairs have a positive bias as money flows from the yen into the dollar. There was heavy selling on the USD/JPY yesterday, but around a third of this move has been recovered. 
 
-The GBP/JPY is making a small recovery after heavy selling yesterday, the EUR/JPY is following suit and keeping above the highs just. 
+The GBP/JPY is making a small recovery after heavy selling yesterday, the EUR/JPY is following suit and keeping just above the highs. 
 
 ## Coming up today
 
