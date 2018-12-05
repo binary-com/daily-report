@@ -1,17 +1,77 @@
+{% if page.layout == "page" %}
 {% if siteLang == "en" %}
-<title>{% if page.subtitle %}Binary.com Daily Market Report - {{ page.subtitle }}{% else %}{{ site.title | escape }} - {{ site.time | date_to_long_string }} {% endif %}</title>
-<meta name="description" content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.summary | strip_html | truncatewords: 30 }}{% endif %}">
-<link href="{{ site.url }}/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts" />
+    {% assign engPosts = site.posts | where: "language", "en" %}
+        {% for post in engPosts limit:1 %}
+        {% assign seotitle = post.subtitle %}
+            {% assign seoimage = post.image %}
+            {% assign seodescription = post.summary %}
+        {% endfor %}
 {% elsif siteLang == "id" %}
-<title>{% if page.title %}Binary.com - {{ page.title }}{% else %}Binary.com Анализ Рынка - {{ site.time | date_to_long_string }} {% endif %}</title>
-<meta name="description" content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.summary | strip_html | truncatewords: 30 }}{% endif %}">
-<link href="{{ site.url }}/feed-id.xml" type="application/rss+xml" rel="alternate" title="Laporan" />
+    {% assign idPosts = site.posts | where: "language", "id" %}
+        {% for post in idPosts limit:1 %}
+            {% assign seotitle = post.subtitle %}
+            {% assign seoimage = post.image %}
+            {% assign seodescription = post.summary %}
+        {% endfor %}
 {% elsif siteLang == "ru" %}
-<title>{% if page.title %}Binary.com {{ page.title }}{% else %}Binary.com Анализ Рынка - {{ site.time | date_to_long_string }} {% endif %}</title>	
-<meta name="description" content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.summary | strip_html | truncatewords: 30 }}{% endif %}">
-<link href="{{ site.url }}/feed-ru.xml" type="application/rss+xml" rel="alternate" title="Анализ Рынка" />
+    {% assign ruPosts = site.posts | where: "language", "ru" %}
+        {% for post in ruPosts limit:1 %}
+            {% assign seotitle = post.subtitle %}
+            {% assign seoimage = post.image %}
+            {% assign seodescription = post.summary %}
+        {% endfor %}
 {% else %}
-<title>{% if page.title %}Binary.com Daily Market Report - {{ page.title }}{% else %}{{ site.title | escape }} - {{ page.date | date_to_long_string }} {% endif %}</title>
-<meta name="description" content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.summary | strip_html | truncatewords: 30 }}{% endif %}">
-<link href="{{ site.url }}/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts" />
+    {% assign myPosts = site.posts | where: "language", "en" %}
+    {% for post in myPosts limit:1 %}
+        {% assign seotitle = post.subtitle %}
+        {% assign seoimage = post.image %}
+        {% assign seodescription = post.summary %}
+    {% endfor %}
 {% endif %}
+{% else %}
+    {% assign seotitle = page.subtitle %}
+    {% assign seoimage = page.image %}
+    {% assign seodescription = page.summary %}
+{% endif %}
+<title>{{ seotitle | truncatewords: 30 }}</title>
+<meta name="description" content="{{ seodescription | truncatewords: 30 }}">
+<meta property="og:title" content="{{ seotitle }}" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="{{ seodescription | truncatewords: 30 }}" />
+<meta property="og:url" content="{{ page.url | replace:'index.html' | prepend: site.url }}" />
+<meta property="og:image" content="{{ seoimage | prepend: site.url }}" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@Binarydotcom">
+<meta name="twitter:title" content="{{ seotitle }}">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="{{ seoimage | prepend: site.url }}">
+<meta name="twitter:image:alt" content="{{ seotitle }}">
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | replace:'index.html' | prepend: site.url }}"
+    },
+    "headline": "{{ seotitle }}",
+    "image": [
+        "{{ page.image | prepend: site.url  }}"
+    ],
+    "datePublished": "{{ site.time | date_to_xmlschema }}",
+    "dateModified": "{{ site.time | date_to_xmlschema }}",
+    "author": {
+    "@type": "Organization",
+    "name": "Binary.com"
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Binary.com",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://dailyreport.binary.com/images/binary-icon.png"
+    }
+},
+    "description": "{{ seodescription }}"
+}
+</script>
