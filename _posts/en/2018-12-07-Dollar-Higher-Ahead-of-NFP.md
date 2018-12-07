@@ -19,7 +19,7 @@ The USD/CAD is holding gains and pushing to its highest levels since June 2017. 
 
 By contrast, the USD/CHF continues to struggle despite bouncing off the 0.9900 level yesterday. 
 
-By contrast the yen pairs have a positive bias, with the USD/JPY nudging higher. The AUD/JPY continues to struggle, losing ground for the fifth day in a row. 
+The yen pairs have a positive bias, with the USD/JPY nudging higher. The AUD/JPY continues to struggle, losing ground for the fifth day in a row. 
 
 ## Coming up today
 
@@ -33,7 +33,7 @@ FOMC member Brainard speaks at 17.00.
 
 ## Trade Idea
 
-Today’s FOMC meeting will produce substantial volatility today, but there’s no getting away from the strength of the general trend.
+Today’s NFP will produce substantial volatility, but there’s no getting away from the strength of the general trend.
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-07_06-58-35.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
