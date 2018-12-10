@@ -15,7 +15,7 @@ The AUD/USD has made its morning gap lower and is now higher for the morning.
 
 The EUR/USD is setting up for another strong day, making it four straight days of gains. By contrast the GBP/USD is only just positive after a more severe gap lower. The November lows remain within reach as Tuesday’s Brexit vote weighs heavily on the pound. As a result, the EUR/GBP has reached its highest levels since September. 
 
-The USD/CAD continues to benefit from the weaker dollar, driving the USD/CAD lower for the second straight day after Friday’s impressive jobs numbers. 
+Canadian dollar continues to benefit from the weaker US dollar, driving the USD/CAD lower for the second straight day after Friday’s impressive jobs numbers. 
 
 The USD/CHF is also suffering as the Swiss franc continues to find buyers amid the trade tensions. The USD/CHF is down for the sixth straight day. 
 
@@ -23,9 +23,9 @@ The USD/JPY has gapped lower at the open as money flows into the safer harbour o
 
 ## Coming up today
 
-Today, we have UK manufacturing GDP and manufacturing production at 09.30. 
+Today, we have UK GDP and manufacturing production at 09.30. 
 
-US Governing council member Lane is speaks 12.45. 
+BOC Governing council member Lane is speaks 12.45. 
 
 ## Trade Idea
 
