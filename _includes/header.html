@@ -3,29 +3,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col">
-				<div class="languages">
-					<ul id="display_language">
-						<li class="EN">
-							<span class="world world-white"></span>
-								<div class="language-wrapper">
-									<span class="language">{% if siteLang == 'en' %}English{% elsif siteLang == "id" %}Indonesia{% elsif siteLang == "ru" %}Русский{% else %}English{% endif %}</span>
-								</div>
-							<span class="nav-caret"></span>
-						</li>
-					</ul>
-					<ul id="select_language">
-						<li class="EN">
-							<span class="world world-black"></span>
-								<div class="language-wrapper">
-									<span class="language">{% if siteLang == 'en' %}English{% elsif siteLang == "id" %}Indonesia{% elsif siteLang == "ru" %}Русский{% else %}English{% endif %}</span>
-								</div>
-							<span class="nav-caret"></span>
-						</li>
-						<li class="ID {% if siteLang == 'id' %}invisible{% endif %}"><a href="{{ '/id/' | prepend: SourceUrl }}">Indonesia</a></li>
-						<li class="EN {% if siteLang == 'en' %}invisible{% endif %}"><a href="{{ '/' | prepend: SourceUrl }}">English</a></li>
-						<li class="RU {% if siteLang == 'ru' %}invisible{% endif %}"><a href="{{ '/ru/' | prepend: SourceUrl }}">Русский</a></li>
-					</ul>
-				</div>
+				{% include nojs_language.html %}
 			</div>
 		</div>
 	</div>	
