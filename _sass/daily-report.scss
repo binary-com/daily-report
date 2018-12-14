@@ -265,3 +265,27 @@ h3 a {
 .topbar .language-wrapper .language {
     padding: 5px 0px !important;
 }
+
+.nojs-language {
+    margin-top: 0px;
+    text-align: right;
+    margin-right: -10px;
+
+    a {
+        color: #ffffff;
+        font-weight: 400;
+        padding: 5px 10px;
+        line-height: 26px;
+        cursor: pointer;
+
+        &:hover {
+            text-decoration: none;
+            color: #cccccc;
+        }
+
+        &.active {
+            text-decoration: underline;
+            color: #cccccc;
+        }
+    }
+}

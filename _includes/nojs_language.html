@@ -1,0 +1,5 @@
+<div class="nojs-language">
+    <a {% if siteLang == 'en' %}class="active"{% endif %} href="{{ '/' | prepend: SourceUrl }}">English</a>
+    <a href="{{ '/id/' | prepend: SourceUrl }}" {% if siteLang == 'id' %}class="active"{% endif %}>Indonesia</a>
+    <a {% if siteLang == 'ru' %}class="active"{% endif %} href="{{ '/ru/' | prepend: SourceUrl }}">Русский</a>
+</div>
