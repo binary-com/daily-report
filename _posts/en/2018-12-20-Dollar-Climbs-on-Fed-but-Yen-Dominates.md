@@ -3,42 +3,38 @@ layout: post
 title: "Dec 20th 2018: Dollar Climbs on Fed but Yen Dominates"
 language: en
 permalink: /en/Dollar-Climbs-on-Fed-but-Yen-Dominates-20-Dec-18/
-image: /images/dec-18/2018-12-19_07-06-31.jpg
+image: /images/dec-18/2018-12-20_07-00-49.jpg
 subtitle: Dollar Climbs on Fed but Yen Dominates
-summary: "Yen pairs are generally on the back foot, led by the AUD/JPY which is testing the 80.80 December low. The EUR/JPY is down only slightly and remains in a tight range, in contrast to the GBP/JPY is which challenging the December lows"
+summary: "The dollar index is down slightly after staging a post Fed rally on expectations of a bullish rate path. Overall there are mixed fortunes for dollar pairs. The AUD/USD is lower again this morning after heavy selling yesterday that continues the December decline"
 ---
 ## Morning Report: 07.00 London
 
-The yen is in firm control as the USD/JPY drops below the 112.50 level, falling for the fourth straight day. 
+The dollar index is down slightly after staging a post Fed rally on expectations of a bullish rate path. Overall there are mixed fortunes for dollar pairs. 
 
-Yen pairs are generally on the back foot, led by the AUD/JPY which is testing the 80.80 December low. The EUR/JPY is down only slightly and remains in a tight range, in contrast to the GBP/JPY is which challenging the December lows. 
+The AUD/USD is lower again this morning after heavy selling yesterday that continues the December decline. 
 
-The dollar pairs are in the black, helped by the dollar index easing off the pace ahead of today’s Fed meeting. Rates are expected to increase by 0.25%, but it is the pace of future developments which is weighing on the Greenback this morning. 
+The GBP/USD is higher slightly after moderate losses yesterday. By contrast. The EUR/USD continues to outperform, rising for the fourth day in a row despite yesterday’s dollar strength. The EUR/GBP is slightly higher, but the euro’s dominance was clear in yesterday’s rally. 
 
-The EUR/USD continues to perform well, rising for the third straight day this week and erasing all of Friday’s losses. The GBP/USD is higher, though lagging this morning, helping the EUR/GBP to nudge higher. 
+The USD/CAD is continuing its upswing however as the US dollar dominates the weakening Canadian dollar. The dollar is falling against the Swiss franc however, with the USD/CHF reversing most of yesterday’s losses. 
 
-The USD/CAD is slipping this morning, but it remains at an elevated position at the highs, despite pulling back from 1.3500 yesterday. 
+While the dollar rose yesterday, it is the yen that is controlling currency moves. The USD/JPY dropped heavily this morning to test the 112.00 level. 
 
-The USD/CHF remains above the 0.9900 level after a successful hold yesterday. 
+The AUD/JPY continues to see spectacular selling, dropping 4.4% for the month of December. 
 
-Gold is pushing its highest levels since the Summer thanks to the weaker dollar and global uncertainty. 
+Both the EUR/JPY and GBP/JPY are on the back foot, with the latter testing the December lows. 
 
 ## Coming up today
 
-Today, we have UK CPI at 09.30, released alongside PPI and RPI. 
+UK retail sales are at 09.30. 
 
-Canadian CPI data is released at 13.30. 
-
-At 19.00, we have the FOMC statement and economic projections, with the press conference to follow at 19.30. 
-
-New Zealand GDP is at 21.45. 
+At 12.00, we have the MPC policy statement, with no change expected. 
 
 ## Trade Idea
 
-The USD/CHF is in a rangebound impasse right now, but we are likely to see some decisive moves following today’s FOMC meeting.
+The pound continues to trade with a Brexit millstone around its next and this could see further downside for the GBP/JPY.
 
-<img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-19_07-06-31.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
+<img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-20_07-00-49.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=endsinout&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier_high=1.0050&barrier_low=0.9850" target="_blank" rel="noopener">A good way to play this is an In/Out trade predicting that the USD/CHF will end outside of a high of 1.0050 or a low of 0.9850 in 14 days for a potential return of 116%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=139" target="_blank" rel="noopener">A good way to play this is a ONE TOUCH trade predicting that the GBP/JPY will touch 139.00 within the next 14 days for a potential return of 135%.</a>
 
-<img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-19_07-03-24.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
+<img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-20_07-02-30.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
