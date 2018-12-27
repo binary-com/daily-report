@@ -27,6 +27,6 @@ The USD/CAD’s uptrend is hard to ignore, making a HIGHER trade attractive.
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-24_08-13-23.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.3600" target="_blank" rel="noopener">A good way to play this is a HIGHER trade predicting that the USD/CAD will close above 1.3600 in 14 days for a potential return of 126%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.3600" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the USD/CAD will close above 1.3600 in 14 days for a potential return of 126%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-24_08-14-28.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
