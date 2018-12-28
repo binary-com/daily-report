@@ -35,6 +35,6 @@ The USD/JPY is experiencing some negative pressure this morning, but the trend r
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-02_06-21-48.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=112" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the USD/JPY will touch 112.00 within the next 14 days for a potential return of 130%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=112" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the USD/JPY will touch 112.00 within the next 14 days for a potential return of 130%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-02_06-22-25.jpg" alt="{{ page.title }}" title="{{ page.title }}">

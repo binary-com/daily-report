@@ -29,6 +29,6 @@ The GBP/JPY is weaker as the yen takes control and the pound suffers Brexit blue
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-27_08-18-44.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=143.00" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the GBP/JPY will touch 143.00 within 14 days for a potential return of 155%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=143.00" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the GBP/JPY will touch 143.00 within 14 days for a potential return of 155%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-27_08-20-27.jpg" alt="{{ page.title }}" title="{{ page.title }}">

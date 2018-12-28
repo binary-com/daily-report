@@ -33,6 +33,6 @@ The EUR/JPY continues to struggle, with 129.00 the next target.
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-04_06-28-15.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=129.00" target="_blank">With the yen finding its feet, a good way to play this is a ONE TOUCH trade predicting that the EUR/JPY will touch 129.00 in the next 14 days for a potential return of 125%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=129.00" target="_blank" rel="noopener noreferrer nofollow">With the yen finding its feet, a good way to play this is a ONE TOUCH trade predicting that the EUR/JPY will touch 129.00 in the next 14 days for a potential return of 125%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-04_06-31-12.jpg" alt="{{ page.title }}" title="{{ page.title }}">

@@ -35,6 +35,6 @@ The Aussie is holding up well, while the euro continues to falter. As such the E
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-11_06-30-28.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.5800" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/AUD will close below 1.5800 in 14 days for a potential return of 100%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.5800" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/AUD will close below 1.5800 in 14 days for a potential return of 100%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-11_06-21-44.jpg" alt="{{ page.title }}" title="{{ page.title }}">

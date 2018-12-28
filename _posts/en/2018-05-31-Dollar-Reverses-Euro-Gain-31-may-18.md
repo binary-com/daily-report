@@ -41,6 +41,6 @@ The euro is recovering this morning, but doubts still remains about long term st
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-31_06-32-04.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCAD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.5000" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/CAD will close below 1.5000 in 14 days could return 111% if successful.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCAD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.5000" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/CAD will close below 1.5000 in 14 days could return 111% if successful.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-31_06-41-29.jpg" alt="{{ page.title }}" title="{{ page.title }}">

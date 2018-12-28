@@ -31,6 +31,6 @@ The USD/CHF is in no man’s land between the parity level of 1.000 and 0.9800 a
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-09_06-40-06.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=staysinout&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier_high=1&barrier_low=0.98" target="_blank">A good way to play this is an In/Out trade predicting that the USD/CHF will stay between 0.9800 and a high of 1.000, not touching either 1.0000 or 0.9800 over the next 14 days for a potential return of 116%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=staysinout&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier_high=1&barrier_low=0.98" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is an In/Out trade predicting that the USD/CHF will stay between 0.9800 and a high of 1.000, not touching either 1.0000 or 0.9800 over the next 14 days for a potential return of 116%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-09_06-42-05.jpg" alt="{{ page.title }}" title="{{ page.title }}">

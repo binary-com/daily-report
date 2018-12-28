@@ -31,6 +31,6 @@ Gold continues to struggle in the face of higher dollar levels. With a slew of e
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-30_07-47-28.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_amount=30&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1200" target="_blank">A good way to play this is a LOWER trade predicting that gold will close below $1200 in 30 days for a potential return of 241%.</a>
+<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_amount=30&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1200" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that gold will close below $1200 in 30 days for a potential return of 241%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-30_07-54-59.jpg" alt="{{ page.title }}" title="{{ page.title }}">

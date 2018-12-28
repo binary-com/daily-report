@@ -35,6 +35,6 @@ With the dollar back in control and major data due today, the USD/JPY is likely 
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-01_07-44-44.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=touchnotouch&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=113.50" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the USD/JPY will touch 113.50 within 14 days for a potential return of 170%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=touchnotouch&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=113.50" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the USD/JPY will touch 113.50 within 14 days for a potential return of 170%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-01_07-46-35.jpg" alt="{{ page.title }}" title="{{ page.title }}">

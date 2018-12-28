@@ -30,6 +30,6 @@ Gold may have found support at $1240 recently, with this level stretching back t
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-13_06-41-38.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=touchnotouch&duration_amount=10&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1230" target="_blank">A good way to play this is a ONE TOUCH trade predicting that gold will touch $1230 in the next 10 days for a potential return of 102%.</a>
+<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=touchnotouch&duration_amount=10&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1230" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that gold will touch $1230 in the next 10 days for a potential return of 102%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-13_06-46-39.jpg" alt="{{ page.title }}" title="{{ page.title }}">

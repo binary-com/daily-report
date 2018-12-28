@@ -33,6 +33,6 @@ While the pound is under pressure, the euro has its own headwinds.
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-20_06-40-21.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.8900" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/GBP will close below 0.8900 in 14 days for a potential return of 170%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.8900" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/GBP will close below 0.8900 in 14 days for a potential return of 170%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-20_06-45-21.jpg" alt="{{ page.title }}" title="{{ page.title }}">

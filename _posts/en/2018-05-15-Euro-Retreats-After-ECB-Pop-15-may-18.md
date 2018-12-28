@@ -37,6 +37,6 @@ The USD/JPY is banging on the doors of 110.00 and today could see it push throug
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-15_06-45-32.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=110.50" target="_blank">A good way to play this is a HIGHER trade predicting that the USD/JPY will close above 110.50 in 14 days for a potential return of 195%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=110.50" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the USD/JPY will close above 110.50 in 14 days for a potential return of 195%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-15_06-47-37.jpg" alt="{{ page.title }}" title="{{ page.title }}">

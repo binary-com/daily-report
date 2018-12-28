@@ -31,6 +31,6 @@ Brexit negotiations continue yet we’re still not materially closer to finding 
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-18_07-08-04.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.3200" target="_blank">Pressure remains on the GBP/USD and a good way to play this is a LOWER trade predicting that the pair will close below 1.3200 in 14 days for a potential return of 161% if successful.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.3200" target="_blank" rel="noopener noreferrer nofollow">Pressure remains on the GBP/USD and a good way to play this is a LOWER trade predicting that the pair will close below 1.3200 in 14 days for a potential return of 161% if successful.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-18_07-11-28.jpg" alt="{{ page.title }}" title="{{ page.title }}">

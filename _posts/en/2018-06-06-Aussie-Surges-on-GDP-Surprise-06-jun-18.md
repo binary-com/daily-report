@@ -33,6 +33,6 @@ The Swiss franc continues to appreciate, aided by the weakness in the US dollar.
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-06_07-42-48.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=stake&barrier=0.9800" target="_blank">A good way to play this is a LOWER trade predicting that the USD/CHF will close below 0.9800 in 14 days for a potential return of 134%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=stake&barrier=0.9800" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the USD/CHF will close below 0.9800 in 14 days for a potential return of 134%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-06_07-45-56.jpg" alt="{{ page.title }}" title="{{ page.title }}">

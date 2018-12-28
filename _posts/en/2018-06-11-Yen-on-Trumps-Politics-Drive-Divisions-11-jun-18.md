@@ -28,6 +28,6 @@ The higher part of the range could be a good target before more range bound trad
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-11_06-41-51.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=touchnotouch&duration_amount=21&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.8950" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the EUR/GBP touches 0.8950 within 21 days for a potential return of 143%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=touchnotouch&duration_amount=21&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.8950" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the EUR/GBP touches 0.8950 within 21 days for a potential return of 143%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-11_06-45-03.jpg" alt="{{ page.title }}" title="{{ page.title }}">

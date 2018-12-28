@@ -31,6 +31,6 @@ The AUD/JPY is back on its downswing, as the yen re-finds its feet. A return to 
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-23_07-28-42.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=81.00" target="_blank">A good way to play this could be a ONE TOUCH trade predicting that the AUD/ JPY will touch 81.00 within 14 days for a potential return of 110%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=81.00" target="_blank" rel="noopener noreferrer nofollow">A good way to play this could be a ONE TOUCH trade predicting that the AUD/ JPY will touch 81.00 within 14 days for a potential return of 110%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-23_07-29-56.jpg" alt="{{ page.title }}" title="{{ page.title }}">

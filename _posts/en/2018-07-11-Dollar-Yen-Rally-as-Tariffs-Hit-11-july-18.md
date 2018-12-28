@@ -39,6 +39,6 @@ The pound has shown impressive resilience, especially against the yen. Sterling 
 
 <img class="post-image" src="{{ site.url }}/images/july-18/11-07-2018 07-15-23.png" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=148.086" target="_blank">A good way to play this is a HIGHER trade predicting that the GBP/JPY will close above 148.086 in 14 days for a potential return of 122%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=148.086" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the GBP/JPY will close above 148.086 in 14 days for a potential return of 122%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/11-07-2018 07-18-11.png" alt="{{ page.title }}" title="{{ page.title }}">

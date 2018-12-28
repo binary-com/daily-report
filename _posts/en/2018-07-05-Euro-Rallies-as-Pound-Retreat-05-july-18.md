@@ -37,6 +37,6 @@ The euro has performed well recently, while the Australian dollar has to deal wi
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-05_07-48-15.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.6000" target="_blank">A good way to play with this is a HIGHER trade predicting that the EUR/AUD will close above 1.60000 within 14 days for a potential return of 220%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.6000" target="_blank" rel="noopener noreferrer nofollow">A good way to play with this is a HIGHER trade predicting that the EUR/AUD will close above 1.60000 within 14 days for a potential return of 220%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-05_07-49-47.jpg" alt="{{ page.title }}" title="{{ page.title }}">

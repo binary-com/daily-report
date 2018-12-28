@@ -33,6 +33,6 @@ The USD/JPY has been gathering strong momentum, with a pop above the May highs a
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-13_06-04-43.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=touchnotouch&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=stake&barrier=112.00" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the USD/JPY will touch 112.00 within 14 days for a potential return of 146%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=touchnotouch&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=stake&barrier=112.00" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the USD/JPY will touch 112.00 within 14 days for a potential return of 146%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-13_06-05-54.jpg" alt="{{ page.title }}" title="{{ page.title }}">

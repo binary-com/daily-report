@@ -39,6 +39,6 @@ Gold has continued to weaken and with the resurgent US dollar, there could be fu
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-18_07-41-28.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1220" target="_blank">A good way to play this is a LOWER trade predicting that gold will close below $1220 in 14 days for a potential return of 113%.</a>
+<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1220" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that gold will close below $1220 in 14 days for a potential return of 113%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-18_07-43-03.jpg" alt="{{ page.title }}" title="{{ page.title }}">

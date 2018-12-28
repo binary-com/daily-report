@@ -31,6 +31,6 @@ The dollar may be under some pressure this morning, but the pound has many quest
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-18_06-16-59.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.3500" target="_blank">With pressure surrounding sterling, a good way to play this is a LOWER trade predicting that the GBP/USD will close below 1.3500 in 14 days for a potential return of 103%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.3500" target="_blank" rel="noopener noreferrer nofollow">With pressure surrounding sterling, a good way to play this is a LOWER trade predicting that the GBP/USD will close below 1.3500 in 14 days for a potential return of 103%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-18_06-20-56.jpg" alt="{{ page.title }}" title="{{ page.title }}">

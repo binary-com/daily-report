@@ -35,6 +35,6 @@ The Swiss franc is in demand and in vogue as a safe haven, forcing the EUR/CHF l
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-31_07-36-11.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=1.1550" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/CHF closes below 1.1550 in 14 days for a potential return of 129%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=1.1550" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/CHF closes below 1.1550 in 14 days for a potential return of 129%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-31_07-37-21.jpg" alt="{{ page.title }}" title="{{ page.title }}">

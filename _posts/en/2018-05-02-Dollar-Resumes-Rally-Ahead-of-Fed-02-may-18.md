@@ -39,6 +39,6 @@ Meanwhile the euro continues to suffer, putting the two currencies on opposite p
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-02_06-47-38.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCAD&formname=higherlower&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=1.5300" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/CAD will close below 1.5300 in 14 days for a potential return of 186%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCAD&formname=higherlower&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=1.5300" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/CAD will close below 1.5300 in 14 days for a potential return of 186%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-02_06-49-20.jpg" alt="{{ page.title }}" title="{{ page.title }}">

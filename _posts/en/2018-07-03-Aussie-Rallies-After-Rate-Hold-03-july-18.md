@@ -29,6 +29,6 @@ Gold has continued to slump, but $1240 has acted as a key support level previous
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-03_07-19-04.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1220" target="_blank">A good way to play this is a ONE TOUCH trade predicting that gold touches $1220 within 14 days for a potential return of 122%.</a>
+<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1220" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that gold touches $1220 within 14 days for a potential return of 122%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-03_07-22-14.jpg" alt="{{ page.title }}" title="{{ page.title }}">

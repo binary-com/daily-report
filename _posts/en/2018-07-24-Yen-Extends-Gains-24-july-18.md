@@ -29,6 +29,6 @@ The euro continues to weaken against Swiss franc, with the May lows a likely tar
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-24_06-33-14.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1600" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/CHF will close below 1.1600 in 14 days for a potential return of 105%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1600" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/CHF will close below 1.1600 in 14 days for a potential return of 105%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-24_06-35-53.jpg" alt="{{ page.title }}" title="{{ page.title }}">
