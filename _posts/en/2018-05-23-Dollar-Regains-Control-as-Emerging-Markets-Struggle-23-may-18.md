@@ -41,6 +41,6 @@ The EUR/CHF has been tumbling, but there could be more room for downside.
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-23_06-02-38.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.1600" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/CHF closes below 1.1600 in 14 days for a potential return of 192%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.1600" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/CHF closes below 1.1600 in 14 days for a potential return of 192%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-23_06-13-52.jpg" alt="{{ page.title }}" title="{{ page.title }}">

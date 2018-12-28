@@ -33,6 +33,6 @@ The euro has lost ground to the Swiss franc of late, in-line with the wider tren
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-19_07-35-08.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1600" target="_blank">Further downside could be on the cards and a good way to play this is a LOWER trade predicting that the EUR/CHF closes below 1.1600 in 14 days for a potential return of 135%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1600" target="_blank" rel="noopener noreferrer nofollow">Further downside could be on the cards and a good way to play this is a LOWER trade predicting that the EUR/CHF closes below 1.1600 in 14 days for a potential return of 135%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-19_07-38-32.jpg" alt="{{ page.title }}" title="{{ page.title }}">

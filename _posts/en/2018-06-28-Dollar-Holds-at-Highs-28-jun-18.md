@@ -41,6 +41,6 @@ With Australia reliant on China for growth, there could be further downside from
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-28_06-22-24.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.7300" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7300 in 14 days for a potential return of 172%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.7300" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7300 in 14 days for a potential return of 172%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-28_06-31-42.jpg" alt="{{ page.title }}" title="{{ page.title }}">

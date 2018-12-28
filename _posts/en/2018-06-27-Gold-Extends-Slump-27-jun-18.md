@@ -39,6 +39,6 @@ Silver is holding just above support at $16.20, but if this breaks, there could 
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-27_06-23-50.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAGUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=16.00" target="_blank">A good way to play this is a LOWER trade predicting that silver will close below $16.00 in 14 days time for a potential return of 140%.</a>
+<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAGUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=16.00" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that silver will close below $16.00 in 14 days time for a potential return of 140%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-27_06-25-34.jpg" alt="{{ page.title }}" title="{{ page.title }}">

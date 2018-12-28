@@ -33,6 +33,6 @@ The GBP/JPY is on the turn as traders struggle to support the pound amid Brexit 
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-20_06-31-39.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=144.50" target="_blank">A good way to play this is a LOWER trade predicting that the GBP/JPY will close below 144.50 in 14 days for a potential return of 132%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=144.50" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the GBP/JPY will close below 144.50 in 14 days for a potential return of 132%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-20_06-33-56.jpg" alt="{{ page.title }}" title="{{ page.title }}">

@@ -35,6 +35,6 @@ The Canadian dollar has picked up momentum as the Iran deal falters. Meanwhile t
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-10_06-35-49.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCAD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.5200" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/CAD will close below 1.5200 in 14 days for a potential return of 105%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCAD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.5200" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/CAD will close below 1.5200 in 14 days for a potential return of 105%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-10_06-49-22.jpg" alt="{{ page.title }}" title="{{ page.title }}">

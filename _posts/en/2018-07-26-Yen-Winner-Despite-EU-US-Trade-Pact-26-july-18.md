@@ -35,6 +35,6 @@ The EUR/JPY’s mid-summer blip is in danger of turning into something more sust
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-26_07-28-51.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=129" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/JPY will close below 129.00 in 14 days for a potential return of 199%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=129" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/JPY will close below 129.00 in 14 days for a potential return of 199%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-26_07-31-03.jpg" alt="{{ page.title }}" title="{{ page.title }}">

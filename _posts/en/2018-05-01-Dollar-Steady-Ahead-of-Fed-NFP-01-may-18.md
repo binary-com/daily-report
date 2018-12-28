@@ -38,6 +38,6 @@ The USF/CHF continues to travel well, propelled by the weakening Swiss franc and
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-01_06-44-03.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.0050" target="_blank">Tomorrow’s FOMC could see recent gains accelerate and a good way to play this is a ONE TOUCH trade predicting that the USD/CHF will touch 1.0050 or higher within the next 14 days for a potential return of 186%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.0050" target="_blank" rel="noopener noreferrer nofollow">Tomorrow’s FOMC could see recent gains accelerate and a good way to play this is a ONE TOUCH trade predicting that the USD/CHF will touch 1.0050 or higher within the next 14 days for a potential return of 186%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-01_06-50-20.jpg" alt="{{ page.title }}" title="{{ page.title }}">

@@ -27,6 +27,6 @@ The USD/CHF continues to drop as the Swiss franc takes in buyers at the expense 
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-08_06-07-14.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=stake&barrier=0.9650" target="_blank">A ONE TOUCH trade predicting that the USD/CHF will touch 0.9650 within the next 14 could return 142% if successful.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=stake&barrier=0.9650" target="_blank" rel="noopener noreferrer nofollow">A ONE TOUCH trade predicting that the USD/CHF will touch 0.9650 within the next 14 could return 142% if successful.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-08_06-18-21.jpg" alt="{{ page.title }}" title="{{ page.title }}">

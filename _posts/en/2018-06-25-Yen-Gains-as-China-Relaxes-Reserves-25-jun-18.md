@@ -31,6 +31,6 @@ Gold remains under pressure, but the selling so far hasn’t reached extreme lev
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-25_06-25-38.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1250" target="_blank">A good way to play this is a LOWER trade predicting that gold will close below $1250 in 14 days for a potential return of 265%.</a>
+<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1250" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that gold will close below $1250 in 14 days for a potential return of 265%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-25_06-26-57.jpg" alt="{{ page.title }}" title="{{ page.title }}">

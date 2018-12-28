@@ -33,6 +33,6 @@ Instead of betting on the reversal, now could be a good time to reload on bullis
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-04_06-47-58.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=111.50" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the USD/JPY will touch 111.50 within 14 days for a potential return of 100%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=111.50" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the USD/JPY will touch 111.50 within 14 days for a potential return of 100%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-04_06-50-35.jpg" alt="{{ page.title }}" title="{{ page.title }}">

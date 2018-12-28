@@ -27,6 +27,6 @@ Gold continues to soften as dollar pressure continues to drive the precious meta
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-21_06-27-11.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_amount=21&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=1275" target="_blank">There is more downside potential from here and  good way to play this is a LOWER trade predicting that gold will close below $1275 in 21 days for a potential return of 179%.</a>
+<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_amount=21&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=1275" target="_blank" rel="noopener noreferrer nofollow">There is more downside potential from here and  good way to play this is a LOWER trade predicting that gold will close below $1275 in 21 days for a potential return of 179%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-21_06-28-50.jpg" alt="{{ page.title }}" title="{{ page.title }}">

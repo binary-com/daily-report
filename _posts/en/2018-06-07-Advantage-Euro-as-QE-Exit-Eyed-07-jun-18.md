@@ -37,6 +37,6 @@ The GBP/JPY is backing off a little this morning after a surge from the lows. Th
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-07_06-44-36.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=stake&barrier=147.00" target="_blank">A good way to play this is a LOWER trade predicting that the GBP/JPY will close below 147.00 in 14 days for a potential return of 133%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=stake&barrier=147.00" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the GBP/JPY will close below 147.00 in 14 days for a potential return of 133%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-07_06-49-43.jpg" alt="{{ page.title }}" title="{{ page.title }}">

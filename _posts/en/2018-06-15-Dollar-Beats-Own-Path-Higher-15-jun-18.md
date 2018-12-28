@@ -35,6 +35,6 @@ The euro plunged against most currencies yesterday, but its was the falls agains
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-15_06-10-26.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%currency=GBP&market=forex&underlying=frxEURCHF&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1400" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the EUR/ CHF will TOUCH 1.1400 within the next 14 days for a potential return of 139%.</a>
+<a href="%LINK%%currency=GBP&market=forex&underlying=frxEURCHF&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1400" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the EUR/ CHF will TOUCH 1.1400 within the next 14 days for a potential return of 139%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-15_06-13-35.jpg" alt="{{ page.title }}" title="{{ page.title }}">

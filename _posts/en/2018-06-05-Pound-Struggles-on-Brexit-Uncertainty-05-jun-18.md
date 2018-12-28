@@ -33,6 +33,6 @@ Gold continues to struggle as the US dollar holds at the highs. $1290 is acting 
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-05_06-27-15.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1270" target="_blank">There could be more downside from here and a good way to play this is a ONE TOUCH trade predicting that gold will touch $1270 within the next 14 days for a potential return of 117%.</a>
+<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1270" target="_blank" rel="noopener noreferrer nofollow">There could be more downside from here and a good way to play this is a ONE TOUCH trade predicting that gold will touch $1270 within the next 14 days for a potential return of 117%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-05_06-27-53.jpg" alt="{{ page.title }}" title="{{ page.title }}">

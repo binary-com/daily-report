@@ -37,6 +37,6 @@ The euro continues to struggle, not helped by ongoing problems in Italy which hi
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-16_06-30-42.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.1800" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/USD will close below 1.1800 in 14 days for a potential return of 135%..</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.1800" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/USD will close below 1.1800 in 14 days for a potential return of 135%..</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-16_06-28-30.jpg" alt="{{ page.title }}" title="{{ page.title }}">

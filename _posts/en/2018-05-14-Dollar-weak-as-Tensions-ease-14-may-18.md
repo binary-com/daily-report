@@ -29,6 +29,6 @@ The USD/CHF had a powerful run that saw it breach parity levels. This may have e
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-14_07-16-17.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.9850" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the USD/CHF will touch 0.9850 within 14 days for a potential return of 185%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.9850" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the USD/CHF will touch 0.9850 within 14 days for a potential return of 185%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-14_07-19-39.jpg" alt="{{ page.title }}" title="{{ page.title }}">

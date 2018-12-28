@@ -33,6 +33,6 @@ The Swiss franc is picking up the pace again as traders seek out safe harbours. 
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-26_06-10-13.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=0.9800" target="_blank">A good way to play this is a LOWER trade predicting that the USD/CHF will close below 0.9800 in 14 days for a potential return of 174% if successful.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=0.9800" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the USD/CHF will close below 0.9800 in 14 days for a potential return of 174% if successful.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-26_06-12-20.jpg" alt="{{ page.title }}" title="{{ page.title }}">

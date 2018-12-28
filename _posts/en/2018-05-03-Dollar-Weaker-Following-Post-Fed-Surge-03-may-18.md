@@ -39,6 +39,6 @@ The Aussie has over-performed over the last 24 hours, but the AUD/USD’s medium
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-03_05-55-31.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7400" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the AUD/USD will TOUCH 0.7400 within the next 14 days for a potential return of 175%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=0.7400" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the AUD/USD will TOUCH 0.7400 within the next 14 days for a potential return of 175%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-03_05-59-08.jpg" alt="{{ page.title }}" title="{{ page.title }}">

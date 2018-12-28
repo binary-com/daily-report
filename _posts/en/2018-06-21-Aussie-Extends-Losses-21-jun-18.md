@@ -41,6 +41,6 @@ The Swiss franc continues to weaken in the face of the US dollar’s surge. Pari
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-21_06-04-44.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.0075" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the USD/ CHF will TOUCH 1.0075 within 14 days for a potential return 113%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.0075" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the USD/ CHF will TOUCH 1.0075 within 14 days for a potential return 113%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-21_06-00-19.jpg" alt="{{ page.title }}" title="{{ page.title }}">

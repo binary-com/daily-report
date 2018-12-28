@@ -29,6 +29,6 @@ The ‘IMF solution’ has failed to support the euro, with renewed pressure thi
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-29_06-09-55.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=126.00" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/JPY will close below 126.00 in 14 days for a potential return of 174%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=126.00" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/JPY will close below 126.00 in 14 days for a potential return of 174%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-29_06-12-37.jpg" alt="{{ page.title }}" title="{{ page.title }}">

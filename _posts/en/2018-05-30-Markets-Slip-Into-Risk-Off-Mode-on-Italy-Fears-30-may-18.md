@@ -29,6 +29,6 @@ While the EUR/USD has gather negative headlines, the GBP/USD has hardly been a p
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-30_06-45-57.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=higherlower&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=1.3200" target="_blank">More downside could be on the cards and a good way to play this is a LOWER trade predicting that the GBP/USD will close below 1.3200 in 14 days for a potential return of 137%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=higherlower&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=1.3200" target="_blank" rel="noopener noreferrer nofollow">More downside could be on the cards and a good way to play this is a LOWER trade predicting that the GBP/USD will close below 1.3200 in 14 days for a potential return of 137%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-30_06-49-53.jpg" alt="{{ page.title }}" title="{{ page.title }}">

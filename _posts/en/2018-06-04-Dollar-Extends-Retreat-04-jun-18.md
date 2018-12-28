@@ -33,6 +33,6 @@ The euro has recovered well against the US dollar, but against the Aussie and ot
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-04_07-20-19.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.5300" target="_blank">Further downside is on the cards and a good way to play this is a LOWER trade predicting that the EUR/AUD will close below 1.5300 in 14 days for a potential return of 125%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.5300" target="_blank" rel="noopener noreferrer nofollow">Further downside is on the cards and a good way to play this is a LOWER trade predicting that the EUR/AUD will close below 1.5300 in 14 days for a potential return of 125%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-04_07-17-26.jpg" alt="{{ page.title }}" title="{{ page.title }}">

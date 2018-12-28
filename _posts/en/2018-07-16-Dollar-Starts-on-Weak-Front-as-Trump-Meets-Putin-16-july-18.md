@@ -33,6 +33,6 @@ Despite ongoing global tensions, safe havens have lost their allure. The EUR/CHF
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-16_07-19-41.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1750" target="_blank">A good way to play this is a HIGHER trade predicting that the EUR/ CHF will close above 1.1750 in 14 days for a potential return of 132%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1750" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the EUR/ CHF will close above 1.1750 in 14 days for a potential return of 132%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-16_07-23-46.jpg" alt="{{ page.title }}" title="{{ page.title }}">

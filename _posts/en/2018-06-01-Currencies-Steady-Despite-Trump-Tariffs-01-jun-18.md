@@ -35,6 +35,6 @@ The AUD/USD recovered well on Wednesday, but has sold off for the last two sessi
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-01_06-29-55.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=stake&barrier=0.7500" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/USD closes below 0.7500 in 14 days could return 165%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=stake&barrier=0.7500" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the AUD/USD closes below 0.7500 in 14 days could return 165%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-01_06-34-58.jpg" alt="{{ page.title }}" title="{{ page.title }}">

@@ -45,6 +45,6 @@ The euro continues to stumble against dollar pressure and poor European economic
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-25_07-23-02.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.1450" target="_blank">There could be more downside from here and a good way to play this is a ONE TOUCH trade predicting that the EUR/CHF will TOUCH 1.1450 within 14 days for a potential return of 146%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.1450" target="_blank" rel="noopener noreferrer nofollow">There could be more downside from here and a good way to play this is a ONE TOUCH trade predicting that the EUR/CHF will TOUCH 1.1450 within 14 days for a potential return of 146%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-25_07-24-27.jpg" alt="{{ page.title }}" title="{{ page.title }}">

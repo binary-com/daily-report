@@ -51,6 +51,6 @@ This morning’s increase could therefore be a selling rather than a buying oppo
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-29_07-04-16.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1600" target="_blank">A good way to play this will be a LOWER trade predicting that the EUR/USD will close below 1.1600 in 14 days for a potential return of 153%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1600" target="_blank" rel="noopener noreferrer nofollow">A good way to play this will be a LOWER trade predicting that the EUR/USD will close below 1.1600 in 14 days for a potential return of 153%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-29_07-06-27.jpg" alt="{{ page.title }}" title="{{ page.title }}">

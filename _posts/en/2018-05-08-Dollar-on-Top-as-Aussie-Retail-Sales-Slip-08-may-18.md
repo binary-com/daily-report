@@ -35,6 +35,6 @@ The EUR/USD continues to weaken in the face of the ever-strong US dollar. Furthe
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-08_06-22-40.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.1900" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/USD will close BELOW 1.1900 in 14 days for a potential return of 116%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=payout&expiry_type=duration&barrier=1.1900" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/USD will close BELOW 1.1900 in 14 days for a potential return of 116%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-08_06-24-07.jpg" alt="{{ page.title }}" title="{{ page.title }}">

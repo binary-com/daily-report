@@ -33,6 +33,6 @@ Further side could be on the cards as the Aussie continues its rapid advance.
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-10_06-06-20.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=touchnotouch&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=84.25" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the AUD/JPY will TOUCH 84.25 within 14 days for a potential return of 139%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=touchnotouch&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=84.25" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the AUD/JPY will TOUCH 84.25 within 14 days for a potential return of 139%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-10_06-05-43.jpg" alt="{{ page.title }}" title="{{ page.title }}">

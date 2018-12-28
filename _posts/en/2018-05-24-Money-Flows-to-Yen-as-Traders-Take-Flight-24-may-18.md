@@ -41,6 +41,6 @@ The EUR/USD continues to struggle in the face of worsening economic data and Ita
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-24_06-05-41.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=touchnotouch&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=1.1575" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the EUR/USD will touch 1.1575 within the next 14 days for a potential return of 104%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=touchnotouch&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=1.1575" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the EUR/USD will touch 1.1575 within the next 14 days for a potential return of 104%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-24_06-10-48.jpg" alt="{{ page.title }}" title="{{ page.title }}">

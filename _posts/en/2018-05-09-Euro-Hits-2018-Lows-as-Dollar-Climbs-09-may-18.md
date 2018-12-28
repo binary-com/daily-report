@@ -31,6 +31,6 @@ The AUD/USD has been on a consistent losing run, as the Australasian region come
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-09_06-10-37.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=0.7400" target="_blank">There could be more downside to come from here and a good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7400 within 14 days for a potential return of 142%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=0.7400" target="_blank" rel="noopener noreferrer nofollow">There could be more downside to come from here and a good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7400 within 14 days for a potential return of 142%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-09_06-12-53.jpg" alt="{{ page.title }}" title="{{ page.title }}">

@@ -31,6 +31,6 @@ The US dollar post Fed weakness has continued this morning, with the Swiss franc
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-13_06-04-43.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.9800" target="_blank">A good way to play this is a LOWER trade predicting that the USD/CHF will close below 0.9800 in 14 days for a potential return of 150%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.9800" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the USD/CHF will close below 0.9800 in 14 days for a potential return of 150%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jun-18/2018-06-14_06-49-00.jpg" alt="{{ page.title }}" title="{{ page.title }}">

@@ -37,6 +37,6 @@ The euro continues to be weighed down by Italian politics so the EUR/AUD’s dow
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-22_07-11-43.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=21&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=1.5500" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/AUD will close below 1.5500 in 21 days for a potential return of 105%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=21&duration_units=d&expiry_type=duration&amount=10&amount_type=payout&barrier=1.5500" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/AUD will close below 1.5500 in 21 days for a potential return of 105%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-18/2018-05-22_07-15-33.jpg" alt="{{ page.title }}" title="{{ page.title }}">

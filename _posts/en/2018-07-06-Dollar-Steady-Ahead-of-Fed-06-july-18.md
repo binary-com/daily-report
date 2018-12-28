@@ -34,6 +34,6 @@ The yen has weakened of late as demand for safe havens subsides. Meanwhile, the 
 
 <img class="post-image" src="{{ site.url }}/images/july-18/2018-07-06_07-37-56.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=131.50" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the EUR/JPY will TOUCH 131.50 within the next 14 days for a potential return of 140%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=131.50" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the EUR/JPY will TOUCH 131.50 within the next 14 days for a potential return of 140%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/july-18/en-06-july-18.png" alt="{{ page.title }}" title="{{ page.title }}">
