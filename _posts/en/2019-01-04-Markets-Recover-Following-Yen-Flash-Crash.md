@@ -21,7 +21,7 @@ The EUR/USD is on the back foot and remains range bound, while the GBP/USD is on
 
 The USD/CHF is continuing its slow retreat, with support at 0.9850 holding for now. The EUR/CHF rallied hard yesterday though as the Swiss franc let off the pace. 
 
-The USD/CAD is unchanged after slumping heavily yesterday, dropping below 1.3500 and erasing all the late December losses. 
+The USD/CAD is unchanged after slumping heavily yesterday, dropping below 1.3500 and erasing all the late December gains. 
 
 ## Coming up today
 
