@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jan 1st 2019: Yen Picks up mantle"
+title: "Jan 2nd 2019: Yen Picks up mantle"
 language: en
 permalink: /en/Yen-Picks-up-mantle-01-Jan-19/
 image: /images/jan-19/2019-01-02_06-37-17.jpg
