@@ -35,7 +35,7 @@ At 19.00, we have the release of the meeting minutes from the last FOMC meeting.
 
 ## Trade Idea
 
-There growing levels of expectations for a rate increase in Canadian. This is almost certainly not this month, but traders are hoping for signals of future intent. Meanwhile, the euro continues to struggle in line with other dollar pairs (with the notable exception of the Canadian dollar). 
+There are growing levels of expectations for a rate increase in Canada. This is almost certainly not happening this month, but traders are hoping for signals of future intent. Meanwhile, the euro continues to struggle in line with other dollar pairs (with the notable exception of the Canadian dollar). 
 
 With big downside risks, there is a good chance of downside for the EUR/CAD in coming days.
 
