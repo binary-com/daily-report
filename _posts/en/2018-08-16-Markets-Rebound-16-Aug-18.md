@@ -35,6 +35,6 @@ The EUR/GBP is back on the rise again after a short period of pressure on Turkey
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-16_06-31-36.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.9000" target="_blank">A good way to play this is a HIGHER trade predicting that the EUR/GBP will close above 0.9000 in 14 days for a potential return of 192%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.9000" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the EUR/GBP will close above 0.9000 in 14 days for a potential return of 192%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-16_06-35-12.jpg" alt="{{ page.title }}" title="{{ page.title }}">

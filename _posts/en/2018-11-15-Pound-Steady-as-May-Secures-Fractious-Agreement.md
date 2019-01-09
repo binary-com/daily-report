@@ -39,6 +39,6 @@ There is some upside potential for the pound, but the downside risk is far more 
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-15_06-28-16.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.7800" target="_blank">A good way to play this is a LOWER trade predicting that the GBP/AUD will close below 1.7800 in 14 days for a potential return of 127%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.7800" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the GBP/AUD will close below 1.7800 in 14 days for a potential return of 127%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-15_06-24-47.jpg" alt="{{ page.title }}" title="{{ page.title }}">

@@ -31,6 +31,6 @@ The euro is under pressure this morning, though largely remains range bound. The
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-02_08-01-10.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1500" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the EUR/USD will TOUCH 1.1500 within 14 days for a potential return of 163%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1500" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the EUR/USD will TOUCH 1.1500 within 14 days for a potential return of 163%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-02_08-04-34.jpg" alt="{{ page.title }}" title="{{ page.title }}">

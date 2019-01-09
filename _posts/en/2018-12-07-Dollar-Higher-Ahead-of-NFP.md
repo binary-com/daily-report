@@ -37,6 +37,6 @@ Today’s NFP will produce substantial volatility, but there’s no getting away
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-07_06-58-35.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.3500" target="_blank">There’s upside potential from here and a good way to play this is a HIGHER trade predicting that the USD/CAD will close above 1.3500 in 14 days for a potential return of 212%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.3500" target="_blank" rel="noopener noreferrer nofollow">There’s upside potential from here and a good way to play this is a HIGHER trade predicting that the USD/CAD will close above 1.3500 in 14 days for a potential return of 212%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-07_07-00-46.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">

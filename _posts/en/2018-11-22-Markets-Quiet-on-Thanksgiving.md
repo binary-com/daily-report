@@ -35,6 +35,6 @@ The pound is subdued amid talk of Theresa May’s various meetings, with aborted
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-22_06-42-51.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2700" target="_blank">The risk very much remains to the downside for the pound and good way to play this is a ONE TOUCH trade predicting that the GBP/USD touch 1.2700 within 14 days could return 216%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2700" target="_blank" rel="noopener noreferrer nofollow">The risk very much remains to the downside for the pound and good way to play this is a ONE TOUCH trade predicting that the GBP/USD touch 1.2700 within 14 days could return 216%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-22_06-44-56.jpg" alt="{{ page.title }}" title="{{ page.title }}">

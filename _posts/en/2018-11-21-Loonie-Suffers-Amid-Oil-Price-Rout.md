@@ -33,6 +33,6 @@ There were some hefty gains for the USD/CAD yesterday with minor pull backs this
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-21_06-54-14.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.335" target="_blank">A good way to play this is a HIGHER trade predicting that the USD/CAD will close above 1.3350 in 14 days for a potential return of 156%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.335" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the USD/CAD will close above 1.3350 in 14 days for a potential return of 156%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-21_07-09-19.jpg" alt="{{ page.title }}" title="{{ page.title }}">

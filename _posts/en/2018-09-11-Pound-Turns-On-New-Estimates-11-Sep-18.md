@@ -33,6 +33,6 @@ It’s worth betting that the 1.3200 will hold, making lower levels a good targe
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-11_07-00-07.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2950" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the USD/CAD will touch 1.2950 within 14 days for a potential return of 159%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2950" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the USD/CAD will touch 1.2950 within 14 days for a potential return of 159%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-11_07-03-23.jpg" alt="{{ page.title }}" title="{{ page.title }}">

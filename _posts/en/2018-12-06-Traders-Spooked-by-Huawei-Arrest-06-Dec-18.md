@@ -49,6 +49,6 @@ The long term trend remains negative, making a lower trade attractive.
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-06_07-13-08.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.7200" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7200 in 14 days for a potential return of 125%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.7200" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7200 in 14 days for a potential return of 125%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-06_07-16-33.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">

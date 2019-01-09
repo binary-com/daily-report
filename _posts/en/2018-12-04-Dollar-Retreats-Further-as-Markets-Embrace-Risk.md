@@ -41,6 +41,6 @@ The USD/CHF rejected the 1.0000 level again yesterday and while there is every c
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-04_07-34-39.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_units=d&duration_amount=10&expiry_type=duration&amount=10&amount_type=stake&barrier=0.9850" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the USD/CHF will TOUCH 0.9850 within 10 days for a potential return of 134%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_units=d&duration_amount=10&expiry_type=duration&amount=10&amount_type=stake&barrier=0.9850" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the USD/CHF will TOUCH 0.9850 within 10 days for a potential return of 134%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-04_07-37-02.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">

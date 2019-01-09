@@ -35,6 +35,6 @@ Trade tensions are thawing, but it may take some time for the Australian economy
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-05_06-16-19.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.7150" target="_blank">Last week’s rally could therefore be a selling opportunity and a good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7150 in 14 days for a potential return of 152%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.7150" target="_blank" rel="noopener noreferrer nofollow">Last week’s rally could therefore be a selling opportunity and a good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7150 in 14 days for a potential return of 152%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-05_06-20-46.jpg" alt="{{ page.title }}" title="{{ page.title }}">

@@ -33,6 +33,6 @@ While the focus has been on the pound’s woes, the euro still has its own worri
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-14_07-27-49.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1300" target="_blank" rel="noopener">Further downside could be on the cards as dollar interest increases. A good way to play this is a LOWER trade predicting that the EUR/USD will close below 1.1300 in 14 days for a potential return of 167%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1300" target="_blank"  rel="noopener noreferrer nofollow"">Further downside could be on the cards as dollar interest increases. A good way to play this is a LOWER trade predicting that the EUR/USD will close below 1.1300 in 14 days for a potential return of 167%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-14_07-31-59.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">

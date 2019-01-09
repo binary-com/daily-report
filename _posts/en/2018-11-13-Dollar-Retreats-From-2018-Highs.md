@@ -35,6 +35,6 @@ The euro and Aussie are heading in opposite directions, with the latter helped b
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-13_06-32-59.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.5500" target="_blank">A good way to play this is a LOWER trade on the EUR/ AUD predicting that the EUR/ AUD closes below 1.5500 in 14 days for a potential return of 171%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.5500" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade on the EUR/ AUD predicting that the EUR/ AUD closes below 1.5500 in 14 days for a potential return of 171%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-13_06-34-26.jpg" alt="{{ page.title }}" title="{{ page.title }}">

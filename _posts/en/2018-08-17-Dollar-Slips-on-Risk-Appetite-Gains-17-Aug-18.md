@@ -29,6 +29,6 @@ Silver has struggled of late, following gold lower as money flows into the US do
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-17_06-46-00.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAGUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=14.50" target="_blank">A good way to play this is a LOWER trade predicting that silver will close below $14.50 in 14 days for a potential return of 117%.</a>
+<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAGUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=14.50" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that silver will close below $14.50 in 14 days for a potential return of 117%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-17_07-11-06.jpg" alt="{{ page.title }}" title="{{ page.title }}">

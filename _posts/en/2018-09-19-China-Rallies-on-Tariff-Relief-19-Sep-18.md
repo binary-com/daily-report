@@ -37,6 +37,6 @@ Optimism is high for a Canadian trade deal, making the USD/CAD an attractive opt
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-19_06-41-04.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2900" target="_blank">A good way to play this is a LOWER trade predicting that the USD/CAD will close below 1.2900 in 14 days for a potential return of 132%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2900" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the USD/CAD will close below 1.2900 in 14 days for a potential return of 132%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-19_06-42-28.jpg" alt="{{ page.title }}" title="{{ page.title }}">

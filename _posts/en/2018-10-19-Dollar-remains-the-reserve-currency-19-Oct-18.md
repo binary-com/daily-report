@@ -37,6 +37,6 @@ The Swiss franc is continuing to lose its allure as a safe haven, while the doll
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-19_06-46-37.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.0000" target="_blank">Further upside could be on the cards and a good way to play this is a HIGHER trade predicting that the USD/ CHF will close above 1.000 in 14 days for a potential return of 166%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.0000" target="_blank" rel="noopener noreferrer nofollow">Further upside could be on the cards and a good way to play this is a HIGHER trade predicting that the USD/ CHF will close above 1.000 in 14 days for a potential return of 166%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-19_06-50-01.jpg" alt="{{ page.title }}" title="{{ page.title }}">

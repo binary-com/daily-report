@@ -35,6 +35,6 @@ The Japanese economy continues to plod amid fears of productivity slumps towards
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-25_06-25-50.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=113.50" target="_blank">The dollar is currently firmly in control and a good way to play this is a HIGHER trade predicting that the USD/JPY will close above 113.50 in 14 days for a potential return of 189%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=113.50" target="_blank" rel="noopener noreferrer nofollow">The dollar is currently firmly in control and a good way to play this is a HIGHER trade predicting that the USD/JPY will close above 113.50 in 14 days for a potential return of 189%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-25_06-30-11.jpg" alt="{{ page.title }}" title="{{ page.title }}">

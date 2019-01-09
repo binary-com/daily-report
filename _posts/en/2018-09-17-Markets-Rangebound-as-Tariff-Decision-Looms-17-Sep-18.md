@@ -33,6 +33,6 @@ All these trends are set to continue, making a ‘LOWER’ trade attractive.
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-17_06-37-29.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_amount=35&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1175" target="_blank">A good way to play this is a LOWER trade predicting that gold will close below $1175 in 35 days for a potential return of 239%.</a>
+<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_amount=35&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1175" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that gold will close below $1175 in 35 days for a potential return of 239%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-17_06-43-21.jpg" alt="{{ page.title }}" title="{{ page.title }}">

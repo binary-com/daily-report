@@ -33,6 +33,6 @@ The Canadian dollar is advancing, with the USD/CAD dropping heavily in recent da
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-29_07-09-31.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=touchnotouch&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=1.2750" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the USD/CAD will TOUCH 1.2750 within 14 days for a potential return of 125%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=touchnotouch&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=1.2750" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the USD/CAD will TOUCH 1.2750 within 14 days for a potential return of 125%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-29_07-12-36.jpg" alt="{{ page.title }}" title="{{ page.title }}">

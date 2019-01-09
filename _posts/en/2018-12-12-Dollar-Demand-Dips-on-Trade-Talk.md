@@ -29,6 +29,6 @@ The USD/CHF is back on the rise this morning after testing the 0.9900 level brie
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-12_07-21-28.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=7&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.0025" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the USD/CHF will touch 1.0025 at some point in the next 7 days for a potential return of 113%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=7&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.0025" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the USD/CHF will touch 1.0025 at some point in the next 7 days for a potential return of 113%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-12_07-18-06.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">

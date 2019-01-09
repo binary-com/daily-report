@@ -41,6 +41,6 @@ Emerging market stresses have eased, but there is still strong potential for fur
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-13_05-57-41.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1250" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/CHF will close below 1.1250 within 14 days for a potential return of 150%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1250" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/CHF will close below 1.1250 within 14 days for a potential return of 150%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-13_05-59-13.jpg" alt="{{ page.title }}" title="{{ page.title }}">

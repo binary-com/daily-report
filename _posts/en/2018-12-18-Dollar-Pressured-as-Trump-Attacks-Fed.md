@@ -37,6 +37,6 @@ PM May is facing a no confidence vote, while Brexit uncertainty plagues the Brit
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-18_06-53-43.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=21&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=141.50" target="_blank" rel="noopener">A good way to play this is a LOWER trade predicting that the GBP/JPY will close below 141.50 in 21 days for a potential return of 135%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=21&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=141.50" target="_blank"  rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the GBP/JPY will close below 141.50 in 21 days for a potential return of 135%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-18_06-59-38.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">

@@ -31,6 +31,6 @@ Trump’s barking might bite eventually when it comes to influencing Fed policy 
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-21_06-39-12.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2950" target="_blank">A good way to play this is a LOWER trade predicting that the USD/CAD will close below 1.2950 in 14 days for a potential return of 150%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2950" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the USD/CAD will close below 1.2950 in 14 days for a potential return of 150%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-21_06-42-12.jpg" alt="{{ page.title }}" title="{{ page.title }}">

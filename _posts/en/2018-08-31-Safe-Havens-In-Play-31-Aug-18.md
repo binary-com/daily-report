@@ -33,6 +33,6 @@ This means further downside for the EUR/CHF.
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-31_07-36-44.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1300" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/CHF will close below 1.1300 in 14 days for a potential return of 107%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1300" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/CHF will close below 1.1300 in 14 days for a potential return of 107%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-31_07-37-55.jpg" alt="{{ page.title }}" title="{{ page.title }}">

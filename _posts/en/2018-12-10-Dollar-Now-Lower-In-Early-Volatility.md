@@ -35,6 +35,6 @@ The market has historically shown a capacity of overreaction, making a ONE TOUCH
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-10_06-36-13.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=touchnotouch&duration_amount=7&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2400" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the GBP/USD will touch 1.2400 within 7 days could return 190% if successful.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=touchnotouch&duration_amount=7&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2400" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the GBP/USD will touch 1.2400 within 7 days could return 190% if successful.</a>
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-10_06-43-07.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">

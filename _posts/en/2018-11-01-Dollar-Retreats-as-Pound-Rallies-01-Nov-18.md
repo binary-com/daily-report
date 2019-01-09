@@ -35,6 +35,6 @@ The Aussie is the power currency right now, while the euro struggles, making the
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-01_06-56-17.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.5800" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/AUD will close below 1.5800 in 14 days for a potential return of 177%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.5800" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/AUD will close below 1.5800 in 14 days for a potential return of 177%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-01_06-57-54.jpg" alt="{{ page.title }}" title="{{ page.title }}">

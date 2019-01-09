@@ -41,6 +41,6 @@ The Swiss franc is weakening as stock markets stabilise and risk appetite dimini
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-17_06-44-54.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.9950" target="_blank">A good way to play this is a HIGHER trade predicting that the USD/CHF will close above 0.9950 in 14 days for a potential return of 176%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.9950" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the USD/CHF will close above 0.9950 in 14 days for a potential return of 176%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-17_06-47-13.jpg" alt="{{ page.title }}" title="{{ page.title }}">

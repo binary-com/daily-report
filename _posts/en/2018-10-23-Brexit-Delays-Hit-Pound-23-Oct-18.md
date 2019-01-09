@@ -33,6 +33,6 @@ The euro continues to weaken while the dollar goes from strength to strength. Re
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-23_06-50-15.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1300" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the EUR/USD will touch 1.1300 within 14 days for potential return of 176%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1300" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the EUR/USD will touch 1.1300 within 14 days for potential return of 176%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-23_06-45-56.jpg" alt="{{ page.title }}" title="{{ page.title }}">

@@ -39,6 +39,6 @@ The euro remains on shaky ground regardless of any Brexit contagion, while the A
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-30_07-27-38.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.5500" target="_blank">There’s further downside potential for the EUR/AUD and a good way to play this is a LOWER trade predicting that the pair will close below 1.5500 in 14 days for a potential return of 133%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.5500" target="_blank" rel="noopener noreferrer nofollow">There’s further downside potential for the EUR/AUD and a good way to play this is a LOWER trade predicting that the pair will close below 1.5500 in 14 days for a potential return of 133%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-30_07-30-17.jpg" alt="{{ page.title }}" title="{{ page.title }}">

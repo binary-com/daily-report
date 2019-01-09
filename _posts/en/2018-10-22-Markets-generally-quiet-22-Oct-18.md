@@ -29,6 +29,6 @@ The USD/JPY uptrend has been meandering, but the general direction still remains
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-22_06-37-04.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=36&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=113.00" target="_blank">A good way to play this is a HIGHER trade predicting that the USD/JPY will close above 113.00 in 36 days for a potential return of 124%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=36&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=113.00" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the USD/JPY will close above 113.00 in 36 days for a potential return of 124%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-22_06-41-40.jpg" alt="{{ page.title }}" title="{{ page.title }}">

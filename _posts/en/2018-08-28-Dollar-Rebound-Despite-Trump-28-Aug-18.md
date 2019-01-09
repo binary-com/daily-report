@@ -29,6 +29,6 @@ The pound continues to weaken, while the dollar index remains resilient against 
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-28_07-09-25.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=higherlower&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=1.2800" target="_blank">A good way to play this is a LOWER trade predicting that the GBP/USD will close below 1.2800 in 14 days for a potential return of 185%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=higherlower&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=1.2800" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the GBP/USD will close below 1.2800 in 14 days for a potential return of 185%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-28_07-11-20.jpg" alt="{{ page.title }}" title="{{ page.title }}">

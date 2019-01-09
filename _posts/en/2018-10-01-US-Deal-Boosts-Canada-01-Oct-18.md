@@ -35,6 +35,6 @@ The dollar continues to beat all comers, especially the yen, with the USD/JPY ch
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-01_06-36-09.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=touchnotouch&duration_amount=10&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=115.00" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the USD/JPY will touch 115.00 within 10 days for a potential return of 144%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=touchnotouch&duration_amount=10&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=115.00" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the USD/JPY will touch 115.00 within 10 days for a potential return of 144%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-01_06-35-56.jpg" alt="{{ page.title }}" title="{{ page.title }}">

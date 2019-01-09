@@ -35,6 +35,6 @@ The dollar may be stalling this morning, but the EUR/USD remains in a very weak 
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-30_06-45-18.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1300" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/USD will close below 1.1300 in 14 days for a potential return of 210%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1300" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/USD will close below 1.1300 in 14 days for a potential return of 210%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-30_06-46-59.jpg" alt="{{ page.title }}" title="{{ page.title }}">

@@ -31,6 +31,6 @@ Gold is back on the losing path this morning, well below $1200 as the dollar reg
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-23_06-44-10.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=1180" target="_blank">Further downside is on the cards and a good way to play this is a LOWER trade predicting that gold will close below $1180 in 14 days for a potential return of 189%.</a>
+<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=1180" target="_blank" rel="noopener noreferrer nofollow">Further downside is on the cards and a good way to play this is a LOWER trade predicting that gold will close below $1180 in 14 days for a potential return of 189%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-23_06-46-44.jpg" alt="{{ page.title }}" title="{{ page.title }}">

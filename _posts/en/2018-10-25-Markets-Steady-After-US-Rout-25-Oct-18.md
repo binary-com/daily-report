@@ -41,6 +41,6 @@ With stock markets nervous, the yen could see further gains making a LOWER trade
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-25_06-37-48.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=127.00" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/JPY will close below 127.00 in 14 days could return 175%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=127.00" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/JPY will close below 127.00 in 14 days could return 175%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-25_06-40-04.jpg" alt="{{ page.title }}" title="{{ page.title }}">

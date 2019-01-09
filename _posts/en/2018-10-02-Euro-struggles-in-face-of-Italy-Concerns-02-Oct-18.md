@@ -35,6 +35,6 @@ The Swiss franc continues to weaken as safe haven demand wanes in the face of do
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-02_05-40-03.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=30&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.0000" target="_blank">There’s room for further growth though and a good way to play this is a ONE TOUCH trade predicting that the USD/ CHF will touch 1.0000 within 30 days for a potential return of 142%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=30&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.0000" target="_blank" rel="noopener noreferrer nofollow">There’s room for further growth though and a good way to play this is a ONE TOUCH trade predicting that the USD/ CHF will touch 1.0000 within 30 days for a potential return of 142%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-02_05-41-03.jpg" alt="{{ page.title }}" title="{{ page.title }}">

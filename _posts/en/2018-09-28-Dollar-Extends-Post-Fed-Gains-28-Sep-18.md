@@ -45,6 +45,6 @@ The USD/JPY jumped higher yesterday, with follow-on buying this morning. The dol
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-28_05-44-40.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=115" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the USD/JPY will touch 115.00 within 14 days for a potential return of 211%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=115" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the USD/JPY will touch 115.00 within 14 days for a potential return of 211%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-28_05-47-27.jpg" alt="{{ page.title }}" title="{{ page.title }}">

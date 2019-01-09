@@ -31,6 +31,6 @@ The Swiss Franc is in hot demand but there’s still room for further losses fro
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-07_07-28-43.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.9500" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the USD/CHF will touch 0.9500 within 14 days could return 200%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.9500" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the USD/CHF will touch 0.9500 within 14 days could return 200%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-07_07-32-27.jpg" alt="{{ page.title }}" title="{{ page.title }}">

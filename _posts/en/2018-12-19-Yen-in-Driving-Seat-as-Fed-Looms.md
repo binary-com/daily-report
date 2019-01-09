@@ -39,6 +39,6 @@ The USD/CHF is in a rangebound impasse right now, but we are likely to see some 
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-19_07-06-31.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=endsinout&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier_high=1.0050&barrier_low=0.9850" target="_blank" rel="noopener">A good way to play this is an In/Out trade predicting that the USD/CHF will end outside of a high of 1.0050 or a low of 0.9850 in 14 days for a potential return of 116%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=endsinout&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier_high=1.0050&barrier_low=0.9850" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is an In/Out trade predicting that the USD/CHF will end outside of a high of 1.0050 or a low of 0.9850 in 14 days for a potential return of 116%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-19_07-03-24.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">

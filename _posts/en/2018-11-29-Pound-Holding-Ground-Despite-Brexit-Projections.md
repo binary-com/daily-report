@@ -33,6 +33,6 @@ Despite holding up relatively well this morning, the pound remains under intense
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-29_07-00-13.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPAUD&formname=touchnotouch&duration_amount=8&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.7200" target="_blank">A good way to play this is a ONE TOUCH trade on the GBP/AUD predicting that the pair will touch 1.7200 within the next 8 days for a potential return of 121%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPAUD&formname=touchnotouch&duration_amount=8&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.7200" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade on the GBP/AUD predicting that the pair will touch 1.7200 within the next 8 days for a potential return of 121%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-29_07-03-56.jpg" alt="{{ page.title }}" title="{{ page.title }}">

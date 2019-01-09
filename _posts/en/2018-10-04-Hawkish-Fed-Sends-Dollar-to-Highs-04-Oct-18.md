@@ -31,6 +31,6 @@ The AUD/USD continues to struggle this week, but it’s all in line with the lon
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-04_06-37-57.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.7050" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7050 in 14 days for a potential return of 148%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.7050" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7050 in 14 days for a potential return of 148%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-04_06-40-17.jpg" alt="{{ page.title }}" title="{{ page.title }}">

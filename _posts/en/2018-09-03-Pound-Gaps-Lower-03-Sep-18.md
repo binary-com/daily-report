@@ -33,6 +33,6 @@ The EUR/GBP is higher again this morning, but it is highly feasible that we’ll
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-03_07-38-01.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.9100" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the EUR/GBP will touch 0.9100 within 14 days for a potential return of 121%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.9100" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the EUR/GBP will touch 0.9100 within 14 days for a potential return of 121%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-03_07-42-32.jpg" alt="{{ page.title }}" title="{{ page.title }}">

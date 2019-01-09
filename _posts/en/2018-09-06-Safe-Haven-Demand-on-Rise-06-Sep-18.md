@@ -39,6 +39,6 @@ The Australian dollar continues to struggle in the face of emerging markets stre
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-06_06-49-28.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=79.50" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/JPY will close below 79.50 in 14 days for a potential return of 145%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=79.50" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the AUD/JPY will close below 79.50 in 14 days for a potential return of 145%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-06_06-53-27.jpg" alt="{{ page.title }}" title="{{ page.title }}">

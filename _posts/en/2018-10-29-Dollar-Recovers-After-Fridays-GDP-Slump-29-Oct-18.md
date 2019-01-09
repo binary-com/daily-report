@@ -33,6 +33,6 @@ The AUD/USD has dropped by nearly 13% since the start of the year and with the d
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-29_07-12-24.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=30&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.7050" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/USD is below 0.7050 in 30 days for a potential return of 149%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=30&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.7050" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the AUD/USD is below 0.7050 in 30 days for a potential return of 149%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-29_07-16-30.jpg" alt="{{ page.title }}" title="{{ page.title }}">

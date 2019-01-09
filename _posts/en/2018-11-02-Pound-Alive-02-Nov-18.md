@@ -37,6 +37,6 @@ The USD/CHF held the parity line yesterday, which could be significant ahead of 
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-02_06-59-27.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.0050" target="_blank">A good way to play this is a HIGHER trade predicting that the USD/CHF closes above 1.00500 in 14 days for a potential return of 146%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.0050" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the USD/CHF closes above 1.00500 in 14 days for a potential return of 146%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-02_07-03-03.jpg" alt="{{ page.title }}" title="{{ page.title }}">

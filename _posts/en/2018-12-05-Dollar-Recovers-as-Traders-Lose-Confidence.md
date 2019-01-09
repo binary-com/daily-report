@@ -35,6 +35,6 @@ The USD/JPY is recovering this morning after heavy selling yesterday. The long t
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-05_07-13-27.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=113.50" target="_blank">A good way to play this is a HIGHER trade predicting that the USD/JPY will close above 113.50 in 14 days for a potential return of 147%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=113.50" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the USD/JPY will close above 113.50 in 14 days for a potential return of 147%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-05_07-17-03.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
