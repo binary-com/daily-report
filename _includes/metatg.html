@@ -33,16 +33,16 @@
     {% assign seoimage = page.image %}
     {% assign seodescription = page.summary %}
 {% endif %}
-<title>{{ seotitle | truncatewords: 30 }}</title>
+<title>Binary.com - {{ seotitle | truncatewords: 30 }}</title>
 <meta name="description" content="{{ seodescription | truncatewords: 30 }}">
-<meta property="og:title" content="{{ seotitle }}" />
+<meta property="og:title" content="Binary.com - {{ seotitle }}" />
 <meta property="og:type" content="website" />
 <meta property="og:description" content="{{ seodescription | truncatewords: 30 }}" />
 <meta property="og:url" content="{{ page.url | replace:'index.html' | prepend: site.url }}" />
 <meta property="og:image" content="{{ seoimage | prepend: site.url }}" />
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@Binarydotcom">
-<meta name="twitter:title" content="{{ seotitle }}">
+<meta name="twitter:title" content="Binary.com - {{ seotitle }}">
 <meta name="twitter:description" content="{{ seodescription }}">
 <meta name="twitter:image" content="{{ seoimage | prepend: site.url }}">
 <meta name="twitter:image:alt" content="{{ seotitle }}">
@@ -54,7 +54,7 @@
     "@type": "WebPage",
     "@id": "{{ page.url | replace:'index.html' | prepend: site.url }}"
     },
-    "headline": "{{ seotitle }}",
+    "headline": "Binary.com - {{ seotitle }}",
     "image": [
         "{{ page.image | prepend: site.url  }}"
     ],
