@@ -35,6 +35,6 @@ While the dollar backs off and with risk appetite increasing, now could be a goo
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-20_06-47-52.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1350" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/CHF will close below 1.1350 in 14 days for a potential return of 116%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1350" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/CHF will close below 1.1350 in 14 days for a potential return of 116%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-20_06-50-28.jpg" alt="{{ page.title }}" title="{{ page.title }}">

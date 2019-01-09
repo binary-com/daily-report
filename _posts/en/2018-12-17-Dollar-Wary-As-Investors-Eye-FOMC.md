@@ -31,6 +31,6 @@ While fears increase for the prospect of a hard Brexit, it is worth noting that 
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-17_06-51-06.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=touchnotouch&duration_amount=35&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2000" target="_blank" rel="noopener">There is still time for a return to those lows and a good way to play this is a ONE TOUCH trade predicting that the GBP/USD will touch 1.2000 within the next 35 days for a potential return of 303%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=touchnotouch&duration_amount=35&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2000" target="_blank" rel="noopener noreferrer nofollow">There is still time for a return to those lows and a good way to play this is a ONE TOUCH trade predicting that the GBP/USD will touch 1.2000 within the next 35 days for a potential return of 303%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-17_06-58-54.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">

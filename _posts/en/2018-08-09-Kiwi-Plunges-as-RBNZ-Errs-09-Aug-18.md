@@ -27,6 +27,6 @@ The GBP/USD continues to struggle despite dollar weakness, largely driven by Bre
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-09_07-24-41.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2825" target="_blank">There could be further downside from here and a good way to play this is a LOWER trade predicting that the GBP/USD will close below 1.2825 in 14 days for a potential return of 164%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2825" target="_blank" rel="noopener noreferrer nofollow">There could be further downside from here and a good way to play this is a LOWER trade predicting that the GBP/USD will close below 1.2825 in 14 days for a potential return of 164%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-09_07-28-42.jpg" alt="{{ page.title }}" title="{{ page.title }}">

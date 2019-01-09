@@ -33,6 +33,6 @@ The GBP/JPY is the worst performer this week as Brexit continues to weight on th
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-26_07-03-19.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=143" target="_blank">Further downside is on the cards and a good way to play this is a LOWER trade predicting that the GBP/JPY will close below 143.00 in 14 days could return 151% if successful.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=143" target="_blank" rel="noopener noreferrer nofollow">Further downside is on the cards and a good way to play this is a LOWER trade predicting that the GBP/JPY will close below 143.00 in 14 days could return 151% if successful.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-26_07-05-57.jpg" alt="{{ page.title }}" title="{{ page.title }}">

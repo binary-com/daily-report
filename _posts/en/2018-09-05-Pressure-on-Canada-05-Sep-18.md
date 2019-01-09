@@ -35,6 +35,6 @@ The AUD/USD continues to struggle, with more downsides on the cards after the br
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-05_06-49-28.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=0.7125" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7125 in 14 days for a potential return of 198%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=0.7125" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7125 in 14 days for a potential return of 198%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-05_06-51-18.jpg" alt="{{ page.title }}" title="{{ page.title }}">

@@ -41,6 +41,6 @@ There is every chance that Theresa May will have a rough ride with her Cabinet t
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-14_06-56-22.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=touchnotouch&duration_amount=7&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2775" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the GBP/USD will touch 1.2775 within 7 days for a potential return of 118%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=touchnotouch&duration_amount=7&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2775" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the GBP/USD will touch 1.2775 within 7 days for a potential return of 118%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-14_06-54-53.jpg" alt="{{ page.title }}" title="{{ page.title }}">

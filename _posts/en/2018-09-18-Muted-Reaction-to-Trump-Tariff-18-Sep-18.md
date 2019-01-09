@@ -31,6 +31,6 @@ The USD/CHF continues to struggle as dollar demand wanes, with the Swiss franc h
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-18_06-32-15.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.9600" target="_blank">A good way to play this is a LOWER trade predicting that the USD/CHF will close below 0.9600 in 14 days for a potential return of 104%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.9600" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the USD/CHF will close below 0.9600 in 14 days for a potential return of 104%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-18_06-34-40.jpg" alt="{{ page.title }}" title="{{ page.title }}">

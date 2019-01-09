@@ -35,6 +35,6 @@ This could speak to an underlying weakness in gold interest at present and a rec
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-04_07-28-38.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_amount=21&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1185" target="_blank">A good way to play this is a LOWER trade predicting that gold will close below $1185 in 21 days for a potential return of 178%.</a>
+<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_amount=21&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1185" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that gold will close below $1185 in 21 days for a potential return of 178%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-04_07-33-23.jpg" alt="{{ page.title }}" title="{{ page.title }}">

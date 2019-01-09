@@ -43,6 +43,6 @@ The pound has sunk lower to hit support levels, but there could be lower levels 
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-31_06-53-36.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2700" target="_blank">A good way to play this is a LOWER trade predicting that the GBP/USD will close below 1.2700 in 14 days for a potential return of 120%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2700" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the GBP/USD will close below 1.2700 in 14 days for a potential return of 120%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-31_06-58-39.jpg" alt="{{ page.title }}" title="{{ page.title }}">

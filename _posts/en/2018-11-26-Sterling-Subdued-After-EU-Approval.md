@@ -39,6 +39,6 @@ By contrast, confidence in the Aussie is returning, helping the EUR/AUD to fall 
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-26_06-39-34.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.5600" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/AUD will close below 1.5600 in 14 days for a potential return of 122%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.5600" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/AUD will close below 1.5600 in 14 days for a potential return of 122%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-26_06-45-57.jpg" alt="{{ page.title }}" title="{{ page.title }}">

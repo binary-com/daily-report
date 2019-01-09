@@ -35,6 +35,6 @@ The pressure remains on the euro as the Swiss franc remains stable. Safe havens 
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-28_06-46-05.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1250" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/CHF will close below 1.1250 in 14 days for a potential return of 138%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1250" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/CHF will close below 1.1250 in 14 days for a potential return of 138%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-28_06-50-00.jpg" alt="{{ page.title }}" title="{{ page.title }}">

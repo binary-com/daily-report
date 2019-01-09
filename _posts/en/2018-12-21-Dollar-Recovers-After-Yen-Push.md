@@ -37,6 +37,6 @@ The AUD/JPY is under severe pressure as the Aussie feels the strain of Chinese e
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-21_07-07-05.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=78.00" target="_blank" rel="noopener">A good way to play this is a LOWER trade predicting that the AUD/JPY will close below 78.00 within 14 days for a potential return of 265%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=78.00" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the AUD/JPY will close below 78.00 within 14 days for a potential return of 265%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-21_07-12-03.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">

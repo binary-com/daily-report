@@ -33,6 +33,6 @@ The pound continues to strength in-line with Brexit negotiations, while the Japa
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-12_06-36-44.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=150.00" target="_blank">There could be further upside for the GBP/JPY and a good way to play this is a HIGHER trade predicting that the pair closes above 150.00 in 14 days for a potential return of 144%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=150.00" target="_blank" rel="noopener noreferrer nofollow">There could be further upside for the GBP/JPY and a good way to play this is a HIGHER trade predicting that the pair closes above 150.00 in 14 days for a potential return of 144%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-12_06-38-52.jpg" alt="{{ page.title }}" title="{{ page.title }}">

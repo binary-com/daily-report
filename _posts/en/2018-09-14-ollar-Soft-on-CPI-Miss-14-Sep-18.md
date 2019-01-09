@@ -31,6 +31,6 @@ The USD/CHF balance remains firmly in favour of the Swiss franc, with further do
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/en-14-sep-18.png" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.96" target="_blank">A good way to play this is a LOWER trade predicting that the USD/CHF will close below 0.9600 in 14 days for a potential return of 160%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.96" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the USD/CHF will close below 0.9600 in 14 days for a potential return of 160%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/en-14-sep-18-2.png" alt="{{ page.title }}" title="{{ page.title }}">

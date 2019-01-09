@@ -31,6 +31,6 @@ The EUR/GBP has sold off heavily in the past few weeks, but there could be room 
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-09_06-27-39.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.8650" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the EUR/GBP will TOUCH 0.8650 with 14 days for a potential return of 148%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.8650" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the EUR/GBP will TOUCH 0.8650 with 14 days for a potential return of 148%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-09_06-27-13.jpg" alt="{{ page.title }}" title="{{ page.title }}">

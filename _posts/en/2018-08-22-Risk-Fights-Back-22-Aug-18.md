@@ -35,6 +35,6 @@ The Swiss franc is gaining ground like other pairs against the dollar, but with 
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-22_06-21-26.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.9750" target="_blank">It’s worth a bet that the USD/CHF will dip further lower, touching 0.9750 within 14 days for a potential return of 102%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.9750" target="_blank" rel="noopener noreferrer nofollow">It’s worth a bet that the USD/CHF will dip further lower, touching 0.9750 within 14 days for a potential return of 102%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-22_06-22-20.jpg" alt="{{ page.title }}" title="{{ page.title }}">

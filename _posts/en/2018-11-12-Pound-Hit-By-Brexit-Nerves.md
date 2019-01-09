@@ -29,6 +29,6 @@ The GBP/JPY is starting on its latest down swing and there could be further down
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-12_06-40-35.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=146" target="_blank">A good way to play this is a LOWER trade predicting that the GBP/JPY will close below 146.00 in 14 days for a potential return of 154%</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=146" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the GBP/JPY will close below 146.00 in 14 days for a potential return of 154%</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-12_06-42-19.jpg" alt="{{ page.title }}" title="{{ page.title }}">

@@ -33,6 +33,6 @@ Slow wage growth in the UK is a persistent problem for the Bank of England and i
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-15_06-37-50.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2600" target="_blank">A good way to play this is a LOWER trade predicting that the GBP/USD will close below 1.2600 in 14 days for a potential return of 236%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2600" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the GBP/USD will close below 1.2600 in 14 days for a potential return of 236%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-15_06-40-22.jpg" alt="{{ page.title }}" title="{{ page.title }}">

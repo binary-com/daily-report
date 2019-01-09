@@ -31,6 +31,6 @@ The GBP/USD has performed relatively well recently as Brexit hopes increase. How
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-08_07-16-51.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=endsinout&duration_amount=30&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier_high=1.3250&barrier_low=1.2950" target="_blank">A good way to play this is an In/OUT trade predicting that the GBP/USD will close between a high of 1.3250 and a low of 1.2950 in 30 days time for a potential return of 150%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPUSD&formname=endsinout&duration_amount=30&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier_high=1.3250&barrier_low=1.2950" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is an In/OUT trade predicting that the GBP/USD will close between a high of 1.3250 and a low of 1.2950 in 30 days time for a potential return of 150%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-08_07-13-26.jpg" alt="{{ page.title }}" title="{{ page.title }}">

@@ -35,6 +35,6 @@ The GBP/AUD is poised for lower levels if support was broken.
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-08_06-43-05.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.7400" target="_blank">A good way to play this is a LOWER trade predicting that the GBP/AUD will close below 1.7400 in 14 days for a potential return of 116%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.7400" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the GBP/AUD will close below 1.7400 in 14 days for a potential return of 116%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-08_06-44-30.jpg" alt="{{ page.title }}" title="{{ page.title }}">

@@ -35,6 +35,6 @@ The AUD/JPY is picking up some pace in line with other yen pairs, with the Aussi
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-27_06-42-08.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=82.75" target="_blank">With the Aussie out-performing other pairs, a good way to play this is a HIGHER trade predicting that the AUD/JPY will close above 82.75 in 14 days for a potential return of 140%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=82.75" target="_blank" rel="noopener noreferrer nofollow">With the Aussie out-performing other pairs, a good way to play this is a HIGHER trade predicting that the AUD/JPY will close above 82.75 in 14 days for a potential return of 140%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-27_07-00-23.jpg" alt="{{ page.title }}" title="{{ page.title }}">

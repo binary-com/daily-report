@@ -35,6 +35,6 @@ The euro is weaker this morning, while the yen recovers. The euro area continues
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-18_06-38-34.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=129.00" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/JPY will close below 129.00 in 14 days for a potential return of 127%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=129.00" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/JPY will close below 129.00 in 14 days for a potential return of 127%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-18_06-41-56.jpg" alt="{{ page.title }}" title="{{ page.title }}">

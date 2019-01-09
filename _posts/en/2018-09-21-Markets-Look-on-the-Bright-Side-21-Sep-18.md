@@ -39,6 +39,6 @@ As such, after a period of decline, there could be some upside for the EUR/ GBP.
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-21_06-53-22.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.8950" target="_blank">A good way to play this is a HIGHER trade predicting that the EUR/GBP will close above 0.8950 in 14 days for a potential return of 188%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.8950" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the EUR/GBP will close above 0.8950 in 14 days for a potential return of 188%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-21_06-57-08.jpg" alt="{{ page.title }}" title="{{ page.title }}">

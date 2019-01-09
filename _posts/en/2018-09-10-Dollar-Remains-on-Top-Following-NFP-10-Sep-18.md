@@ -31,6 +31,6 @@ The euro has turned as the US dollar remains the dominant show in town. There’
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-10_08-04-37.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1400" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the EUR/USD will touch 1.1400 within the next 14 days for a potential 124%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1400" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the EUR/USD will touch 1.1400 within the next 14 days for a potential 124%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-10_08-04-26.jpg" alt="{{ page.title }}" title="{{ page.title }}">

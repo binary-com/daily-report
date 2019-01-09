@@ -37,6 +37,6 @@ The Australian dollar slumped against the yen yesterday as traders sought out a 
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-11_06-43-59.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=79.00" target="_blank">A good way to play this is a LOWER trade predicting that the AUD/JPY will close below 79.00 in 14 days for a potential return 129%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=79.00" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the AUD/JPY will close below 79.00 in 14 days for a potential return 129%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-11_06-44-48.jpg" alt="{{ page.title }}" title="{{ page.title }}">

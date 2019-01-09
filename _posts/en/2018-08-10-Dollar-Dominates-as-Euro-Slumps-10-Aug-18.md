@@ -33,6 +33,6 @@ The EUR/USD is under pressure this morning, but we could well see some waterfall
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-10_07-19-28.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1300" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the EUR/USD touches 1.1300 within the next 14 days for a potential return of 148%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1300" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the EUR/USD touches 1.1300 within the next 14 days for a potential return of 148%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-10_07-21-40.jpg" alt="{{ page.title }}" title="{{ page.title }}">

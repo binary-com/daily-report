@@ -35,6 +35,6 @@ The pound continues to trade with a Brexit millstone around its next and this co
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-20_07-00-49.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=139" target="_blank" rel="noopener">A good way to play this is a ONE TOUCH trade predicting that the GBP/JPY will touch 139.00 within the next 14 days for a potential return of 135%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=139" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the GBP/JPY will touch 139.00 within the next 14 days for a potential return of 135%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-20_07-02-30.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">

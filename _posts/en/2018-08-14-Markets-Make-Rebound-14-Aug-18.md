@@ -33,6 +33,6 @@ Gold plunged yesterday, well below $1194, but there could be more downside to co
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-14_08-00-22.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_amount=21&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1180" target="_blank">A good way to play this is a LOWER trade predicting that gold will close below $1180 in 21 days for a potential return of 202%.</a>
+<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_amount=21&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1180" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that gold will close below $1180 in 21 days for a potential return of 202%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-14_08-03-59.jpg" alt="{{ page.title }}" title="{{ page.title }}">

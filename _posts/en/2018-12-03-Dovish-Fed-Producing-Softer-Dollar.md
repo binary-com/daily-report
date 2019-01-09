@@ -41,6 +41,6 @@ The AUD/JPY has made a spectacular gap higher at the open, but more often than n
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-03_07-44-26.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=touchnotouch&duration_amount=7&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=82.50" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the AUD/JPY will touch 82.50 within 7 days for a potential return of 154%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=touchnotouch&duration_amount=7&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=82.50" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the AUD/JPY will touch 82.50 within 7 days for a potential return of 154%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-03_07-42-23.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">

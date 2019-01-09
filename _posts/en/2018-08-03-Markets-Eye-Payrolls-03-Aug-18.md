@@ -37,6 +37,6 @@ Gold continues to struggle in the face of the strong US dollar, making bearish b
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-03_07-48-12.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=touchnotouch&duration_amount=28&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1180" target="_blank">A ONE TOUCH trade predicting that gold will touch $1180 within the next 28 days could return 124% if successful.</a>
+<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=touchnotouch&duration_amount=28&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1180" target="_blank" rel="noopener noreferrer nofollow">A ONE TOUCH trade predicting that gold will touch $1180 within the next 28 days could return 124% if successful.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-03_07-50-22.jpg" alt="{{ page.title }}" title="{{ page.title }}">

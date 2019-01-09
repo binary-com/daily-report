@@ -33,6 +33,6 @@ Movements won’t be huge considering the dollar and yen’s safe haven status, 
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-20_06-38-58.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=30&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=110" target="_blank">A good way to play this is a LOWER trade predicting that the USD/JPY will close below 110.00 in 30 days for a potential return of 141%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=30&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=110" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the USD/JPY will close below 110.00 in 30 days for a potential return of 141%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-20_06-41-21.jpg" alt="{{ page.title }}" title="{{ page.title }}">

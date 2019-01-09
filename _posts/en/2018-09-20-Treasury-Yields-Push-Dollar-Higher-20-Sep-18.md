@@ -39,6 +39,6 @@ There remain considerable risks and pressures on the Australian dollar, but the 
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-20_06-38-15.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.7200" target="_blank">A good way to play this is LOWER trade predicting that the AUD/USD will close below 0.7200 in 14 days for a potential return of 199%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.7200" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is LOWER trade predicting that the AUD/USD will close below 0.7200 in 14 days for a potential return of 199%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/sep-18/2018-09-20_06-41-06.jpg" alt="{{ page.title }}" title="{{ page.title }}">

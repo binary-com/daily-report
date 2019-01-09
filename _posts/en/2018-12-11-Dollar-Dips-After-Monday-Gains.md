@@ -37,6 +37,6 @@ Demand for the Swiss franc is only set to increase in the current uncertain time
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-11_06-01-15.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=31&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1200" target="_blank">A good way to play this is a LOWER trade predicting that the EUR/CHF will close below 1.1200 in 31 days for a potential return of 137%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=31&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1200" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/CHF will close below 1.1200 in 31 days for a potential return of 137%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-11_06-02-55.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">

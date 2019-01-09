@@ -37,6 +37,6 @@ Momentum remains with the USD/CHF as it flips back towards the highs. With the n
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-09_06-40-16.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=1.0100" target="_blank">A good way to play this is a HIGHER trade predicting that the USD/CHF will close above 1.0100 in 14 days could return 142%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=1.0100" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the USD/CHF will close above 1.0100 in 14 days could return 142%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-09_06-43-42.jpg" alt="{{ page.title }}" title="{{ page.title }}">

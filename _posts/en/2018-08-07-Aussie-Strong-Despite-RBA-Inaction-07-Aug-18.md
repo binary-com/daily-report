@@ -31,6 +31,6 @@ The USD/CAD is slipping lower as the US dollar struggles and the Canadian dollar
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-07_07-30-30.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2900" target="_blank">There could be further downside as the dollar eases of the pace and a good way to play this is a LOWER trade predicting that the USD/CAD will close below 1.2900 in 14 days for a potential return of 171%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.2900" target="_blank" rel="noopener noreferrer nofollow">There could be further downside as the dollar eases of the pace and a good way to play this is a LOWER trade predicting that the USD/CAD will close below 1.2900 in 14 days for a potential return of 171%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/aug-18/2018-08-07_07-37-58.jpg" alt="{{ page.title }}" title="{{ page.title }}">

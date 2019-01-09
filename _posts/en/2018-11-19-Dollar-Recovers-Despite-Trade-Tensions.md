@@ -31,6 +31,6 @@ The GBP/JPY was hit hard last week as Brexit fears mount, but there is more down
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-19_06-59-37.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=144.50" target="_blank">A good way to play this is a LOWER trade predicting that the GBP/JPY will close below 144.50 in 14 days for a potential return of 114%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=144.50" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the GBP/JPY will close below 144.50 in 14 days for a potential return of 114%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/nov-18/2018-11-19_07-03-35.jpg" alt="{{ page.title }}" title="{{ page.title }}">

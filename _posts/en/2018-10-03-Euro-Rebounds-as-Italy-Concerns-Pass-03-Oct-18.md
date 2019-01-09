@@ -39,6 +39,6 @@ The euro remains resilient in the face of Italy concerns which hints at underlyi
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-03_06-37-18.jpg" alt="{{ page.title }}" title="{{ page.title }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=touchnotouch&duration_amount=5&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1700" target="_blank">A good way to play this is a ONE TOUCH trade predicting that the EUR/USD will touch 1.1700 within 5 days for a potential return of 168%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=touchnotouch&duration_amount=5&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1700" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the EUR/USD will touch 1.1700 within 5 days for a potential return of 168%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/oct-18/2018-10-03_06-33-53.jpg" alt="{{ page.title }}" title="{{ page.title }}">

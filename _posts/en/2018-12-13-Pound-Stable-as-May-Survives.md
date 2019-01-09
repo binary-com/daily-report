@@ -33,6 +33,6 @@ The pound is stronger this morning, but risks still remain, especially against t
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-13_07-29-29.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.7400" target="_blank" rel="noopener">The GBP/AUD has further downside risks and a good way to play this is a LOWER trade predicting that the pair will close below 1.7400 in 14 days for a potential return of 116%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPAUD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.7400" target="_blank" rel="noopener noreferrer nofollow">The GBP/AUD has further downside risks and a good way to play this is a LOWER trade predicting that the pair will close below 1.7400 in 14 days for a potential return of 116%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/dec-18/2018-12-13_07-31-43.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
