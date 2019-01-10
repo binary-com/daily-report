@@ -25,11 +25,11 @@ Gold is challenging the highs, with a test of $1295 this morning.
 
 Today, we have the ECB Monetary Policy Meeting Accounts released at 12:30. 
 
+Fed Chair Powell speaks at 17:00
+
 FOMC member Bullard speaks at 17:40
 
-Fed Chair Powell speaks at 17:40
-
-FOMC member Evans speaks at 17:40. 
+FOMC member Evans speaks at 18:00. 
 
 ## Trade Idea
 
