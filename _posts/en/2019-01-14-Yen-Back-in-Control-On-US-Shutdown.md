@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jan 41th 2019: Yen Back in Control On US Shutdown"
+title: "Jan 14th 2019: Yen Back in Control On US Shutdown"
 language: en
 permalink: /en/Yen-Back-in-Control-On-US-Shutdown-14-Jan-19/
 image: /images/jan-19/2019-01-14_06-42-11.jpg
