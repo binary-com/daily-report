@@ -15,7 +15,7 @@ layout: compress
 				</div>
 				<div class="col-lg-3 left-border">
 					{% include sidebar/ready-to-start.html %}
-					{% include sidebar/subscribe.html %}
+					{% if siteLang == 'en' %}{% include sidebar/subscribe.html %}{% endif %}
 					{% include sidebar/latest-list.html %}		
 					</div>
 			</div>
