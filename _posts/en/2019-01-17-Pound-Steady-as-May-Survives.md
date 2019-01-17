@@ -29,6 +29,6 @@ The euro continues to struggle against the pound and there could be further down
 
 <img class="post-image" src="{{ site.url }}/images/jan-19/2019-01-17_06-48-29.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.8800" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/ GBP closes below 0.8850 in 14 days for a potential return of 128%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURGBP&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.8800" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/ GBP closes below 0.8800 in 14 days for a potential return of 128%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/jan-19/2019-01-17_06-50-42.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
