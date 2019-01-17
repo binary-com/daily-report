@@ -25,7 +25,7 @@ FOMC member Quarles speaks at 15.45.
 
 ## Trade Idea
 
-The EUR/GBP continues to struggle against the pound and there could be further downside in coming weeks.
+The euro continues to struggle against the pound and there could be further downside in coming weeks.
 
 <img class="post-image" src="{{ site.url }}/images/jan-19/2019-01-17_06-48-29.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
