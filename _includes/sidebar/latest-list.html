@@ -9,7 +9,7 @@
 					{% if post.title %}
 					<div class="sidebar-excerpt {% if post.url == current %} LC-active{% endif %}">
 						<h3><a href="{{ post.url | prepend: SourceUrl }}">{{ post.subtitle }}</a></h3>
-						<div class="excerpt-date font-s ft-400 darkGray">{% if siteLang == 'en' %}{{ post.date }}{% else %}{{ post.xdate }}{% endif %}</div>
+						<div class="excerpt-date font-s ft-400 darkGray">{% if siteLang == 'en' %}{{ post.date | date_to_long_string }}{% else %}{{ post.xdate }}{% endif %}</div>
 					</div>	
 					{% endif %}				
 				{% endif %}
