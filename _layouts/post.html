@@ -10,7 +10,7 @@ layout: compress
 		<div class="container top-20">
 			<div class="row">
 				<div class="col-lg-9">	
-						<h1 >{{ page.subtitle }}<span class="font-s ft-400 darkGray">{{ page.date }} by Dave Evans</span></h1>
+						<h1 >{{ page.subtitle }}<span class="font-s ft-400 darkGray">{% if siteLang == 'en' %}{{ page.date }} by Dave Evans{% else %}{{ page.xdate }} - Dave Evans{% endif %}</span></h1>
 					{{ content }}				
 				</div>
 				<div class="col-lg-3 left-border">
