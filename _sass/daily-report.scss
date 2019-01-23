@@ -178,22 +178,6 @@ img {
     margin: 15px 0
 }
 
-@media only screen and (max-width:768px) {
-    .Share {
-        text-align: center;
-        margin: 0;
-        margin-bottom: 15px
-    }
-}
-
-@media only screen and (max-width:992px) {
-    .Social {
-        margin-top: 5px;
-        margin-bottom: 15px;
-        text-align: center
-    }
-}
-
 .button {
     display: inline-table;
 }
@@ -291,5 +275,27 @@ h3 a {
             text-decoration: underline;
             color: #cccccc;
         }
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .Share {
+        text-align: center;
+        margin: 0;
+        margin-bottom: 15px
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .Social {
+        margin-top: 5px;
+        margin-bottom: 15px;
+        text-align: center
+    }
+    .mb-left {
+        text-align: left;
+    }
+    .left-border {
+        border: none;
     }
 }
