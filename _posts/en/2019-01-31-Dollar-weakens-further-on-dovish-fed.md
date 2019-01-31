@@ -17,7 +17,7 @@ The USD/CAD continues to plunge following yesterday’s heavy selling. The Canad
 
 The USD/CHF is slipping back again after a failed attempt at 1.0000 as the dollar gives ground to the Swissy. 
 
-The USD/JPY is also suffering the dollar malaise, slipping below support at 109.00. Most other dollar pairs are mixed as the yen strength is balanced against pound, euro and Aussie resilience. The AUD/JPY and EUR/JPY are unchanged, while the GBP/JPY is dipping slightly. 
+The USD/JPY is also suffering the dollar malaise, slipping below support at 109.00. Most other yen pairs are mixed as the yen strength is balanced against pound, euro and Aussie resilience. The AUD/JPY and EUR/JPY are unchanged, while the GBP/JPY is dipping slightly. 
 
 Gold is unchanged after pushing through the $1320 level. 
 
