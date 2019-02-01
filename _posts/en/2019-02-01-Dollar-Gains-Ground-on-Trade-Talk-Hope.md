@@ -37,4 +37,4 @@ The EUR/JPY has been range bound since the new year opening flash crash, but wit
 
 <a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=124.00" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the EUR/JPY closes below 124.00 in 14 days for a potential return of 165%.</a>
 
-<img class="post-image" src="{{ site.url }}/images/feb-19/2019-01-31_06-33-06.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
+<img class="post-image" src="{{ site.url }}/images/feb-19/2019-02-01_06-32-52.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
