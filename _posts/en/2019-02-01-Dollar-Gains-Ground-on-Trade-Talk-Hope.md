@@ -13,7 +13,7 @@ The dollar index is making gains again this morning as traders raise their hopes
 
 Most dollar pairs are on the back foot, with the AUD/USD reversing all of yesterday’s gains and dropping below the 0.7250 level. 
 
-The EUR/USD is on the back foot, following up on yesterday’s outsized losses that saw the pair drop below 1.1450. The EUR/GBP is slipping lower again following yesterday’s reversal. The GBP/USD is holding up relatively well, holding the 1.3100 level. 
+The EUR/USD is on the back foot, following up on yesterday’s outsized losses that saw the pair drop below 1.1450. The GBP/USD is holding up relatively well, holding the 1.3100 level. The EUR/GBP is slipping lower again following yesterday’s reversal. 
 
 The USD/CAD is reversing higher, making good all of yesterday’s losses. Meanwhile, the USD/CHF is holding the 0.9950 level. 
 
