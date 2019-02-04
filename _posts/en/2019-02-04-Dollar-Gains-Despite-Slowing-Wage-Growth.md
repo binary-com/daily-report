@@ -27,7 +27,7 @@ There are no middle or top tier economic items today. With US factory orders a s
 
 ## Trade Idea
 
-The USD/JPY is set to challenge the 2019 opening hap once again and the Non Farm Payroll release could see the pair push through to higher levels.
+The USD/JPY is set to challenge the 2019 opening gap once again and the Non Farm Payroll release could see the pair push through to higher levels.
 
 <img class="post-image" src="{{ site.url }}/images/feb-19/2019-02-04_07-13-16.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
