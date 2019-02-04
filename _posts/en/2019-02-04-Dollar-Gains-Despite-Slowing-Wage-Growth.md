@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Feb 2nd 2019: Dollar Gains Despite Slowing Wage Growth"
+title: "Feb 4th 2019: Dollar Gains Despite Slowing Wage Growth"
 language: en
-permalink: /en/Dollar-Gains-Despite-Slowing-Wage-Growth-02-Feb-19/
+permalink: /en/Dollar-Gains-Despite-Slowing-Wage-Growth-04-Feb-19/
 image: /images/feb-19/2019-02-04_07-13-16.jpg
 subtitle: Dollar Gains Despite Slowing Wage Growth
 summary: "The dollar index is being pushed higher by follow-on buying on the back of Friday’s Non Farm Payrolls, which saw overall wage growth increase more than expected. ISM Manufacturing PMI also increased more than expected, adding to the positive aspect of Friday"
