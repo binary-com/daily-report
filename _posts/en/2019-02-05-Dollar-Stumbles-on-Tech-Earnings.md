@@ -9,15 +9,15 @@ summary: "The dollar index is on the back foot this morning as US markets show c
 ---
 ## Morning Report: 07.00 London
 
-The dollar index is on the back foot this morning as US markets show concern over tech giant Alphabet’s (Google) rising costs. Dollar pairs are generally higher, but the start of the morning is the AUD/USD which is rallying strongly despite the RBA hinting that rates will be kept on hold for some time. 
+The dollar index is on the back foot this morning as US markets show concern over tech giant Alphabet’s (Google) rising costs. Dollar pairs are generally higher, but the star of the morning is the AUD/USD which is rallying strongly despite the RBA hinting that rates will be kept on hold for some time. 
 
-The EUR/USD are diverging, with the EUR/USD experiencing follow-on selling, while the GBP/USD makes small gains. The EUR/GBP is selling off as a result, erasing half of yesterday’s gains. 
+The EUR/USD is experiencing follow-on selling, while the GBP/USD makes small gains. The EUR/GBP is selling off as a result, erasing half of yesterday’s gains.
 
-The USD/CHF is continuing its upwards March, after challenging the January highs yesterday. 
+The USD/CHF is continuing its upwards February, after challenging the January highs yesterday. 
 
 The Canadian dollar is showing relative strength though, with the USD/CAD pulling back again to challenge support around 1.3100. 
 
-The USD/JPY closed the 2019 opening gap higher yesterday, with the pair closing just shy of 110.00. The AUD/JPY is pushing higher again, while the GBP/JPY and in particular the GBP/JPY struggle. 
+The USD/JPY closed the 2019 opening gap higher yesterday, with the pair closing just shy of 110.00. The AUD/JPY is pushing higher again, while the GBP/JPY and in particular the EUR/JPY struggle. 
 
 ## Coming up today
 
