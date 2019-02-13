@@ -17,7 +17,7 @@ The AUD/USD is out-performing, lifting off the 0.7050 level to erase most of yes
 
 The USD/CAD is reversing half of yesterday’s gains, falling below the troublesome 1.3300 level. 
 
-Meanwhile, the USD/CHF saw the biggest gains to test the 10.50 level from below the parity line. There were also gains for the EUR/CHF as the Swissy slipped back. 
+Meanwhile, the USD/CHF saw the biggest gains to test the 1.0050 level from below. There were also gains for the EUR/CHF as the Swissy slipped back. 
 
 The USD/JPY smashed through the 110.00 level to trade above 110.50 this morning. The EUR/JPY is making follow on gains, while the GBP/JPY is just about holding the 142.00 level. 
 
@@ -35,6 +35,6 @@ The US dollar is the power currency right now, helping the USD/JPY to push throu
 
 <img class="post-image" src="{{ site.url }}/images/feb-19/2019-02-12_06-20-20.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=111.00" target="_blank" rel="noopener noreferrer nofollow">There could be further upside from here and a good way to play this is a LOWER trade predicting that the USD/JPY will close above 111.00 in 14 days for a potential return of 155%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=111.00" target="_blank" rel="noopener noreferrer nofollow">There could be further upside from here and a good way to play this is a HIGHER trade predicting that the USD/JPY will close above 111.00 in 14 days for a potential return of 155%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/feb-19/2019-02-12_06-21-15.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
