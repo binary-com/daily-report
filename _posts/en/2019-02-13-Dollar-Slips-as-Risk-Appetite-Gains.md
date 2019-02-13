@@ -23,9 +23,11 @@ The USD/JPY is climbing for the fourth straight day, fuelled by traders shunning
 
 ## Coming up today
 
-Today, we have BOE governor Carney speaking at 13.00
+Today we have UK CPI, RPI and PPI at 09.30.
 
-Feb chair Powell is speaking at 17.45
+US CPI, building permits and unit labor cost index are at 13.30.
+
+FOMC member Harker speaks at 17.00.
 
 ## Trade Idea
 
