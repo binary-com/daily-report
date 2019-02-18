@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Feb 18th 2019: Risk Haven Assets Slip on China Talk Hopes"
+title: "Feb 18th 2019: Safe Haven Assets Slip on China Talk Hopes"
 language: en
 permalink: /en/Risk-Haven-Assets-Slip-on-China-Talk-Hopes-18-Feb-19/
 image: /images/feb-19/2019-02-18_06-33-13.jpg
@@ -35,4 +35,4 @@ Traders are taking money off the table with the dollar, while the Swiss franc al
 
 <a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCHF&formname=higherlower&duration_units=d&duration_amount=7&expiry_type=duration&amount=10&amount_type=stake&barrier=1.0025" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a LOWER trade predicting that the USD/CHF will close below 1.0025 in 14 days for a potential return of 101.50%.</a>
 
-<img class="post-image" src="{{ site.url }}/images/feb-19/2019-02-15_07-37-00.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
+<img class="post-image" src="{{ site.url }}/images/feb-19/en-18-feb-19.png" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
