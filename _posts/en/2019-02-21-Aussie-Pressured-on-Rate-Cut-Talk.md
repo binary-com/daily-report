@@ -5,11 +5,11 @@ language: en
 permalink: /en/Aussie-Pressured-on-Rate-Cut-Talk-21-Feb-19/
 image: /images/feb-19/2019-02-21_07-19-31.jpg
 subtitle: Aussie Pressured on Rate Cut Talk
-summary: "The Australian dollar is under scrutiny this morning, with the AUD/JPY falling 1.11% and the AUD/USD by just under 1.00%. The Aussie has now given back all the week’s losses against the dollar and yen. The Aussie is being hit by a Westpac report which predicts two rate cuts this year"
+summary: "The Australian dollar is under scrutiny this morning, with the AUD/JPY falling 1.11% and the AUD/USD by just under 1.00%. The Aussie has now given back all the week’s gains against the dollar and yen. The Aussie is being hit by a Westpac report which predicts two rate cuts this year"
 ---
 ## Morning Report: 07.00 London
 
-The Australian dollar is under scrutiny this morning, with the AUD/JPY falling 1.11% and the AUD/USD by just under 1.00%. The Aussie has now given back all the week’s losses against the dollar and yen. The Aussie is being hit by a Westpac report which predicts two rate cuts this year. In addition, there are reports that Chinese ports are blocking coal imports beyond a cap of 12m tonnes. 
+The Australian dollar is under scrutiny this morning, with the AUD/JPY falling 1.11% and the AUD/USD by just under 1.00%. The Aussie has now given back all the week’s gains against the dollar and yen. The Aussie is being hit by a Westpac report which predicts two rate cuts this year. In addition, there are reports that Chinese ports are blocking coal imports beyond a cap of 12m tonnes. 
 
 The dollar index is generally on the front foot after a mixed release of FOMC meeting minutes which hinted a dovish shift with potential rate cuts this year. The dollar is on the rise this morning after moderate selling yesterday. 
 
@@ -17,7 +17,7 @@ The EUR/USD is on the back foot, slipping below the 1.1350 level, while the GBP/
 
 The USD/CAD is making gains, following four days of losses. Meanwhile, the USD/CHF held the 1.000 level yesterday, with follow up buying this morning. 
 
-The USD/JPY is unchanged as the yen and euro cancel each other out. Other yen pairs are slightly negative, with the EUR/JPY and GBP/JPY making losses. 
+The USD/JPY is unchanged as the yen and dollar cancel each other out. Other yen pairs are slightly negative, with the EUR/JPY and GBP/JPY making losses. 
 
 ## Coming up today
 
