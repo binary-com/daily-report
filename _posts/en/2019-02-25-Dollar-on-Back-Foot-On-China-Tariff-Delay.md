@@ -5,11 +5,11 @@ language: en
 permalink: /en/Dollar-on-Back-Foot-On-China-Tariff-Delay-25-Feb-19/
 image: /images/feb-19/2019-02-25_06-52-52.jpg
 subtitle: Dollar on Back Foot On China Tariff Delay
-summary: "The dollar index and other risk-assets are on the back foot this morning as traders bet on a positive outcome for trade talks following Trumps offer to extend the latest round of deal making"
+summary: "The dollar index and other risk-free assets are on the back foot this morning as traders bet on a positive outcome for trade talks following Trumps offer to extend the latest round of deal making"
 ---
 ## Morning Report: 07.00 London
 
-The dollar index and other risk-assets are on the back foot this morning as traders bet on a positive outcome for trade talks following Trumps offer to extend the latest round of deal making. 
+The dollar index and other risk-free assets are on the back foot this morning as traders bet on a positive outcome for trade talks following Trumps offer to extend the latest round of deal making. 
 
 The dollar index gapped lower, helping the dollar pairs to gap higher as a consequence. The AUD/USD has gapped above 0.7150. The EUR/USD is slightly higher, and heading for a test of 1.1350. 
 
