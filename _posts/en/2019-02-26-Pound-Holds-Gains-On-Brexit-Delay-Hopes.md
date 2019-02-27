@@ -33,6 +33,6 @@ With yen demand weakening as global risk appetite increases, there could be furt
 
 <img class="post-image" src="{{ site.url }}/images/feb-19/2019-02-26_06-47-09.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=111.00" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the USD/JPY will close above 147.00 in 14 days for a potential return of 155%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=111.00" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the USD/JPY will close above 111.00 in 14 days for a potential return of 155%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/feb-19/2019-02-26_06-47-51.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
