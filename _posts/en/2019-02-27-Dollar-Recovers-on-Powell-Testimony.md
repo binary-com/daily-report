@@ -17,17 +17,13 @@ Other dollar pairs are on the back foot, with the AUD/USD slightly lower after f
 
 The USD/CAD is unchanged, while the USD/CHF is slightly higher and holding the 1.0000 level. 
 
-The USD/JPY reversed ground yesterday after failing at the 111.00 level. The AUD/JPY is lower for the second straight day, while the EUR/JPY is lower for the second straight day. 
+The USD/JPY reversed ground yesterday after failing at the 111.00 level. The AUD/JPY and EUR/JPY are lower for the second straight day.
 
 ## Coming up today
 
-Today, we have FOMC Member Clarida speaking at 13.00. 
+Today we have Canadian CPI at 13.30.
 
-At 13.30, we have Canadian current account, released alongside RMPI. 
-
-US advance GDP is at 13.30. 
-
-At 14.45, we have Chicago PMI. 
+US factory orders come in at 15.00, with crude oil inventories at 15.30. 
 
 ## Trade Idea
 
@@ -35,6 +31,6 @@ The GBP/JPY has the Brexit (avoidance) wind behind its sails, helping the pair t
 
 <img class="post-image" src="{{ site.url }}/images/feb-19/2019-02-27_06-34-29.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=149.50" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the GBP/JPY will close above 149.50 in 14 days for a potential return of 146%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxGBPJPY&formname=touchnotouch&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=149.50" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the GBP/JPY will touch 149.50 within the next 14 days for a potential return of 146%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/feb-19/2019-02-27_06-36-40.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
