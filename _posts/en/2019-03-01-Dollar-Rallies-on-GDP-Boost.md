@@ -39,6 +39,6 @@ Momentum is behind the US dollar index right now, while the yen is backing off. 
 
 <img class="post-image" src="{{ site.url }}/images/mar-19/2019-03-01_06-55-12.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=higherlower&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=127.50" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the USD/JPY will close above 127.50 in 14 days for a potential return of 124%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=higherlower&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=127.50" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the EUR/JPY will close above 127.50 in 14 days for a potential return of 124%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/mar-19/2019-03-01_06-57-12.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
