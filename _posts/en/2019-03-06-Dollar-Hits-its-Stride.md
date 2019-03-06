@@ -33,6 +33,6 @@ The Australian dollar has been hit hard by the twin threats of dollar strength a
 
 <img class="post-image" src="{{ site.url }}/images/mar-19/2019-03-06_06-45-21.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.7000" target="_blank" rel="noopener noreferrer nofollow">Further downside could be on the cards and a good way to play this is a LOWER trade predicting that the AUD/ USD will close below 0.7000 in 14 days for a potential return of 161%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=0.7000" target="_blank" rel="noopener noreferrer nofollow">Further downside could be on the cards and a good way to play this is a LOWER trade predicting that the AUD/USD will close below 0.7000 in 14 days for a potential return of 161%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/mar-19/2019-03-06_06-48-56.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
