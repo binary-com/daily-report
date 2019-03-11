@@ -11,11 +11,11 @@ summary: "The British pound remains under pressure as the official Brexit deadli
 
 The British pound remains under pressure as the official Brexit deadline approaches. Markets still believe there is an overwhelming chance that there will be an extension to allow further negotiation, but recent brinkmanship has not helped confidence in this area. 
 
-The GBP/USD gapped lower at the open this morning, following up on last week’s selling. The pair is now trading below 1.3000 for the first time since the middle of March. The GBP/JPY also gapped lower, but is performing slightly better and trading above the lows of the morning. The EUR/GBP has gapped higher at the open, building on Friday’s gains that take the pair above the February lows. 
+The GBP/USD gapped lower at the open this morning, following up on last week’s selling. The pair is now trading below 1.3000 for the first time since the middle of February. The GBP/JPY also gapped lower, but is performing slightly better and trading above the lows of the morning. The EUR/GBP has gapped higher at the open, building on Friday’s gains that take the pair above the February lows. 
 
 The euro itself is performing relatively well, with the EUR/USD erasing a third of last Thursday’s losses. The EUR/JPY is also climbing, though remains below resistance at 125.00. 
 
-The dollar is generally mixed, with the dollar index gapping above Friday’s close. Markets have come to terms with Friday’s disappointing Non Farm Payroll numbers. The AUD/USD took a step back at the open, but is now back to near the parity line. 
+The dollar is generally mixed, with the dollar index gapping above Friday’s close. Markets have come to terms with Friday’s disappointing Non Farm Payroll numbers. The AUD/USD took a step back at the open, but is now back to near 0.7050. 
 
 The USD/CAD is holding the support line around 1.3400 after gapping higher this morning. The USD/CHF remains below the parity line, though is making small gains so far this morning. 
 
