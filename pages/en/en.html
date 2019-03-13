@@ -11,7 +11,7 @@ image: /images/daily-market-report.png
 {% assign rPosts = site.posts | where: "language", "en" %}
 {% for post in rPosts limit:1 %}
     <div class="post-content">
-        <h1 >{{ post.subtitle }}<span class="font-s ft-400 darkGray">{{ post.date | date_to_long_string }} by Albert Jonathan GitHub</span></h1>
+        <h1 >{{ post.subtitle }}<span class="font-s ft-400 darkGray">{{ post.date | date_to_long_string }} by Dave Evans</span></h1>
         {{ post.content }}
     </div>   
 {% endfor %}
