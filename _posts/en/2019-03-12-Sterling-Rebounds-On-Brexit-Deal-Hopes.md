@@ -19,15 +19,15 @@ The EUR/USD is following a similar pattern, with follow on buying yesterday that
 
 The dollar index is performing better this morning, with the USD/CAD nudging back above 1.3400 today after two days of losses. 
 
-The USD/CHF continues to perform well though, rising again above the 1.1000 level and holding so far. 
+The USD/CHF continues to perform well though, rising again above the 1.0100 level and holding so far. 
 
-Yen pairs are mixed, with the USD/JPY holding above 111.00. The AUD/JPY is falling back slightly, but holding above the 78.00 level. The EUR/JPY rebounded above the 1250.00. 
+Yen pairs are mixed, with the USD/JPY holding above 111.00. The AUD/JPY is falling back slightly, but holding above the 78.00 level. The EUR/JPY rebounded above the 125.00. 
 
 ## Coming up today
 
 Today, we have UK GDP at 09.30, with Manufacturing Production at the same time. 
 
-US CPI and CPI are at 12.30. 
+US CPI and core CPI are at 12.30. 
 
 US FOMC member Brainard speaks at 12.45. 
 
