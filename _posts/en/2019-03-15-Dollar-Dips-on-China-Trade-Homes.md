@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "March 15th 2019: Dollar Dips on China Trade Homes"
+title: "March 15th 2019: Dollar Dips on China Trade Hopes"
 language: en
-permalink: /en/Dollar-Dips-on-China-Trade-Homes-15-Mar-19/
+permalink: /en/Dollar-Dips-on-China-Trade-Hopes-15-Mar-19/
 image: /images/mar-19/2019-03-15_06-10-24.jpg
-subtitle: Dollar Dips on China Trade Homes
+subtitle: Dollar Dips on China Trade Hopes
 summary: "The dollar is on the back foot this morning on confidence for a break through between China and the US. The dollar pairs are on the front foot, led by the AUD/USD which has made good yesterday’s losses on hopes for a China rebound as trade talks enter their final phase"
 ---
 ## Morning Report: 07.00 London
