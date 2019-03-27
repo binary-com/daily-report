@@ -33,6 +33,6 @@ Gold looks ever attractive in these uncertain times, pushing well above the Marc
 
 <img class="post-image" src="{{ site.url }}/images/mar-19/2019-03-26_07-08-51.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=1325" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that gold will close above $1325 in 25 days for a potential return of 140%.</a>
+<a href="%LINK%%?currency=GBP&market=commodities&underlying=frxXAUUSD&formname=higherlower&duration_units=d&duration_amount=14&expiry_type=duration&amount=10&amount_type=stake&barrier=1325" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that gold will close above $1325 in 14 days for a potential return of 140%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/mar-19/2019-03-26_07-11-35.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
