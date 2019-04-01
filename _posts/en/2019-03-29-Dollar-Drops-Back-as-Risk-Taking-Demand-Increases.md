@@ -5,7 +5,7 @@ language: en
 permalink: /en/Dollar-Drops-Back-as-Risk-Taking-Demand-Increases-29-Mar-19/
 image: /images/mar-19/2019-03-29_06-18-43.jpg
 subtitle: Dollar Drops Back as Risk Taking Demand Increases
-summary: "TThe dollar index is tucking back this morning after hitting their highest levels of the week last night. This comes as China trade talks advance and despite US GDP coming in below expectations. The AUD/USD is leading the charge after holding support around 0.7080"
+summary: "The dollar index is tucking back this morning after hitting their highest levels of the week last night. This comes as China trade talks advance and despite US GDP coming in below expectations. The AUD/USD is leading the charge after holding support around 0.7080"
 ---
 ## Morning Report: 07.00 London
 
