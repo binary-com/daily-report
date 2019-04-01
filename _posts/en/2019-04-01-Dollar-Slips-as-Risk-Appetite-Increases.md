@@ -15,15 +15,15 @@ The AUD/USD has jumped higher, gapping above the 0.7100 level as trader bet on C
 
 The EUR/USD has also gapped higher, interrupting last week’s bear trend that had pushed the pair towards the 1.1200 level. Instead, the 1.1250 is set to be challenged. The GBP/USD is also performing well as the 1.3000 support level held last week despite Brexit complications. The EUR/GBP gapped higher at the open, but is slipping back towards the unchanged level. 
 
-The USD/CAD slipped back to support around 1.3250 on Friday, but is holding unchanged this morning. By contrast the, USD/CHF continues to make erratic gains and holding above 0.9950. 
+The USD/CAD slipped back to support around 1.3350 on Friday, but is holding unchanged this morning. By contrast the, USD/CHF continues to make erratic gains and holding above 0.9950. 
 
-The USD/CHF has gapped higher, continuing last week’s moves and holding above 111.00. The AUD/JPY is taking a starring role, trading above support at 79.00. The GBP/JPY and EUR/JPY continue to rise after gapping higher. 
+The USD/JPY has gapped higher, continuing last week’s moves and holding above 111.00. The AUD/JPY is taking a starring role, trading above support at 79.00. The GBP/JPY and EUR/JPY continue to rise after gapping higher. 
 
 ## Coming up today
 
 Today, we have UK Manufacturing PMI at 08.30. 
 
-At 09.00, we have CPI flash estimate. 
+At 09.00, we have EU CPI flash estimate. 
 
 US retail sales are at 12.30. 
 
