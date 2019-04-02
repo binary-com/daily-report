@@ -11,9 +11,9 @@ summary: "This morning, the US dollar index is on the rise, despite below par IS
 
 This morning, the US dollar index is on the rise, despite below par ISM Manufacturing yesterday. 
 
-Dollar pairs are mixed, with the AUD/USD closing Monday’s opening gap lower and trading below 0.7100. This comes after the RBA opted to keep rates on hold at 1.50%. The EUR/USD is unchanged, after falling back to support at 1.1200 yesterday. Support is holding for now. 
+Dollar pairs are mixed, with the AUD/USD closing Monday’s opening higher gap lower and trading below 0.7100. This comes after the RBA opted to keep rates on hold at 1.50%. The EUR/USD is unchanged, after falling back to support at 1.1200 yesterday. Support is holding for now. 
 
-The GBP/USD is gaining in spite of volatility yesterday that say the pound close higher, but well below the highs after parliament opted to reject all Brexit options in an indicative vote. The pound is positive this morning, with the GBP/USD building on the wild gains yesterday. Support at 1.3000 is holding for now. The EUR/GBP is extending yesterday’s losses, but largely still remains within the same March range. The GBP/JPY is unchanged after making gains yesterday. 
+The GBP/USD is gaining in spite of volatility yesterday that saw the pound close higher, but well below the highs after parliament opted to reject all Brexit options in an indicative vote. The pound is positive this morning, with the GBP/USD building on the wild gains yesterday. Support at 1.3000 is holding for now. The EUR/GBP is extending yesterday’s losses, but largely still remains within the same March range. The GBP/JPY is unchanged after making gains yesterday. 
 
 The USD/CAD is unchanged, with 1.3300 holding as support despite two days of previous losses. The USD/CHF is also nipping back after failing to break through the 1.0000 level in yesterday’s surge. 
 
