@@ -3,40 +3,34 @@ layout: post
 title: "April 2nd 2019: Dollar Gains Despite Poor Manufacturing Data"
 language: en
 permalink: /en/Dollar-Gains-Despite-Poor-Manufacturing-Data-02-Apr-19/
-image: /images/apr-19/2019-04-01_06-47-31.jpg
+image: /images/apr-19/2019-04-02_06-34-02.jpg
 subtitle: Dollar Gains Despite Poor Manufacturing Data
-summary: "The US dollar index is on the back foot, continuing Friday’s turnaround as the week starts with positive global sentiment. China Caixin PMI rose more than expected as the Chinese economy defies expectations"
+summary: "This morning, the US dollar index is on the rise, despite below par ISM Manufacturing yesterday. Dollar pairs are mixed, with the AUD/USD closing Monday’s opening gap lower and trading below 0.7100. This comes after the RBA opted to keep rates on hold at 1.50%"
 ---
 ## Morning Report: 07.00 London
 
-The US dollar index is on the back foot, continuing Friday’s turnaround as the week starts with positive global sentiment. China Caixin PMI rose more than expected as the Chinese economy defies expectations. 
+This morning, the US dollar index is on the rise, despite below par ISM Manufacturing yesterday. 
 
-The AUD/USD has jumped higher, gapping above the 0.7100 level as trader bet on China’s positivity boosting its trading partners. 
+Dollar pairs are mixed, with the AUD/USD closing Monday’s opening gap lower and trading below 0.7100. This comes after the RBA opted to keep rates on hold at 1.50%. The EUR/USD is unchanged, after falling back to support at 1.1200 yesterday. Support is holding for now. 
 
-The EUR/USD has also gapped higher, interrupting last week’s bear trend that had pushed the pair towards the 1.1200 level. Instead, the 1.1250 is set to be challenged. The GBP/USD is also performing well as the 1.3000 support level held last week despite Brexit complications. The EUR/GBP gapped higher at the open, but is slipping back towards the unchanged level. 
+The GBP/USD is gaining in spite of volatility yesterday that say the pound close higher, but well below the highs after parliament opted to reject all Brexit options in an indicative vote. The pound is positive this morning, with the GBP/USD building on the wild gains yesterday. Support at 1.3000 is holding for now. The EUR/GBP is extending yesterday’s losses, but largely still remains within the same March range. The GBP/JPY is unchanged after making gains yesterday. 
 
-The USD/CAD slipped back to support around 1.3350 on Friday, but is holding unchanged this morning. By contrast the, USD/CHF continues to make erratic gains and holding above 0.9950. 
+The USD/CAD is unchanged, with 1.3300 holding as support despite two days of previous losses. The USD/CHF is also nipping back after failing to break through the 1.0000 level in yesterday’s surge. 
 
-The USD/JPY has gapped higher, continuing last week’s moves and holding above 111.00. The AUD/JPY is taking a starring role, trading above support at 79.00. The GBP/JPY and EUR/JPY continue to rise after gapping higher. 
+Yen pairs are mixed, with the USD/JPY slipping back after yesterday’s rally that took the pair up to 111.45. The EUR/JPY is unchanged after failing to break 125.00 yesterday. The AUD/JPY is erasing yesterday’s gains and looking to close the Monday opening gap. 
 
 ## Coming up today
 
-Today, we have UK Manufacturing PMI at 08.30. 
+Today, we have the Australian annual budget release at 08.30. 
 
-At 09.00, we have EU CPI flash estimate. 
-
-US retail sales are at 12.30. 
-
-US ISM Manufacturing PMI is at 14.00. 
-
-BOC governor Poloz speaks at 18.55. 
+US core durable goods orders are at 12.30. 
 
 ## Trade Idea
 
-The EUR/JPY has gapped higher this morning, but the longer term trend still has a negative edge. The yen pairs have a positive edge this morning, but still remain vulnerable. The euro in particular has risks with Turkey wobbling.
+The AUD/JPY is struggling to build on Monday’s momentum after gapping higher after the RBA failed to rally markets.
 
-<img class="post-image" src="{{ site.url }}/images/apr-19/2019-04-01_06-47-31.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
+<img class="post-image" src="{{ site.url }}/images/apr-19/2019-04-02_06-34-02.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURJPY&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=124.00" target="_blank" rel="noopener noreferrer nofollow">Further downside is on the cards and a good way to play this is a LOWER trade predicting that the EUR/JPY will close below 124.00 in 14 days for a potential return of 215%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxAUDJPY&formname=touchnotouch&duration_amount=7&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=78.00" target="_blank" rel="noopener noreferrer nofollow">The gap is ripe for closure, with further selling possible. A good way to play this is a ONE TOUCH trade predicting that the AUD/JPY will touch 78.00 within 7 days for a potential return of 138%.</a>
 
-<img class="post-image" src="{{ site.url }}/images/apr-19/2019-04-01_06-50-49.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
+<img class="post-image" src="{{ site.url }}/images/apr-19/2019-04-02_06-36-19.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
