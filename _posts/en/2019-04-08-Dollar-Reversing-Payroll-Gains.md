@@ -13,7 +13,7 @@ This morning, the US dollar index is reversing Friday’s payrolls inspired gain
 
 The EUR/USD and GBP/USD are making gains as a result, with the EUR/USD rallying after holding the 1.1200 level. The GBP/USD is also reversing two days of heavy losses after holding the 1.3000 level on Friday. The EUR/GBP is on the back foot, but the pair remains broadly rangebound. 
 
-The AUD/USD is lower for the third day in a row though as the pair struggles to best last week’s highs. Another commodity driven pair, the USD/CAD is also bucking the wider trend, with the USD/JPY back up to unchanged after gapping lower at the open. 
+The AUD/USD is lower for the third day in a row though as the pair struggles to best last week’s highs. Another commodity driven pair, the USD/CAD is also bucking the wider trend, with the pair back up to unchanged after gapping lower at the open. 
 
 The USD/CHF is reversing steadily from the 1.0000 level after breaking above it on Friday. 
 
