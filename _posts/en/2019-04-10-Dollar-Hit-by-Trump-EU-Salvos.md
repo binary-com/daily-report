@@ -39,4 +39,4 @@ The euro has been struggling to lift off the lows and last summer’s highs rema
 
 <a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURUSD&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1200" target="_blank" rel="noopener noreferrer nofollow">A lower trade predicting that the EUR/USD will close below 1.1200 in 14 days, could return 254% if successful.</a>
 
-<img class="post-image" src="{{ site.url }}/images/apr-19/2019-04-10-09-15-50.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
+<img class="post-image" src="{{ site.url }}/images/apr-19/2019-04-10-09-15-50.png" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
