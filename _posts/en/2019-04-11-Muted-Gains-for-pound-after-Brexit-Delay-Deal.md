@@ -35,6 +35,6 @@ The Swiss franc is falling out of favour, while the euro is enjoying buying inte
 
 <img class="post-image" src="{{ site.url }}/images/apr-19/2019-04-11_06-51-00.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1350" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the EUR/JPY will close above 1.1350 in 14 days could return 183% if successful.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxEURCHF&formname=higherlower&duration_amount=14&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.1350" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a HIGHER trade predicting that the EUR/CHF will close above 1.1350 in 14 days could return 183% if successful.</a>
 
-<img class="post-image" src="{{ site.url }}/images/apr-19/2019-04-11_06-53-03.png" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
+<img class="post-image" src="{{ site.url }}/images/apr-19/2019-04-11_06-53-03.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
