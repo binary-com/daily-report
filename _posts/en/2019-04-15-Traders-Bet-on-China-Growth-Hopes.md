@@ -23,7 +23,7 @@ Yen pairs are mixed, with the USD/JPY slipping below the 112.00 level after hold
 
 ## Coming up today	
  
-At 12.30, we have FOMC member Evans speaking. 
+At 12.30, we have NY Empire State Manufacturing Index. 
 
 At 14.30, we have the BOC business outlook survey. 
 
