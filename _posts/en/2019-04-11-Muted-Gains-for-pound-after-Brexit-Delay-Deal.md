@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "April 11th 2019: Muted Gains for pound after Brexit Delay Deal"
+title: "April 11th 2019: Muted Gains for Pound after Brexit Delay Deal"
 language: en
 permalink: /en/Muted-Gains-for-pound-after-Brexit-Delay-Deal-11-Apr-19/
 image: /images/apr-19/2019-04-11_06-51-00.jpg
