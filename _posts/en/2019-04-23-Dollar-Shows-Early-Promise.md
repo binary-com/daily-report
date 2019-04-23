@@ -9,15 +9,15 @@ summary: "After a long weekend for many parts of the world (especially Europe, m
 ---
 ## Morning Report: 07.00 London
 
-After a long weekend for many parts of the world (especially Europe, markets will return to normal trading volumes this morning. The US dollar index is making gains again after two days of small losses in thin trading. 
+After a long weekend for many parts of the world (especially Europe), markets will return to normal trading volumes this morning. The US dollar index is making gains again after two days of small losses in thin trading. 
 
-Oil prices continue to hold their recent rally but this isn’t helping commodity currencies such as the AUD/ USD which is slipping lower for the second straight day. The pair firmly rejected the resistance line at 0.7200. Similarly, the USD/CAD is making small gains after losses yesterday that pushed the pair down below 1.3350. 
+Oil prices continue to hold their recent rally but this isn’t helping commodity currencies such as the AUD/USD which is slipping lower for the second straight day. The pair firmly rejected the resistance line at 0.7200. Similarly, the USD/CAD is making small gains after losses yesterday that pushed the pair down below 1.3350. 
 
 The EUR/USD is lower after two days of gains that ate somewhat into last Thursday’s slump. The pair is sitting just above support around 1.1250. 
 
 The GBP/USD is actually higher, but with thin gains that still put the pair below previous support at 1.3000. The EUR/GBP is slipping back to 0.8666, but holding above support at 0.8650. 
 
-The dollar’s recent outperformance is best seen against the Swiss franc, with the USD/CHF climbing and holding above support at 1.0150. The EUR/CHF is slipping back slightly, but holding the bulk of yesterday’s gains that have helped the pair to extend its winning run throughout April. 
+The dollar’s recent outperformance is best seen against the Swiss franc, with the USD/CHF climbing and holding above resistance at 1.0150. The EUR/CHF is slipping back slightly, but holding the bulk of yesterday’s gains that have helped the pair to extend its winning run throughout April. 
 
 Yen pairs are mixed, with the USD/JPY unchanged and trading below resistance at 112.00. The AUD/JPY is struggling and slipping below the 80.00 level for the second day in a row. The EUR/JPY is below support at 126.00, while the GBP/JPY is sliding for its fourth straight day. 
 
