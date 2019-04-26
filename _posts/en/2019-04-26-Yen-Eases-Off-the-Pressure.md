@@ -21,7 +21,7 @@ The USD/CAD is unchanged after failing to push through the 1.3500 level yesterda
 
 SNB Chairman Jordan speaks at 08.00. 
 
-US advance GDP Q/Q is released at 12.30, alongside advance GDP price index. 
+US advance GDP Q/Q is released at 12.30, alongside advance PCE price index. 
 
 Revised UoM consumer sentiment is at 14.00. 
 
