@@ -11,7 +11,7 @@ summary: "The US dollar has started the week on the back foot, potentially makin
 
 The US dollar has started the week on the back foot, potentially making it three straight days of backwards steps for the Greenback. Friday’s US non-farm payrolls could cement this trend. 
 
-Dollar pairs are consequently on the front foot, enjoying back to back gains. The AUD/USD is higher for the third straight day and leading the back with an opening gap higher. Meanwhile, the EUR/USD is building on Friday’s push about 1.1150, while the GBP/USD is climbing and continuing to hold the 1.2900 level. 
+Dollar pairs are consequently on the front foot, enjoying back to back gains. The AUD/USD is higher for the third straight day and leading the pack with an opening gap higher. Meanwhile, the EUR/USD is building on Friday’s push to about 1.1150, while the GBP/USD is climbing and continuing to hold the 1.2900 level. 
 
 The EUR/CHF has halted it’s decline and is holding the 1.1350 level, while the EUR/GBP is lower for the fourth straight day. 
 
@@ -21,17 +21,11 @@ The yen pairs are generally positive, with the USD/JPY slightly higher, but the 
 
 ## Coming up today	
 
-Today, we have preliminary flash GDP at 09.00. 
+Today, we have EU M3 money supply at 08.00.
 
-At 12.30, we get Canadian GDP, released alongside RMPI. 
+BOE governor Carney is speaking at 08.10.
 
-Chicago PMI is at 13.45. 
-
-US CB Consumer Confidence is at 14.00. 
-
-BOC governor Poloz speaks at 15.00. 
-
-New Zealand Employment data is at 22.45. 
+US PCE and personal spending data comes at 12.30.
 
 ## Trade Idea
 
