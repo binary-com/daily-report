@@ -11,7 +11,7 @@ summary: "The Japanese yen is in demand today on the day of the Emperor’s abdi
 
 The Japanese yen is in demand today on the day of the Emperor’s abdication. This comes after Chinese Manufacturing PMI and Chinese Caicin Manufacturing PMI both slumped below expectations, raising fears of a global economic slowdown. 
 
-The USD/JPY is reversing yesterday’s losses and is sitting below the 111.50 level. The EUR/JPY is also lower and eating into yesterday’s gains after failing to push through the 125.00 level last night. The GBP/JPY is also on the back foot after failing to break the 144.50 level. 
+The USD/JPY is reversing yesterday’s gains and is sitting below the 111.50 level. The EUR/JPY is also lower and eating into yesterday’s gains after failing to push through the 125.00 level last night. The GBP/JPY is also on the back foot after failing to break the 144.50 level. 
 
 The USD dollar index is continuing its decline despite the morning’s push for safe havens. Dollar pairs are mixed however, with the AUD/USD the worst performer so far, with the pair having tested both yesterday’s highs and lows. The EUR/USD is higher for the third day in a row after solid gains yesterday. The GBP/USD is also higher for the third day in a row, with the 1.2950 level set for a challenge. 
 
