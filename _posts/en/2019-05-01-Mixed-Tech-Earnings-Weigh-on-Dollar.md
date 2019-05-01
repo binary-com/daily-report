@@ -39,6 +39,6 @@ The USD/CAD’s downswing is worth noting as there is significant support around
 
 <img class="post-image" src="{{ site.url }}/images/may-19/2019-05-01_06-34-19.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
-<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=touchnotouch&duration_amount=7&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.3276" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the USD/ CAD will touch 1.3276 within the next 7 days for a potential return of 123%.</a>
+<a href="%LINK%%?currency=GBP&market=forex&underlying=frxUSDCAD&formname=touchnotouch&duration_amount=7&duration_units=d&amount=10&amount_type=stake&expiry_type=duration&barrier=1.3276" target="_blank" rel="noopener noreferrer nofollow">A good way to play this is a ONE TOUCH trade predicting that the USD/CAD will touch 1.3276 within the next 7 days for a potential return of 123%.</a>
 
 <img class="post-image" src="{{ site.url }}/images/may-19/2019-05-01_06-30-58.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
