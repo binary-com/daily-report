@@ -17,7 +17,7 @@ The EUR/USD was volatile, closing well below the day’s highs, but only slightl
 
 The EUR/GBP reversed below the 0.8600 level yesterday as the pound out-performed the euro. The GBP/USD itself held up relatively well, posting gains while other dollar pairs reversed and is unchanged this morning. 
 
-The USD/CAD saw some of the biggest gains yesterday, reversing most of Monday’s losses, with small buying this morning. 
+The USD/CAD saw some of the biggest gains yesterday, reversing most of Tuesday’s losses, with small buying this morning. 
 
 The USD/CHF remains rangebound, dropping below 1.0150 yesterday, but ultimately closing only slightly below 1.0200. 
 
