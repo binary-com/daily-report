@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "May 8th 2019: Markets Shrug Off RBZN Rate Cut"
+title: "May 8th 2019: Markets Shrug Off RBNZ Rate Cut"
 language: en
-permalink: /en/Markets-Shrug-Off-RBZN-Rate-Cut-08-May-19/
+permalink: /en/Markets-Shrug-Off-RBNZ-Rate-Cut-08-May-19/
 image: /images/may-19/2019-05-08_06-29-34.jpg
-subtitle: Markets Shrug Off RBZN Rate Cut
+subtitle: Markets Shrug Off RBNZ Rate Cut
 summary: "This morning, the dollar index is on the back foot despite the RBNZ cutting rates and sending the NZD/USD plunging in the early hours of this morning. Since then, the Kiwi has recovered most of these losses, while the dollar index has lost ground and is challenging the week’s lows"
 ---
 ## Morning Report: 07.00 London
