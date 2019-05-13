@@ -5,7 +5,7 @@ language: en
 permalink: /en/Safe-Havens-Gain-as-Trade-War-Gap-Widens-13-May-19/
 image: /images/may-19/2019-05-13_07-24-03.jpg
 subtitle: Safe Havens Gain as Trade War Gap Widens
-summary: "This morning, the Japanese yen and Swiss franc are strong as safe havens rise in demand. The China-US trade deal differences appear to be widening despite Trump’s reassurances. US CPI also came in below estimates on Friday"
+summary: "This morning, the Japanese yen and Swiss franc are strong as safe havens rise in demand. The China-US trade deal differences appear to be widening despite Trump’s reassurances. US CPI also came in below estimates on Friday. The USD/JPY has gapped below 110.00 to trade at 109.70 this morning"
 ---
 ## Morning Report: 07.00 London
 
