@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10th 2019: Yen Extends Gains on Trump Trade War"
+title: "10th May 2019: Yen Extends Gains on Trump Trade War"
 language: en
 permalink: /en/Yen-Extends-Gains-on-Trump-Trade-War-10-May-19/
 image: /images/may-19/2019-05-10_06-31-53.jpg
