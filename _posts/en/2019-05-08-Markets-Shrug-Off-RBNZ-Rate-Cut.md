@@ -17,7 +17,7 @@ The EUR/USD has been mixed and remains rangebound, despite gains this morning th
 
 The USD/CAD is on the back foot, but rangebound as the highs still remain within sight. It’s a similar story with the USD/CHF with the 1.0200 level acting as a price magnet despite selling pressure this morning. 
 
-Yen pairs are showing a clearer trend as the USD/JPY drops heavily below support at 110.00. The AUD/ JPY is lower and trading below Monday’s opening gap lower. Meanwhile, the EUR/JPY continues to decline, trading at its lowest levels since the start of the year. The GBP/JPY is also struggling as it sits below support at 144.00. 
+Yen pairs are showing a clearer trend as the USD/JPY drops heavily below support at 110.00. The AUD/JPY is lower and trading below Monday’s opening gap lower. Meanwhile, the EUR/JPY continues to decline, trading at its lowest levels since the start of the year. The GBP/JPY is also struggling as it sits below support at 144.00. 
 
 ## Coming up today	
 
