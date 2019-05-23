@@ -17,7 +17,7 @@ The dollar index is challenging the highs as traders seek out safe havens despit
 
 After an opening gap higher, the AUD/USD is extending its losing run, with the lows below 0.6886 the next test. The EUR/USD is struggling to hold the 1.1150 support level. 
 
-The USD/JPY is on the back foot as the dollar loses ground to the safe haven yen. The EUR/JPY is erasing most of yesterday’s gains, while the EUR/JPY is back below 76.00. 
+The USD/JPY is on the back foot as the dollar loses ground to the safe haven yen. The EUR/JPY is erasing most of yesterday’s gains, while the AUD/JPY is back below 76.00. 
 
 ## Coming up today	
 
@@ -31,7 +31,7 @@ The latest FOMC meeting minutes are at 18.00.
 
 ## Trade Idea
 
-The AUD/ JPY is in a difficult position, with the weakening Aussie, meeting the strengthening yen.
+The AUD/JPY is in a difficult position, with the weakening Aussie, meeting the strengthening yen.
 
 <img class="post-image" src="{{ site.url }}/images/may-19/2019-05-22_07-03-49.jpg" alt="{{ page.subtitle }}" title="{{ page.subtitle }}">
 
