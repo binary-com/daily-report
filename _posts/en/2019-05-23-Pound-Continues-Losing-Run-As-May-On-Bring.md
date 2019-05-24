@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "May 23rd 2019: Pound Continues Losing Run As May On Bring"
+title: "May 23rd 2019: Pound Continues Losing Run As May On Brink"
 language: en
-permalink: /en/Pound-Continues-Losing-Run-As-May-On-Bring-23-May-19/
+permalink: /en/Pound-Continues-Losing-Run-As-May-On-Brink-23-May-19/
 image: /images/may-19/2019-05-23_06-41-49.jpg
-subtitle: Pound Continues Losing Run As May On Bring
+subtitle: Pound Continues Losing Run As May On Brink
 summary: "This morning, the British pound is extending its record losing run against the euro as May’s Premiership teeters on the brink. The EUR/GBP reversed early losses yesterday, with follow-on buying today as the pair holds above 0.8800"
 ---
 ## Morning Report: 07.00 London
